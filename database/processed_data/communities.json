@@ -1,0 +1,803 @@
+[
+    {
+        "id": "83f25cfc-f55f-4fe0-8ba5-2aca05b865b0",
+        "name": "Neural Squad",
+        "bio": "A Stanford student-led group focused on career and peer connection.",
+        "tags": [
+            "fun",
+            "academic",
+            "tech",
+            "arts"
+        ],
+        "created_at": "2025-04-21T03:45:48.438614",
+        "creator_id": "ca1c9e8b-785e-43ee-94c2-aa294ebfbe09",
+        "address": "Main Quad"
+    },
+    {
+        "id": "9273f472-23f2-4157-9bfe-d9eb68ac7c3c",
+        "name": "Treehouse Collective",
+        "bio": "A Stanford student-led group focused on music and peer connection.",
+        "tags": [
+            "fun",
+            "wellness",
+            "activism"
+        ],
+        "created_at": "2025-04-21T03:45:48.438956",
+        "creator_id": "f2f2fc2e-7a11-46e1-8336-cbfdcb5e732b",
+        "address": "Old Union"
+    },
+    {
+        "id": "20c6bf06-a67c-4edd-a378-43f4a27740b9",
+        "name": "Solar Circle",
+        "bio": "A Stanford student-led group focused on music and peer connection.",
+        "tags": [
+            "wellness",
+            "tech"
+        ],
+        "created_at": "2025-04-21T03:45:48.439284",
+        "creator_id": "dac1712b-e492-4a37-8358-8670638ce1a3",
+        "address": "Old Union"
+    },
+    {
+        "id": "452b46f9-4610-4b34-bf53-584d3193d17d",
+        "name": "Axess Society",
+        "bio": "A Stanford student-led group focused on tech and peer connection.",
+        "tags": [
+            "career",
+            "music",
+            "social"
+        ],
+        "created_at": "2025-04-21T03:45:48.439402",
+        "creator_id": "2ccf2c46-19d7-4432-81ea-6babf15b75fe",
+        "address": "EVGR B Courtyard"
+    },
+    {
+        "id": "2d59a720-5234-4235-b9be-ebd8d38ae339",
+        "name": "Stanford Squad",
+        "bio": "A Stanford student-led group focused on arts and peer connection.",
+        "tags": [
+            "activism",
+            "career",
+            "social"
+        ],
+        "created_at": "2025-04-21T03:45:48.439509",
+        "creator_id": "f95dcf98-876b-454e-a8a2-d601ed90a644",
+        "address": "Old Union"
+    },
+    {
+        "id": "a48721e4-97af-4dd7-818c-6918a0b8302a",
+        "name": "Bay Society",
+        "bio": "A Stanford student-led group focused on music and peer connection.",
+        "tags": [
+            "sports",
+            "career"
+        ],
+        "created_at": "2025-04-21T03:45:48.439576",
+        "creator_id": "07d55d35-5f81-4f6a-b9ee-344a80f9490f",
+        "address": "Lathrop Library"
+    },
+    {
+        "id": "b467a6bc-c212-44b2-9aa4-420335ed7143",
+        "name": "Solar Society",
+        "bio": "A Stanford student-led group focused on fun and peer connection.",
+        "tags": [
+            "wellness",
+            "fun",
+            "social"
+        ],
+        "created_at": "2025-04-21T03:45:48.439779",
+        "creator_id": "0f807d25-5eab-4bac-bead-0a99d377b4a4",
+        "address": "EVGR B Courtyard"
+    },
+    {
+        "id": "de7b2ec2-e0d1-4130-9bb8-85158f1b6e72",
+        "name": "Bay Collective",
+        "bio": "A Stanford student-led group focused on social and peer connection.",
+        "tags": [
+            "academic",
+            "sports",
+            "social",
+            "arts"
+        ],
+        "created_at": "2025-04-21T03:45:48.439908",
+        "creator_id": "e39e553a-53bc-42fb-aaa3-c040ba5ec51d",
+        "address": "Huang Basement"
+    },
+    {
+        "id": "29833b26-687b-4968-b20d-be0bb3de88df",
+        "name": "Quantum Crew",
+        "bio": "A Stanford student-led group focused on academic and peer connection.",
+        "tags": [
+            "sports",
+            "career",
+            "wellness",
+            "activism"
+        ],
+        "created_at": "2025-04-21T03:45:48.440004",
+        "creator_id": "cd716562-04c0-456a-8e7a-94a8165e0b40",
+        "address": "Lathrop Library"
+    },
+    {
+        "id": "efa9cda3-5c3c-4285-aa81-ebce5482c988",
+        "name": "Quantum Union",
+        "bio": "A Stanford student-led group focused on wellness and peer connection.",
+        "tags": [
+            "wellness",
+            "activism",
+            "social"
+        ],
+        "created_at": "2025-04-21T03:45:48.440119",
+        "creator_id": "558a8c18-67b4-471c-857e-306283a62157",
+        "address": "White Plaza"
+    },
+    {
+        "id": "8cf4ab00-b0a0-4666-a3de-6672559a4591",
+        "name": "Redwood Society",
+        "bio": "A Stanford student-led group focused on career and peer connection.",
+        "tags": [
+            "social",
+            "career"
+        ],
+        "created_at": "2025-04-21T03:45:48.443189",
+        "creator_id": "e6d6af42-4f52-485a-9cd5-42fb92989251",
+        "address": "Main Quad"
+    },
+    {
+        "id": "c8d9166a-d643-4300-b26f-35e032dc6aa1",
+        "name": "Bay Circle",
+        "bio": "A Stanford student-led group focused on academic and peer connection.",
+        "tags": [
+            "fun",
+            "academic",
+            "career"
+        ],
+        "created_at": "2025-04-21T03:45:48.443303",
+        "creator_id": "eb401505-a61f-411a-8652-66b56cc787dd",
+        "address": "Lathrop Library"
+    },
+    {
+        "id": "e31b5f7d-d03a-47eb-a587-7ef1491b198d",
+        "name": "Axess Squad",
+        "bio": "A Stanford student-led group focused on academic and peer connection.",
+        "tags": [
+            "music",
+            "activism",
+            "tech",
+            "fun"
+        ],
+        "created_at": "2025-04-21T03:45:48.443374",
+        "creator_id": "27c8c1a6-92a4-410a-be4f-e3ca4fb0bd57",
+        "address": "Huang Basement"
+    },
+    {
+        "id": "574e722d-8948-4278-b244-2edc61b47b34",
+        "name": "Treehouse Forum",
+        "bio": "A Stanford student-led group focused on career and peer connection.",
+        "tags": [
+            "tech",
+            "arts",
+            "academic",
+            "activism"
+        ],
+        "created_at": "2025-04-21T03:45:48.443999",
+        "creator_id": "c1b04ca6-f746-431a-90ac-6da645810fd6",
+        "address": "EVGR B Courtyard"
+    },
+    {
+        "id": "1ce1c628-3766-458e-bbad-f84bc70ae2c6",
+        "name": "Treehouse Guild",
+        "bio": "A Stanford student-led group focused on fun and peer connection.",
+        "tags": [
+            "tech",
+            "activism"
+        ],
+        "created_at": "2025-04-21T03:45:48.444093",
+        "creator_id": "420a2b70-1c0a-4356-a920-d4ed81a092db",
+        "address": "Old Union"
+    },
+    {
+        "id": "3c0dba12-d7c0-49e3-bf68-76d8af412e08",
+        "name": "Quantum Squad",
+        "bio": "A Stanford student-led group focused on activism and peer connection.",
+        "tags": [
+            "activism",
+            "music"
+        ],
+        "created_at": "2025-04-21T03:45:48.444147",
+        "creator_id": "da1b1c85-894e-4ece-abcd-8246031a092d",
+        "address": "Old Union"
+    },
+    {
+        "id": "d80602c8-6a3b-425e-b6f1-eac87a87d276",
+        "name": "Neural Crew",
+        "bio": "A Stanford student-led group focused on music and peer connection.",
+        "tags": [
+            "wellness",
+            "music",
+            "sports",
+            "academic"
+        ],
+        "created_at": "2025-04-21T03:45:48.444184",
+        "creator_id": "c99b838f-4dc4-4a31-a033-0f53b6d86371",
+        "address": "White Plaza"
+    },
+    {
+        "id": "dc50267a-c743-4456-a36e-9ba9bd8dd04e",
+        "name": "Axess Forum",
+        "bio": "A Stanford student-led group focused on academic and peer connection.",
+        "tags": [
+            "career",
+            "social",
+            "fun"
+        ],
+        "created_at": "2025-04-21T03:45:48.444224",
+        "creator_id": "6d648062-6836-42df-b54f-6e066d872b82",
+        "address": "EVGR B Courtyard"
+    },
+    {
+        "id": "dff00b14-3c93-433d-99ab-20169b620304",
+        "name": "Treehouse Society",
+        "bio": "A Stanford student-led group focused on academic and peer connection.",
+        "tags": [
+            "activism",
+            "career",
+            "tech",
+            "wellness"
+        ],
+        "created_at": "2025-04-21T03:45:48.444571",
+        "creator_id": "054681b2-e23f-42a3-85f3-ff327612d786",
+        "address": "Old Union"
+    },
+    {
+        "id": "745de45b-31cf-46c0-8707-e4c25d0a248e",
+        "name": "Redwood Squad",
+        "bio": "A Stanford student-led group focused on arts and peer connection.",
+        "tags": [
+            "music",
+            "sports",
+            "activism"
+        ],
+        "created_at": "2025-04-21T03:45:48.444755",
+        "creator_id": "fecab741-5157-4671-b783-374c33502019",
+        "address": "Old Union"
+    },
+    {
+        "id": "b788377f-ad90-49b0-95d0-610206e3f237",
+        "name": "Quantum Club",
+        "bio": "A Stanford student-led group focused on sports and peer connection.",
+        "tags": [
+            "fun",
+            "music"
+        ],
+        "created_at": "2025-04-21T03:45:48.444781",
+        "creator_id": "d8d40820-f645-4d83-814a-9806c9946c30",
+        "address": "EVGR B Courtyard"
+    },
+    {
+        "id": "05fbae68-a7f1-461c-8354-b6b75968294b",
+        "name": "Stanford Crew",
+        "bio": "A Stanford student-led group focused on career and peer connection.",
+        "tags": [
+            "arts",
+            "activism"
+        ],
+        "created_at": "2025-04-21T03:45:48.444825",
+        "creator_id": "33d1636e-4d5e-41fe-a857-5022baa86241",
+        "address": "Huang Basement"
+    },
+    {
+        "id": "c468e704-041a-48aa-9d9b-2415b9fbb40e",
+        "name": "Solar Union",
+        "bio": "A Stanford student-led group focused on music and peer connection.",
+        "tags": [
+            "fun",
+            "career",
+            "activism"
+        ],
+        "created_at": "2025-04-21T03:45:48.444901",
+        "creator_id": "cc0e0ac8-52dd-455b-99aa-bb62c61ffe96",
+        "address": "Main Quad"
+    },
+    {
+        "id": "985dda43-d1bb-47fd-96c4-2f842095174e",
+        "name": "Neural Society",
+        "bio": "A Stanford student-led group focused on sports and peer connection.",
+        "tags": [
+            "arts",
+            "music",
+            "sports",
+            "activism"
+        ],
+        "created_at": "2025-04-21T03:45:48.444940",
+        "creator_id": "a7fea676-bca1-4685-8b69-bf4bb115de34",
+        "address": "Lathrop Library"
+    },
+    {
+        "id": "364dd53b-5611-483b-ab71-42ef73946737",
+        "name": "Cardinal Club",
+        "bio": "A Stanford student-led group focused on music and peer connection.",
+        "tags": [
+            "wellness",
+            "fun"
+        ],
+        "created_at": "2025-04-21T03:45:48.445310",
+        "creator_id": "51e515af-f71a-4741-9fa9-db414c717ce3",
+        "address": "Main Quad"
+    },
+    {
+        "id": "6fe64deb-e271-411a-8758-792b0d3054d4",
+        "name": "Frosh Collective",
+        "bio": "A Stanford student-led group focused on academic and peer connection.",
+        "tags": [
+            "wellness",
+            "activism"
+        ],
+        "created_at": "2025-04-21T03:45:48.445468",
+        "creator_id": "e40313a2-5cd9-4745-ad40-1cde512ea5c8",
+        "address": "MemChu Steps"
+    },
+    {
+        "id": "7b17f08f-1b5b-47e4-abe5-2483f8654cc7",
+        "name": "Redwood Network",
+        "bio": "A Stanford student-led group focused on arts and peer connection.",
+        "tags": [
+            "fun",
+            "wellness",
+            "music",
+            "career"
+        ],
+        "created_at": "2025-04-21T03:45:48.445581",
+        "creator_id": "8320724c-f2e9-4b35-ab22-5dee95833646",
+        "address": "Old Union"
+    },
+    {
+        "id": "f025227e-583f-4d67-bff2-9ba75ad79838",
+        "name": "Stanford Network",
+        "bio": "A Stanford student-led group focused on tech and peer connection.",
+        "tags": [
+            "academic",
+            "sports",
+            "activism"
+        ],
+        "created_at": "2025-04-21T03:45:48.445733",
+        "creator_id": "97b847ef-e951-4f9d-ab0b-7c452eb901ac",
+        "address": "White Plaza"
+    },
+    {
+        "id": "5c32cbcf-5244-4c69-8f46-838bff8fe6d5",
+        "name": "Axess Crew",
+        "bio": "A Stanford student-led group focused on sports and peer connection.",
+        "tags": [
+            "social",
+            "wellness",
+            "tech"
+        ],
+        "created_at": "2025-04-21T03:45:48.445979",
+        "creator_id": "d7ebd2b1-bdec-40cf-ba93-3ffd0c70067f",
+        "address": "Lathrop Library"
+    },
+    {
+        "id": "2129f14f-303e-4d31-8865-11cadd841af8",
+        "name": "Frosh Network",
+        "bio": "A Stanford student-led group focused on fun and peer connection.",
+        "tags": [
+            "arts",
+            "tech",
+            "music"
+        ],
+        "created_at": "2025-04-21T03:45:48.446003",
+        "creator_id": "9f79a8ac-9ab1-40e6-91ad-dd3a63b5e208",
+        "address": "Main Quad"
+    },
+    {
+        "id": "c7fa1b92-f581-4bd0-b607-d22255629f0e",
+        "name": "Treehouse Circle",
+        "bio": "A Stanford student-led group focused on social and peer connection.",
+        "tags": [
+            "social",
+            "music",
+            "fun",
+            "academic"
+        ],
+        "created_at": "2025-04-21T03:45:48.446112",
+        "creator_id": "b96b3d68-7a2a-4528-84ee-027bc6d83cad",
+        "address": "MemChu Steps"
+    },
+    {
+        "id": "1d52312e-fd8e-4654-90a3-b35556ca40ba",
+        "name": "Stanford Society",
+        "bio": "A Stanford student-led group focused on social and peer connection.",
+        "tags": [
+            "fun",
+            "tech"
+        ],
+        "created_at": "2025-04-21T03:45:48.446177",
+        "creator_id": "94766040-b58e-4653-b3e9-6149cc667579",
+        "address": "Lathrop Library"
+    },
+    {
+        "id": "a7c7365f-cd57-415f-a9ab-223511ee64a9",
+        "name": "Quantum Forum",
+        "bio": "A Stanford student-led group focused on social and peer connection.",
+        "tags": [
+            "sports",
+            "tech",
+            "arts"
+        ],
+        "created_at": "2025-04-21T03:45:48.446250",
+        "creator_id": "582a3dba-dae1-4c5b-aa05-4a8d628119f2",
+        "address": "EVGR B Courtyard"
+    },
+    {
+        "id": "df67ea56-82d7-4d7f-88c5-a04d70ab2359",
+        "name": "Bay Squad",
+        "bio": "A Stanford student-led group focused on sports and peer connection.",
+        "tags": [
+            "activism",
+            "social"
+        ],
+        "created_at": "2025-04-21T03:45:48.446270",
+        "creator_id": "f48afcf5-731c-4e1f-9643-db7275653843",
+        "address": "White Plaza"
+    },
+    {
+        "id": "4993b1cf-e519-426e-bce1-938f6ef78c07",
+        "name": "Treehouse Squad",
+        "bio": "A Stanford student-led group focused on wellness and peer connection.",
+        "tags": [
+            "fun",
+            "arts",
+            "music",
+            "social"
+        ],
+        "created_at": "2025-04-21T03:45:48.446296",
+        "creator_id": "ae48770d-86dd-4f9f-b56b-1198370c8402",
+        "address": "White Plaza"
+    },
+    {
+        "id": "7cca4f6c-06dd-48bc-9466-ffe83013ce9e",
+        "name": "Stanford Forum",
+        "bio": "A Stanford student-led group focused on music and peer connection.",
+        "tags": [
+            "academic",
+            "wellness",
+            "career",
+            "social"
+        ],
+        "created_at": "2025-04-21T03:45:48.446353",
+        "creator_id": "68ece80c-ba34-4c5d-981c-3604240968e3",
+        "address": "Old Union"
+    },
+    {
+        "id": "dbf3d5ba-30f7-49ec-8eae-6f423a5cbe9c",
+        "name": "Bay Forum",
+        "bio": "A Stanford student-led group focused on tech and peer connection.",
+        "tags": [
+            "academic",
+            "sports",
+            "arts",
+            "activism"
+        ],
+        "created_at": "2025-04-21T03:45:48.446408",
+        "creator_id": "2034320e-6414-46fe-acf9-9c849f7de5f2",
+        "address": "Lathrop Library"
+    },
+    {
+        "id": "f2893407-e04d-4be4-b992-343c67a8539d",
+        "name": "Cardinal Squad",
+        "bio": "A Stanford student-led group focused on fun and peer connection.",
+        "tags": [
+            "sports",
+            "wellness",
+            "fun"
+        ],
+        "created_at": "2025-04-21T03:45:48.446533",
+        "creator_id": "50cfc6c4-3d71-4dd7-91f8-37c80263ad67",
+        "address": "Old Union"
+    },
+    {
+        "id": "df1c9229-239a-499a-99fd-fa34584682a1",
+        "name": "Solar Club",
+        "bio": "A Stanford student-led group focused on arts and peer connection.",
+        "tags": [
+            "social",
+            "activism",
+            "wellness",
+            "arts"
+        ],
+        "created_at": "2025-04-21T03:45:48.446635",
+        "creator_id": "43da8f07-1c17-47dd-a4ee-5f69f50b04e5",
+        "address": "EVGR B Courtyard"
+    },
+    {
+        "id": "d512e2ad-f538-4a60-b400-83e04684d4c3",
+        "name": "Treehouse Network",
+        "bio": "A Stanford student-led group focused on wellness and peer connection.",
+        "tags": [
+            "activism",
+            "wellness",
+            "tech",
+            "music"
+        ],
+        "created_at": "2025-04-21T03:45:48.446660",
+        "creator_id": "1c7b66a0-d059-4802-81a0-dc8cf6f1f1b9",
+        "address": "White Plaza"
+    },
+    {
+        "id": "2e94da09-eba2-4e90-b9e7-be60178552c6",
+        "name": "Cardinal Forum",
+        "bio": "A Stanford student-led group focused on social and peer connection.",
+        "tags": [
+            "career",
+            "social",
+            "wellness"
+        ],
+        "created_at": "2025-04-21T03:45:48.447023",
+        "creator_id": "d9a31eed-8ae9-4cf1-9b75-72531e772a0b",
+        "address": "Lathrop Library"
+    },
+    {
+        "id": "2f1aa073-bbf9-40f5-a397-4d00c1da72cd",
+        "name": "Axess Guild",
+        "bio": "A Stanford student-led group focused on music and peer connection.",
+        "tags": [
+            "wellness",
+            "tech",
+            "fun"
+        ],
+        "created_at": "2025-04-21T03:45:48.447171",
+        "creator_id": "310241f9-859c-49a4-ae9f-739bd958e9f0",
+        "address": "MemChu Steps"
+    },
+    {
+        "id": "32cb3536-b863-42de-9560-098c3b2de667",
+        "name": "Frosh Union",
+        "bio": "A Stanford student-led group focused on arts and peer connection.",
+        "tags": [
+            "fun",
+            "sports",
+            "tech"
+        ],
+        "created_at": "2025-04-21T03:45:48.447805",
+        "creator_id": "4e5c3d7b-2995-4532-b7f9-c48661cfe0fe",
+        "address": "Huang Basement"
+    },
+    {
+        "id": "68c876ca-8781-4f95-9160-e78c5d5d24ea",
+        "name": "Frosh Circle",
+        "bio": "A Stanford student-led group focused on sports and peer connection.",
+        "tags": [
+            "music",
+            "career",
+            "sports",
+            "fun"
+        ],
+        "created_at": "2025-04-21T03:45:48.449702",
+        "creator_id": "2f887e1e-0f13-4a51-b6fb-523a6df84139",
+        "address": "MemChu Steps"
+    },
+    {
+        "id": "7d76ea14-4d83-4409-9703-b10c178b5dd1",
+        "name": "Solar Network",
+        "bio": "A Stanford student-led group focused on tech and peer connection.",
+        "tags": [
+            "arts",
+            "social"
+        ],
+        "created_at": "2025-04-21T03:45:48.449817",
+        "creator_id": "f1ade8fe-a054-434e-a110-c052b04e253d",
+        "address": "Lathrop Library"
+    },
+    {
+        "id": "fb39f115-aec2-4c81-bdca-2dc06b16e06c",
+        "name": "Axess Club",
+        "bio": "A Stanford student-led group focused on sports and peer connection.",
+        "tags": [
+            "tech",
+            "academic",
+            "sports",
+            "music"
+        ],
+        "created_at": "2025-04-21T03:45:48.449921",
+        "creator_id": "d5f4681b-d0d1-4182-a1ad-e0a51bcd5c8a",
+        "address": "Old Union"
+    },
+    {
+        "id": "aa976cb7-d123-4bc6-8afd-5244d6c63b81",
+        "name": "Solar Guild",
+        "bio": "A Stanford student-led group focused on tech and peer connection.",
+        "tags": [
+            "fun",
+            "music",
+            "career"
+        ],
+        "created_at": "2025-04-21T03:45:48.450179",
+        "creator_id": "321adec0-a7c0-4790-bc0a-5e72eb3d0b2c",
+        "address": "Main Quad"
+    },
+    {
+        "id": "df2f884c-0816-4bf4-8485-dec8c5efbc75",
+        "name": "Redwood Union",
+        "bio": "A Stanford student-led group focused on fun and peer connection.",
+        "tags": [
+            "social",
+            "music",
+            "activism"
+        ],
+        "created_at": "2025-04-21T03:45:48.450465",
+        "creator_id": "98629cc9-1470-4571-b32a-8c9cf9d45aab",
+        "address": "Lathrop Library"
+    },
+    {
+        "id": "5f8b1f4e-394b-45a2-9972-f0fa60a21c64",
+        "name": "Redwood Club",
+        "bio": "A Stanford student-led group focused on sports and peer connection.",
+        "tags": [
+            "career",
+            "activism",
+            "social",
+            "fun"
+        ],
+        "created_at": "2025-04-21T03:45:48.451016",
+        "creator_id": "fc04a38b-3f2e-47c3-ad13-ff47b0596091",
+        "address": "Lathrop Library"
+    },
+    {
+        "id": "a8ad21d6-7f22-49b5-92e3-45b42be8a073",
+        "name": "Bay Network",
+        "bio": "A Stanford student-led group focused on tech and peer connection.",
+        "tags": [
+            "career",
+            "fun",
+            "tech"
+        ],
+        "created_at": "2025-04-21T03:45:48.451044",
+        "creator_id": "d029f953-7004-4ca5-bd17-51d5eabe24b3",
+        "address": "Main Quad"
+    },
+    {
+        "id": "4b2f5621-37b6-4fc0-bc58-06cd679bcfb1",
+        "name": "Solar Collective",
+        "bio": "A Stanford student-led group focused on sports and peer connection.",
+        "tags": [
+            "sports",
+            "arts",
+            "tech",
+            "music"
+        ],
+        "created_at": "2025-04-21T03:45:48.451093",
+        "creator_id": "90ade07b-df1d-444b-871d-245a7c285f97",
+        "address": "Main Quad"
+    },
+    {
+        "id": "62f50119-55fa-4662-b393-14468806233e",
+        "name": "Cardinal Collective",
+        "bio": "A Stanford student-led group focused on social and peer connection.",
+        "tags": [
+            "academic",
+            "activism",
+            "wellness",
+            "social"
+        ],
+        "created_at": "2025-04-21T03:45:48.451313",
+        "creator_id": "c123bbd4-8fa3-48f4-b886-493725a55aac",
+        "address": "EVGR B Courtyard"
+    },
+    {
+        "id": "2ff203ec-f2dd-4676-ab3b-c7c0396ac1e7",
+        "name": "Redwood Circle",
+        "bio": "A Stanford student-led group focused on sports and peer connection.",
+        "tags": [
+            "fun",
+            "academic",
+            "arts",
+            "social"
+        ],
+        "created_at": "2025-04-21T03:45:48.451850",
+        "creator_id": "76f43565-1ee7-4eb4-ab6c-cdb7dd9474e3",
+        "address": "Main Quad"
+    },
+    {
+        "id": "11b3f0d4-5ace-46ff-8d56-65d414529c34",
+        "name": "Bay Guild",
+        "bio": "A Stanford student-led group focused on sports and peer connection.",
+        "tags": [
+            "activism",
+            "tech",
+            "music",
+            "career"
+        ],
+        "created_at": "2025-04-21T03:45:48.451925",
+        "creator_id": "4ea12cdd-1960-4c08-b718-cf7134253725",
+        "address": "Huang Basement"
+    },
+    {
+        "id": "5f4b9ecd-17fe-4607-bf2f-3d5f4e4cf7bc",
+        "name": "Redwood Guild",
+        "bio": "A Stanford student-led group focused on fun and peer connection.",
+        "tags": [
+            "sports",
+            "wellness",
+            "music"
+        ],
+        "created_at": "2025-04-21T03:45:48.452122",
+        "creator_id": "39efb40f-308f-4670-9eb3-8fd9f67edc18",
+        "address": "MemChu Steps"
+    },
+    {
+        "id": "5c8cd743-f49e-4f3c-ba85-3188bf0ad5c4",
+        "name": "Stanford Collective",
+        "bio": "A Stanford student-led group focused on tech and peer connection.",
+        "tags": [
+            "music",
+            "tech"
+        ],
+        "created_at": "2025-04-21T03:45:48.452303",
+        "creator_id": "9dc08a23-0cbf-46d3-b577-d73f08437152",
+        "address": "Huang Basement"
+    },
+    {
+        "id": "d604e620-e550-4332-828f-6860340792ba",
+        "name": "Redwood Forum",
+        "bio": "A Stanford student-led group focused on tech and peer connection.",
+        "tags": [
+            "fun",
+            "tech",
+            "sports",
+            "activism"
+        ],
+        "created_at": "2025-04-21T03:45:48.452343",
+        "creator_id": "054681b2-e23f-42a3-85f3-ff327612d786",
+        "address": "EVGR B Courtyard"
+    },
+    {
+        "id": "d3a195c0-f2f5-497a-8e2c-cce1e64c8d50",
+        "name": "Neural Circle",
+        "bio": "A Stanford student-led group focused on career and peer connection.",
+        "tags": [
+            "sports",
+            "arts"
+        ],
+        "created_at": "2025-04-21T03:45:48.452413",
+        "creator_id": "af1ac9bd-62af-4234-b7a2-3d347dd65d13",
+        "address": "Old Union"
+    },
+    {
+        "id": "1016e15a-e708-4548-968d-8518f1a5543f",
+        "name": "Axess Network",
+        "bio": "A Stanford student-led group focused on academic and peer connection.",
+        "tags": [
+            "arts",
+            "wellness"
+        ],
+        "created_at": "2025-04-21T03:45:48.452433",
+        "creator_id": "2073ccfe-f0ec-430b-b209-d4aa274b77da",
+        "address": "White Plaza"
+    },
+    {
+        "id": "df05b3c1-24a7-4331-b667-c7ee9ad6e92b",
+        "name": "Neural Club",
+        "bio": "A Stanford student-led group focused on social and peer connection.",
+        "tags": [
+            "arts",
+            "fun",
+            "sports"
+        ],
+        "created_at": "2025-04-21T03:45:48.452534",
+        "creator_id": "821d0a8c-bcff-4ebe-8b6f-77444c6583c5",
+        "address": "White Plaza"
+    },
+    {
+        "id": "b6d6a473-fe1d-4b68-961e-fe0a26c306bb",
+        "name": "Neural Collective",
+        "bio": "A Stanford student-led group focused on fun and peer connection.",
+        "tags": [
+            "tech",
+            "arts",
+            "music"
+        ],
+        "created_at": "2025-04-21T03:45:48.452661",
+        "creator_id": "dafac345-d6ff-4854-8aae-66e8e21ef33c",
+        "address": "MemChu Steps"
+    }
+]

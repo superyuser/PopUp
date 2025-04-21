@@ -9,7 +9,7 @@
             "tech",
             "arts"
         ],
-        "created_at": "2025-04-21T03:45:48.438614",
+        "created_at": "2025-04-21T03:45:48.438614+00:00",
         "creator_id": "ca1c9e8b-785e-43ee-94c2-aa294ebfbe09",
         "address": "Main Quad"
     },
@@ -22,7 +22,7 @@
             "wellness",
             "activism"
         ],
-        "created_at": "2025-04-21T03:45:48.438956",
+        "created_at": "2025-04-21T03:45:48.438956+00:00",
         "creator_id": "f2f2fc2e-7a11-46e1-8336-cbfdcb5e732b",
         "address": "Old Union"
     },
@@ -34,7 +34,7 @@
             "wellness",
             "tech"
         ],
-        "created_at": "2025-04-21T03:45:48.439284",
+        "created_at": "2025-04-21T03:45:48.439284+00:00",
         "creator_id": "dac1712b-e492-4a37-8358-8670638ce1a3",
         "address": "Old Union"
     },
@@ -47,7 +47,7 @@
             "music",
             "social"
         ],
-        "created_at": "2025-04-21T03:45:48.439402",
+        "created_at": "2025-04-21T03:45:48.439402+00:00",
         "creator_id": "2ccf2c46-19d7-4432-81ea-6babf15b75fe",
         "address": "EVGR B Courtyard"
     },
@@ -60,7 +60,7 @@
             "career",
             "social"
         ],
-        "created_at": "2025-04-21T03:45:48.439509",
+        "created_at": "2025-04-21T03:45:48.439509+00:00",
         "creator_id": "f95dcf98-876b-454e-a8a2-d601ed90a644",
         "address": "Old Union"
     },
@@ -72,7 +72,7 @@
             "sports",
             "career"
         ],
-        "created_at": "2025-04-21T03:45:48.439576",
+        "created_at": "2025-04-21T03:45:48.439576+00:00",
         "creator_id": "07d55d35-5f81-4f6a-b9ee-344a80f9490f",
         "address": "Lathrop Library"
     },
@@ -85,7 +85,7 @@
             "fun",
             "social"
         ],
-        "created_at": "2025-04-21T03:45:48.439779",
+        "created_at": "2025-04-21T03:45:48.439779+00:00",
         "creator_id": "0f807d25-5eab-4bac-bead-0a99d377b4a4",
         "address": "EVGR B Courtyard"
     },
@@ -99,7 +99,7 @@
             "social",
             "arts"
         ],
-        "created_at": "2025-04-21T03:45:48.439908",
+        "created_at": "2025-04-21T03:45:48.439908+00:00",
         "creator_id": "e39e553a-53bc-42fb-aaa3-c040ba5ec51d",
         "address": "Huang Basement"
     },
@@ -113,7 +113,7 @@
             "wellness",
             "activism"
         ],
-        "created_at": "2025-04-21T03:45:48.440004",
+        "created_at": "2025-04-21T03:45:48.440004+00:00",
         "creator_id": "cd716562-04c0-456a-8e7a-94a8165e0b40",
         "address": "Lathrop Library"
     },
@@ -126,7 +126,7 @@
             "activism",
             "social"
         ],
-        "created_at": "2025-04-21T03:45:48.440119",
+        "created_at": "2025-04-21T03:45:48.440119+00:00",
         "creator_id": "558a8c18-67b4-471c-857e-306283a62157",
         "address": "White Plaza"
     },
@@ -138,7 +138,7 @@
             "social",
             "career"
         ],
-        "created_at": "2025-04-21T03:45:48.443189",
+        "created_at": "2025-04-21T03:45:48.443189+00:00",
         "creator_id": "e6d6af42-4f52-485a-9cd5-42fb92989251",
         "address": "Main Quad"
     },
@@ -151,7 +151,7 @@
             "academic",
             "career"
         ],
-        "created_at": "2025-04-21T03:45:48.443303",
+        "created_at": "2025-04-21T03:45:48.443303+00:00",
         "creator_id": "eb401505-a61f-411a-8652-66b56cc787dd",
         "address": "Lathrop Library"
     },
@@ -165,7 +165,7 @@
             "tech",
             "fun"
         ],
-        "created_at": "2025-04-21T03:45:48.443374",
+        "created_at": "2025-04-21T03:45:48.443374+00:00",
         "creator_id": "27c8c1a6-92a4-410a-be4f-e3ca4fb0bd57",
         "address": "Huang Basement"
     },
@@ -179,7 +179,7 @@
             "academic",
             "activism"
         ],
-        "created_at": "2025-04-21T03:45:48.443999",
+        "created_at": "2025-04-21T03:45:48.443999+00:00",
         "creator_id": "c1b04ca6-f746-431a-90ac-6da645810fd6",
         "address": "EVGR B Courtyard"
     },
@@ -191,7 +191,7 @@
             "tech",
             "activism"
         ],
-        "created_at": "2025-04-21T03:45:48.444093",
+        "created_at": "2025-04-21T03:45:48.444093+00:00",
         "creator_id": "420a2b70-1c0a-4356-a920-d4ed81a092db",
         "address": "Old Union"
     },
@@ -203,7 +203,7 @@
             "activism",
             "music"
         ],
-        "created_at": "2025-04-21T03:45:48.444147",
+        "created_at": "2025-04-21T03:45:48.444147+00:00",
         "creator_id": "da1b1c85-894e-4ece-abcd-8246031a092d",
         "address": "Old Union"
     },
@@ -217,7 +217,7 @@
             "sports",
             "academic"
         ],
-        "created_at": "2025-04-21T03:45:48.444184",
+        "created_at": "2025-04-21T03:45:48.444184+00:00",
         "creator_id": "c99b838f-4dc4-4a31-a033-0f53b6d86371",
         "address": "White Plaza"
     },
@@ -230,7 +230,7 @@
             "social",
             "fun"
         ],
-        "created_at": "2025-04-21T03:45:48.444224",
+        "created_at": "2025-04-21T03:45:48.444224+00:00",
         "creator_id": "6d648062-6836-42df-b54f-6e066d872b82",
         "address": "EVGR B Courtyard"
     },
@@ -244,7 +244,7 @@
             "tech",
             "wellness"
         ],
-        "created_at": "2025-04-21T03:45:48.444571",
+        "created_at": "2025-04-21T03:45:48.444571+00:00",
         "creator_id": "054681b2-e23f-42a3-85f3-ff327612d786",
         "address": "Old Union"
     },
@@ -257,7 +257,7 @@
             "sports",
             "activism"
         ],
-        "created_at": "2025-04-21T03:45:48.444755",
+        "created_at": "2025-04-21T03:45:48.444755+00:00",
         "creator_id": "fecab741-5157-4671-b783-374c33502019",
         "address": "Old Union"
     },
@@ -269,7 +269,7 @@
             "fun",
             "music"
         ],
-        "created_at": "2025-04-21T03:45:48.444781",
+        "created_at": "2025-04-21T03:45:48.444781+00:00",
         "creator_id": "d8d40820-f645-4d83-814a-9806c9946c30",
         "address": "EVGR B Courtyard"
     },
@@ -281,7 +281,7 @@
             "arts",
             "activism"
         ],
-        "created_at": "2025-04-21T03:45:48.444825",
+        "created_at": "2025-04-21T03:45:48.444825+00:00",
         "creator_id": "33d1636e-4d5e-41fe-a857-5022baa86241",
         "address": "Huang Basement"
     },
@@ -294,7 +294,7 @@
             "career",
             "activism"
         ],
-        "created_at": "2025-04-21T03:45:48.444901",
+        "created_at": "2025-04-21T03:45:48.444901+00:00",
         "creator_id": "cc0e0ac8-52dd-455b-99aa-bb62c61ffe96",
         "address": "Main Quad"
     },
@@ -308,7 +308,7 @@
             "sports",
             "activism"
         ],
-        "created_at": "2025-04-21T03:45:48.444940",
+        "created_at": "2025-04-21T03:45:48.44494+00:00",
         "creator_id": "a7fea676-bca1-4685-8b69-bf4bb115de34",
         "address": "Lathrop Library"
     },
@@ -320,7 +320,7 @@
             "wellness",
             "fun"
         ],
-        "created_at": "2025-04-21T03:45:48.445310",
+        "created_at": "2025-04-21T03:45:48.44531+00:00",
         "creator_id": "51e515af-f71a-4741-9fa9-db414c717ce3",
         "address": "Main Quad"
     },
@@ -332,7 +332,7 @@
             "wellness",
             "activism"
         ],
-        "created_at": "2025-04-21T03:45:48.445468",
+        "created_at": "2025-04-21T03:45:48.445468+00:00",
         "creator_id": "e40313a2-5cd9-4745-ad40-1cde512ea5c8",
         "address": "MemChu Steps"
     },
@@ -346,7 +346,7 @@
             "music",
             "career"
         ],
-        "created_at": "2025-04-21T03:45:48.445581",
+        "created_at": "2025-04-21T03:45:48.445581+00:00",
         "creator_id": "8320724c-f2e9-4b35-ab22-5dee95833646",
         "address": "Old Union"
     },
@@ -359,7 +359,7 @@
             "sports",
             "activism"
         ],
-        "created_at": "2025-04-21T03:45:48.445733",
+        "created_at": "2025-04-21T03:45:48.445733+00:00",
         "creator_id": "97b847ef-e951-4f9d-ab0b-7c452eb901ac",
         "address": "White Plaza"
     },
@@ -372,7 +372,7 @@
             "wellness",
             "tech"
         ],
-        "created_at": "2025-04-21T03:45:48.445979",
+        "created_at": "2025-04-21T03:45:48.445979+00:00",
         "creator_id": "d7ebd2b1-bdec-40cf-ba93-3ffd0c70067f",
         "address": "Lathrop Library"
     },
@@ -385,7 +385,7 @@
             "tech",
             "music"
         ],
-        "created_at": "2025-04-21T03:45:48.446003",
+        "created_at": "2025-04-21T03:45:48.446003+00:00",
         "creator_id": "9f79a8ac-9ab1-40e6-91ad-dd3a63b5e208",
         "address": "Main Quad"
     },
@@ -399,7 +399,7 @@
             "fun",
             "academic"
         ],
-        "created_at": "2025-04-21T03:45:48.446112",
+        "created_at": "2025-04-21T03:45:48.446112+00:00",
         "creator_id": "b96b3d68-7a2a-4528-84ee-027bc6d83cad",
         "address": "MemChu Steps"
     },
@@ -411,7 +411,7 @@
             "fun",
             "tech"
         ],
-        "created_at": "2025-04-21T03:45:48.446177",
+        "created_at": "2025-04-21T03:45:48.446177+00:00",
         "creator_id": "94766040-b58e-4653-b3e9-6149cc667579",
         "address": "Lathrop Library"
     },
@@ -424,7 +424,7 @@
             "tech",
             "arts"
         ],
-        "created_at": "2025-04-21T03:45:48.446250",
+        "created_at": "2025-04-21T03:45:48.44625+00:00",
         "creator_id": "582a3dba-dae1-4c5b-aa05-4a8d628119f2",
         "address": "EVGR B Courtyard"
     },
@@ -436,7 +436,7 @@
             "activism",
             "social"
         ],
-        "created_at": "2025-04-21T03:45:48.446270",
+        "created_at": "2025-04-21T03:45:48.44627+00:00",
         "creator_id": "f48afcf5-731c-4e1f-9643-db7275653843",
         "address": "White Plaza"
     },
@@ -450,7 +450,7 @@
             "music",
             "social"
         ],
-        "created_at": "2025-04-21T03:45:48.446296",
+        "created_at": "2025-04-21T03:45:48.446296+00:00",
         "creator_id": "ae48770d-86dd-4f9f-b56b-1198370c8402",
         "address": "White Plaza"
     },
@@ -464,7 +464,7 @@
             "career",
             "social"
         ],
-        "created_at": "2025-04-21T03:45:48.446353",
+        "created_at": "2025-04-21T03:45:48.446353+00:00",
         "creator_id": "68ece80c-ba34-4c5d-981c-3604240968e3",
         "address": "Old Union"
     },
@@ -478,7 +478,7 @@
             "arts",
             "activism"
         ],
-        "created_at": "2025-04-21T03:45:48.446408",
+        "created_at": "2025-04-21T03:45:48.446408+00:00",
         "creator_id": "2034320e-6414-46fe-acf9-9c849f7de5f2",
         "address": "Lathrop Library"
     },
@@ -491,7 +491,7 @@
             "wellness",
             "fun"
         ],
-        "created_at": "2025-04-21T03:45:48.446533",
+        "created_at": "2025-04-21T03:45:48.446533+00:00",
         "creator_id": "50cfc6c4-3d71-4dd7-91f8-37c80263ad67",
         "address": "Old Union"
     },
@@ -505,7 +505,7 @@
             "wellness",
             "arts"
         ],
-        "created_at": "2025-04-21T03:45:48.446635",
+        "created_at": "2025-04-21T03:45:48.446635+00:00",
         "creator_id": "43da8f07-1c17-47dd-a4ee-5f69f50b04e5",
         "address": "EVGR B Courtyard"
     },
@@ -519,7 +519,7 @@
             "tech",
             "music"
         ],
-        "created_at": "2025-04-21T03:45:48.446660",
+        "created_at": "2025-04-21T03:45:48.44666+00:00",
         "creator_id": "1c7b66a0-d059-4802-81a0-dc8cf6f1f1b9",
         "address": "White Plaza"
     },
@@ -532,7 +532,7 @@
             "social",
             "wellness"
         ],
-        "created_at": "2025-04-21T03:45:48.447023",
+        "created_at": "2025-04-21T03:45:48.447023+00:00",
         "creator_id": "d9a31eed-8ae9-4cf1-9b75-72531e772a0b",
         "address": "Lathrop Library"
     },
@@ -545,7 +545,7 @@
             "tech",
             "fun"
         ],
-        "created_at": "2025-04-21T03:45:48.447171",
+        "created_at": "2025-04-21T03:45:48.447171+00:00",
         "creator_id": "310241f9-859c-49a4-ae9f-739bd958e9f0",
         "address": "MemChu Steps"
     },
@@ -558,7 +558,7 @@
             "sports",
             "tech"
         ],
-        "created_at": "2025-04-21T03:45:48.447805",
+        "created_at": "2025-04-21T03:45:48.447805+00:00",
         "creator_id": "4e5c3d7b-2995-4532-b7f9-c48661cfe0fe",
         "address": "Huang Basement"
     },
@@ -572,7 +572,7 @@
             "sports",
             "fun"
         ],
-        "created_at": "2025-04-21T03:45:48.449702",
+        "created_at": "2025-04-21T03:45:48.449702+00:00",
         "creator_id": "2f887e1e-0f13-4a51-b6fb-523a6df84139",
         "address": "MemChu Steps"
     },
@@ -584,7 +584,7 @@
             "arts",
             "social"
         ],
-        "created_at": "2025-04-21T03:45:48.449817",
+        "created_at": "2025-04-21T03:45:48.449817+00:00",
         "creator_id": "f1ade8fe-a054-434e-a110-c052b04e253d",
         "address": "Lathrop Library"
     },
@@ -598,7 +598,7 @@
             "sports",
             "music"
         ],
-        "created_at": "2025-04-21T03:45:48.449921",
+        "created_at": "2025-04-21T03:45:48.449921+00:00",
         "creator_id": "d5f4681b-d0d1-4182-a1ad-e0a51bcd5c8a",
         "address": "Old Union"
     },
@@ -611,7 +611,7 @@
             "music",
             "career"
         ],
-        "created_at": "2025-04-21T03:45:48.450179",
+        "created_at": "2025-04-21T03:45:48.450179+00:00",
         "creator_id": "321adec0-a7c0-4790-bc0a-5e72eb3d0b2c",
         "address": "Main Quad"
     },
@@ -624,7 +624,7 @@
             "music",
             "activism"
         ],
-        "created_at": "2025-04-21T03:45:48.450465",
+        "created_at": "2025-04-21T03:45:48.450465+00:00",
         "creator_id": "98629cc9-1470-4571-b32a-8c9cf9d45aab",
         "address": "Lathrop Library"
     },
@@ -638,7 +638,7 @@
             "social",
             "fun"
         ],
-        "created_at": "2025-04-21T03:45:48.451016",
+        "created_at": "2025-04-21T03:45:48.451016+00:00",
         "creator_id": "fc04a38b-3f2e-47c3-ad13-ff47b0596091",
         "address": "Lathrop Library"
     },
@@ -651,7 +651,7 @@
             "fun",
             "tech"
         ],
-        "created_at": "2025-04-21T03:45:48.451044",
+        "created_at": "2025-04-21T03:45:48.451044+00:00",
         "creator_id": "d029f953-7004-4ca5-bd17-51d5eabe24b3",
         "address": "Main Quad"
     },
@@ -665,7 +665,7 @@
             "tech",
             "music"
         ],
-        "created_at": "2025-04-21T03:45:48.451093",
+        "created_at": "2025-04-21T03:45:48.451093+00:00",
         "creator_id": "90ade07b-df1d-444b-871d-245a7c285f97",
         "address": "Main Quad"
     },
@@ -679,7 +679,7 @@
             "wellness",
             "social"
         ],
-        "created_at": "2025-04-21T03:45:48.451313",
+        "created_at": "2025-04-21T03:45:48.451313+00:00",
         "creator_id": "c123bbd4-8fa3-48f4-b886-493725a55aac",
         "address": "EVGR B Courtyard"
     },
@@ -693,7 +693,7 @@
             "arts",
             "social"
         ],
-        "created_at": "2025-04-21T03:45:48.451850",
+        "created_at": "2025-04-21T03:45:48.45185+00:00",
         "creator_id": "76f43565-1ee7-4eb4-ab6c-cdb7dd9474e3",
         "address": "Main Quad"
     },
@@ -707,7 +707,7 @@
             "music",
             "career"
         ],
-        "created_at": "2025-04-21T03:45:48.451925",
+        "created_at": "2025-04-21T03:45:48.451925+00:00",
         "creator_id": "4ea12cdd-1960-4c08-b718-cf7134253725",
         "address": "Huang Basement"
     },
@@ -720,7 +720,7 @@
             "wellness",
             "music"
         ],
-        "created_at": "2025-04-21T03:45:48.452122",
+        "created_at": "2025-04-21T03:45:48.452122+00:00",
         "creator_id": "39efb40f-308f-4670-9eb3-8fd9f67edc18",
         "address": "MemChu Steps"
     },
@@ -732,7 +732,7 @@
             "music",
             "tech"
         ],
-        "created_at": "2025-04-21T03:45:48.452303",
+        "created_at": "2025-04-21T03:45:48.452303+00:00",
         "creator_id": "9dc08a23-0cbf-46d3-b577-d73f08437152",
         "address": "Huang Basement"
     },
@@ -746,7 +746,7 @@
             "sports",
             "activism"
         ],
-        "created_at": "2025-04-21T03:45:48.452343",
+        "created_at": "2025-04-21T03:45:48.452343+00:00",
         "creator_id": "054681b2-e23f-42a3-85f3-ff327612d786",
         "address": "EVGR B Courtyard"
     },
@@ -758,7 +758,7 @@
             "sports",
             "arts"
         ],
-        "created_at": "2025-04-21T03:45:48.452413",
+        "created_at": "2025-04-21T03:45:48.452413+00:00",
         "creator_id": "af1ac9bd-62af-4234-b7a2-3d347dd65d13",
         "address": "Old Union"
     },
@@ -770,7 +770,7 @@
             "arts",
             "wellness"
         ],
-        "created_at": "2025-04-21T03:45:48.452433",
+        "created_at": "2025-04-21T03:45:48.452433+00:00",
         "creator_id": "2073ccfe-f0ec-430b-b209-d4aa274b77da",
         "address": "White Plaza"
     },
@@ -783,7 +783,7 @@
             "fun",
             "sports"
         ],
-        "created_at": "2025-04-21T03:45:48.452534",
+        "created_at": "2025-04-21T03:45:48.452534+00:00",
         "creator_id": "821d0a8c-bcff-4ebe-8b6f-77444c6583c5",
         "address": "White Plaza"
     },
@@ -796,7 +796,7 @@
             "arts",
             "music"
         ],
-        "created_at": "2025-04-21T03:45:48.452661",
+        "created_at": "2025-04-21T03:45:48.452661+00:00",
         "creator_id": "dafac345-d6ff-4854-8aae-66e8e21ef33c",
         "address": "MemChu Steps"
     }

@@ -1,0 +1,4502 @@
+[
+    {
+        "id": "1ffd77e8-ce5f-4b60-ba17-32492fad70be",
+        "community_id": "d604e620-e550-4332-828f-6860340792ba",
+        "name": "Board Game Night @ Tressider Patio",
+        "description": "Come join a brainy party for Stanford undergrads.",
+        "tags": [
+            "music",
+            "party"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-04-21T09:07:48.36392+00:00",
+        "end_time": "2025-04-21T10:07:48.36392+00:00",
+        "created_at": "2025-04-21T00:07:48.36397+00:00",
+        "creator_id": "348b25a9-5bd9-4b60-b4f7-ec1420465ddb"
+    },
+    {
+        "id": "9b5ae57a-145c-4485-971f-842fe2606f4b",
+        "community_id": "1d52312e-fd8e-4654-90a3-b35556ca40ba",
+        "name": "Study Session @ Studio 2",
+        "description": "Come join a chill coding jam for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "creative"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-05-10T18:07:48.364004+00:00",
+        "end_time": "2025-05-10T19:07:48.364004+00:00",
+        "created_at": "2025-04-21T00:07:48.364034+00:00",
+        "creator_id": "4e36a8fe-eda5-4c76-a233-967f235db02f"
+    },
+    {
+        "id": "6403c961-5c3b-47e5-afd5-eece80af80e4",
+        "community_id": "29833b26-687b-4968-b20d-be0bb3de88df",
+        "name": "Coding Jam @ Studio 2",
+        "description": "Come join a fun film night for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "music"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-03-23T17:07:48.364066+00:00",
+        "end_time": "2025-03-23T20:07:48.364066+00:00",
+        "created_at": "2025-04-21T00:07:48.364091+00:00",
+        "creator_id": "7e9a851b-67ad-41d2-9daf-fd89516fcc8c"
+    },
+    {
+        "id": "4843c161-3c34-4cbd-b7aa-772a10893b6f",
+        "community_id": "2f1aa073-bbf9-40f5-a397-4d00c1da72cd",
+        "name": "Film Night @ Science Lecture Hall",
+        "description": "Come join a chill study session for Stanford undergrads.",
+        "tags": [
+            "music",
+            "creative"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-03-22T15:07:48.364119+00:00",
+        "end_time": "2025-03-22T16:07:48.364119+00:00",
+        "created_at": "2025-04-21T00:07:48.364146+00:00",
+        "creator_id": "ea2f1cc8-8ba2-4db7-99b6-a3aac633b63c"
+    },
+    {
+        "id": "f810645d-6baf-4817-a5db-516727c976ec",
+        "community_id": "d512e2ad-f538-4a60-b400-83e04684d4c3",
+        "name": "Seminar @ Studio 2",
+        "description": "Come join a creative dance-off for Stanford undergrads.",
+        "tags": [
+            "social",
+            "games"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-05-21T21:07:48.364174+00:00",
+        "end_time": "2025-05-22T00:07:48.364174+00:00",
+        "created_at": "2025-04-21T00:07:48.364193+00:00",
+        "creator_id": "d5d41391-18f0-4345-a5f1-1533ce97ea50"
+    },
+    {
+        "id": "f5ce3a89-092b-4eb5-83b7-0c16b9b3afae",
+        "community_id": "dbf3d5ba-30f7-49ec-8eae-6f423a5cbe9c",
+        "name": "Film Night @ Green Library",
+        "description": "Come join a fun board game night for Stanford undergrads.",
+        "tags": [
+            "social",
+            "creative"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-05-17T10:07:48.364214+00:00",
+        "end_time": "2025-05-17T14:07:48.364214+00:00",
+        "created_at": "2025-04-21T00:07:48.364227+00:00",
+        "creator_id": "2484002f-f8e2-4069-a217-c7014f63e347"
+    },
+    {
+        "id": "595a795b-b68c-46de-b83b-23faade3bc5f",
+        "community_id": "aa976cb7-d123-4bc6-8afd-5244d6c63b81",
+        "name": "Hackathon @ Studio 2",
+        "description": "Come join a fun hackathon for Stanford undergrads.",
+        "tags": [
+            "party",
+            "social"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-04-09T04:07:48.364248+00:00",
+        "end_time": "2025-04-09T05:07:48.364248+00:00",
+        "created_at": "2025-04-21T00:07:48.364263+00:00",
+        "creator_id": "cce514e2-d92a-4bf0-bac2-5ba641ffd3b6"
+    },
+    {
+        "id": "eb53a018-c1de-4468-9bfe-7ca6250939d1",
+        "community_id": "d512e2ad-f538-4a60-b400-83e04684d4c3",
+        "name": "Coding Jam @ Main Quad",
+        "description": "Come join a chill party for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "social"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-04-18T15:07:48.364285+00:00",
+        "end_time": "2025-04-18T19:07:48.364285+00:00",
+        "created_at": "2025-04-21T00:07:48.3643+00:00",
+        "creator_id": "755f5455-242c-4d77-8351-7cbb1e82d5df"
+    },
+    {
+        "id": "a22eb86e-e025-41e9-a47b-84502e505c1f",
+        "community_id": "4b2f5621-37b6-4fc0-bc58-06cd679bcfb1",
+        "name": "Seminar @ Science Lecture Hall",
+        "description": "Come join a high-energy seminar for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "party"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-05-02T04:07:48.36432+00:00",
+        "end_time": "2025-05-02T07:07:48.36432+00:00",
+        "created_at": "2025-04-21T00:07:48.364333+00:00",
+        "creator_id": "0a916233-8025-4b2b-9d62-3a189459c005"
+    },
+    {
+        "id": "f69a4194-d92c-4a5c-aea8-f6bb484c5ac4",
+        "community_id": "7d76ea14-4d83-4409-9703-b10c178b5dd1",
+        "name": "Open Mic @ Science Lecture Hall",
+        "description": "Come join a fun seminar for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "tech"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-04-10T11:07:48.364361+00:00",
+        "end_time": "2025-04-10T13:07:48.364361+00:00",
+        "created_at": "2025-04-21T00:07:48.364373+00:00",
+        "creator_id": "4572900e-5e3d-4c2f-8570-945502814dea"
+    },
+    {
+        "id": "3f38053a-a09f-4294-99a9-1b57ce160baf",
+        "community_id": "a8ad21d6-7f22-49b5-92e3-45b42be8a073",
+        "name": "Dance-Off @ Campus Lawn",
+        "description": "Come join a high-energy coding jam for Stanford undergrads.",
+        "tags": [
+            "games",
+            "tech"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-04-27T15:07:48.364393+00:00",
+        "end_time": "2025-04-27T16:07:48.364393+00:00",
+        "created_at": "2025-04-21T00:07:48.364405+00:00",
+        "creator_id": "ae09bb5b-2bc7-4ec8-9b69-0e2f84b44141"
+    },
+    {
+        "id": "3322634d-3fdc-4a3e-ab50-dba873894baf",
+        "community_id": "4b2f5621-37b6-4fc0-bc58-06cd679bcfb1",
+        "name": "Coding Jam @ Science Lecture Hall",
+        "description": "Come join a fun board game night for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "academic"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-03-26T08:07:48.364425+00:00",
+        "end_time": "2025-03-26T10:07:48.364425+00:00",
+        "created_at": "2025-04-21T00:07:48.364437+00:00",
+        "creator_id": "55ef82c3-4f28-447d-bc48-27c0140bb85d"
+    },
+    {
+        "id": "388ffdd4-3f70-47d6-a586-2ad41fa1a51e",
+        "community_id": "05fbae68-a7f1-461c-8354-b6b75968294b",
+        "name": "Art Jam @ Green Library",
+        "description": "Come join a brainy study session for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "games"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-04-01T21:07:48.364463+00:00",
+        "end_time": "2025-04-01T22:07:48.364463+00:00",
+        "created_at": "2025-04-21T00:07:48.364475+00:00",
+        "creator_id": "56cb5426-e67f-41a5-9052-7dfd78c2821e"
+    },
+    {
+        "id": "8096d3ac-a2e6-433e-b814-ac52a0d815fc",
+        "community_id": "1016e15a-e708-4548-968d-8518f1a5543f",
+        "name": "Hackathon @ Tressider Patio",
+        "description": "Come join a chill board game night for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "wellness"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-05-14T00:07:48.364494+00:00",
+        "end_time": "2025-05-14T03:07:48.364494+00:00",
+        "created_at": "2025-04-21T00:07:48.364505+00:00",
+        "creator_id": "863feb56-052a-4215-a268-9cc5394ef02c"
+    },
+    {
+        "id": "c91bbfb1-5723-43f8-a88c-b406e7d5cddd",
+        "community_id": "68c876ca-8781-4f95-9160-e78c5d5d24ea",
+        "name": "Board Game Night @ Dorm Common Room",
+        "description": "Come join a high-energy seminar for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "party"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-05-15T01:07:48.364524+00:00",
+        "end_time": "2025-05-15T03:07:48.364524+00:00",
+        "created_at": "2025-04-21T00:07:48.364537+00:00",
+        "creator_id": "04addd2c-e0b8-409c-8d49-2f07254c86f6"
+    },
+    {
+        "id": "e96a8e78-a864-4fb3-93d5-eaebf05c8f07",
+        "community_id": "e31b5f7d-d03a-47eb-a587-7ef1491b198d",
+        "name": "Coding Jam @ Studio 2",
+        "description": "Come join a brainy open mic for Stanford undergrads.",
+        "tags": [
+            "games",
+            "social"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-05-19T03:07:48.364557+00:00",
+        "end_time": "2025-05-19T04:07:48.364557+00:00",
+        "created_at": "2025-04-21T00:07:48.364568+00:00",
+        "creator_id": "ecacedea-9ec6-47a5-a9df-39eec4994e73"
+    },
+    {
+        "id": "86396bcd-882b-402b-a414-de58025fd331",
+        "community_id": "c7fa1b92-f581-4bd0-b607-d22255629f0e",
+        "name": "Study Session @ Science Lecture Hall",
+        "description": "Come join a chill coding jam for Stanford undergrads.",
+        "tags": [
+            "music",
+            "wellness"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-03-25T13:07:48.364579+00:00",
+        "end_time": "2025-03-25T14:07:48.364579+00:00",
+        "created_at": "2025-04-21T00:07:48.364591+00:00",
+        "creator_id": "dbafe133-1703-47a8-a39b-d37e32865a41"
+    },
+    {
+        "id": "e20b3360-0a95-4d78-9960-a3b29cd68b21",
+        "community_id": "5f4b9ecd-17fe-4607-bf2f-3d5f4e4cf7bc",
+        "name": "Board Game Night @ Science Lecture Hall",
+        "description": "Come join a chill dance-off for Stanford undergrads.",
+        "tags": [
+            "music",
+            "party"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-05-07T18:07:48.364616+00:00",
+        "end_time": "2025-05-07T21:07:48.364616+00:00",
+        "created_at": "2025-04-21T00:07:48.364628+00:00",
+        "creator_id": "ea44a9ff-1c8e-4d80-8725-c646a1e8ca8d"
+    },
+    {
+        "id": "cf13b886-b4bc-4fe9-a8ef-cbe3e05e41b3",
+        "community_id": "4b2f5621-37b6-4fc0-bc58-06cd679bcfb1",
+        "name": "Board Game Night @ Green Library",
+        "description": "Come join a high-energy hackathon for Stanford undergrads.",
+        "tags": [
+            "music",
+            "social"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-04-19T22:07:48.364644+00:00",
+        "end_time": "2025-04-20T00:07:48.364644+00:00",
+        "created_at": "2025-04-21T00:07:48.364656+00:00",
+        "creator_id": "86ac674e-a2ee-45d5-8a48-2714917828ad"
+    },
+    {
+        "id": "41b81f24-6e05-4d9b-b833-3813a26ab383",
+        "community_id": "83f25cfc-f55f-4fe0-8ba5-2aca05b865b0",
+        "name": "Board Game Night @ Dorm Common Room",
+        "description": "Come join a chill seminar for Stanford undergrads.",
+        "tags": [
+            "games",
+            "academic"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-05-18T19:07:48.364676+00:00",
+        "end_time": "2025-05-18T23:07:48.364676+00:00",
+        "created_at": "2025-04-21T00:07:48.364687+00:00",
+        "creator_id": "af7ecb8d-8c73-41f7-bb1a-f70248608637"
+    },
+    {
+        "id": "859e2917-88fc-4853-96a7-63d0183eb9d3",
+        "community_id": "5f4b9ecd-17fe-4607-bf2f-3d5f4e4cf7bc",
+        "name": "Art Jam @ Tressider Patio",
+        "description": "Come join a fun study session for Stanford undergrads.",
+        "tags": [
+            "music",
+            "social"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-04-28T03:07:48.364705+00:00",
+        "end_time": "2025-04-28T07:07:48.364705+00:00",
+        "created_at": "2025-04-21T00:07:48.364718+00:00",
+        "creator_id": "fb6be842-a265-4b99-8822-6728596b2a49"
+    },
+    {
+        "id": "5602b8d0-4ed2-49c7-b4f9-5b605b134b77",
+        "community_id": "5f4b9ecd-17fe-4607-bf2f-3d5f4e4cf7bc",
+        "name": "Seminar @ Campus Lawn",
+        "description": "Come join a brainy hackathon for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "academic"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-04-12T01:07:48.364737+00:00",
+        "end_time": "2025-04-12T02:07:48.364737+00:00",
+        "created_at": "2025-04-21T00:07:48.364749+00:00",
+        "creator_id": "c677d06f-5150-49fe-84d6-3167f686f138"
+    },
+    {
+        "id": "a486601b-3cec-4766-a1b5-619806bd2956",
+        "community_id": "2f1aa073-bbf9-40f5-a397-4d00c1da72cd",
+        "name": "Party @ Studio 2",
+        "description": "Come join a creative party for Stanford undergrads.",
+        "tags": [
+            "music",
+            "creative"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-04-14T09:07:48.364767+00:00",
+        "end_time": "2025-04-14T13:07:48.364767+00:00",
+        "created_at": "2025-04-21T00:07:48.364779+00:00",
+        "creator_id": "ac3f3eae-8acb-4886-a654-8605341d2448"
+    },
+    {
+        "id": "3f52bbd5-0456-426e-b45c-1cf044e28676",
+        "community_id": "b6d6a473-fe1d-4b68-961e-fe0a26c306bb",
+        "name": "Study Session @ Studio 2",
+        "description": "Come join a chill seminar for Stanford undergrads.",
+        "tags": [
+            "music",
+            "academic"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-03-25T20:07:48.364797+00:00",
+        "end_time": "2025-03-26T00:07:48.364797+00:00",
+        "created_at": "2025-04-21T00:07:48.364809+00:00",
+        "creator_id": "7142558b-dd57-4085-9798-e8c408a9f2a1"
+    },
+    {
+        "id": "bf4af0d7-0b01-456a-a06d-2f65c5df8ce9",
+        "community_id": "7cca4f6c-06dd-48bc-9466-ffe83013ce9e",
+        "name": "Board Game Night @ Tressider Patio",
+        "description": "Come join a brainy board game night for Stanford undergrads.",
+        "tags": [
+            "games",
+            "tech"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-03-26T10:07:48.364827+00:00",
+        "end_time": "2025-03-26T14:07:48.364827+00:00",
+        "created_at": "2025-04-21T00:07:48.364839+00:00",
+        "creator_id": "50e9bf22-92b7-4013-819e-0d1a0a1301b3"
+    },
+    {
+        "id": "53957679-4fa5-4680-91fc-5ff409c190b8",
+        "community_id": "d80602c8-6a3b-425e-b6f1-eac87a87d276",
+        "name": "Dance-Off @ Science Lecture Hall",
+        "description": "Come join a creative coding jam for Stanford undergrads.",
+        "tags": [
+            "party",
+            "games"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-04-11T06:07:48.364859+00:00",
+        "end_time": "2025-04-11T10:07:48.364859+00:00",
+        "created_at": "2025-04-21T00:07:48.36487+00:00",
+        "creator_id": "036453d2-0676-4864-88ef-79cdda0f1013"
+    },
+    {
+        "id": "8b6db03e-a7d7-45de-90e3-6f5c62565291",
+        "community_id": "dbf3d5ba-30f7-49ec-8eae-6f423a5cbe9c",
+        "name": "Hackathon @ Science Lecture Hall",
+        "description": "Come join a high-energy study session for Stanford undergrads.",
+        "tags": [
+            "party",
+            "academic"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-04-16T04:07:48.365085+00:00",
+        "end_time": "2025-04-16T07:07:48.365085+00:00",
+        "created_at": "2025-04-21T00:07:48.365122+00:00",
+        "creator_id": "62cc8908-e20f-4a6e-8784-78b1a63908c7"
+    },
+    {
+        "id": "341474ad-5c50-41f6-88d1-b0153f4cf7c0",
+        "community_id": "7d76ea14-4d83-4409-9703-b10c178b5dd1",
+        "name": "Hackathon @ Main Quad",
+        "description": "Come join a fun open mic for Stanford undergrads.",
+        "tags": [
+            "party",
+            "wellness"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-05-19T09:07:48.365158+00:00",
+        "end_time": "2025-05-19T10:07:48.365158+00:00",
+        "created_at": "2025-04-21T00:07:48.365174+00:00",
+        "creator_id": "90837bd5-94f1-47ec-b93b-015b36fd4208"
+    },
+    {
+        "id": "afc9dcd9-15e9-4242-baed-df9e80d64593",
+        "community_id": "11b3f0d4-5ace-46ff-8d56-65d414529c34",
+        "name": "Board Game Night @ Tressider Patio",
+        "description": "Come join a high-energy coding jam for Stanford undergrads.",
+        "tags": [
+            "party",
+            "wellness"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-03-24T05:07:48.365195+00:00",
+        "end_time": "2025-03-24T08:07:48.365195+00:00",
+        "created_at": "2025-04-21T00:07:48.365209+00:00",
+        "creator_id": "e8cbec3c-4527-4c70-9842-653894912b9a"
+    },
+    {
+        "id": "21cd4c71-d3cc-4ecc-9f37-34b85cc17549",
+        "community_id": "7d76ea14-4d83-4409-9703-b10c178b5dd1",
+        "name": "Dance-Off @ Dorm Common Room",
+        "description": "Come join a chill hackathon for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "wellness"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-04-01T09:07:48.365228+00:00",
+        "end_time": "2025-04-01T13:07:48.365228+00:00",
+        "created_at": "2025-04-21T00:07:48.365242+00:00",
+        "creator_id": "15c64baa-5a37-4584-aeb8-d36db96b9f7e"
+    },
+    {
+        "id": "20ddf2c3-b706-4ead-b660-c7f914cdd8b0",
+        "community_id": "745de45b-31cf-46c0-8707-e4c25d0a248e",
+        "name": "Seminar @ Huang Basement",
+        "description": "Come join a high-energy study session for Stanford undergrads.",
+        "tags": [
+            "games",
+            "creative"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-11T02:07:48.365261+00:00",
+        "end_time": "2025-04-11T03:07:48.365261+00:00",
+        "created_at": "2025-04-21T00:07:48.365273+00:00",
+        "creator_id": "5b754584-f07f-4ee8-b75b-cb8de23b9771"
+    },
+    {
+        "id": "86b36f73-39ec-47ef-abc4-82ee8b37cbde",
+        "community_id": "62f50119-55fa-4662-b393-14468806233e",
+        "name": "Dance-Off @ Science Lecture Hall",
+        "description": "Come join a high-energy hackathon for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "party"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-04-26T21:07:48.365296+00:00",
+        "end_time": "2025-04-26T22:07:48.365296+00:00",
+        "created_at": "2025-04-21T00:07:48.365308+00:00",
+        "creator_id": "1c7b66a0-d059-4802-81a0-dc8cf6f1f1b9"
+    },
+    {
+        "id": "49db08be-30f7-4cc7-b486-9229a1f70c94",
+        "community_id": "5c8cd743-f49e-4f3c-ba85-3188bf0ad5c4",
+        "name": "Open Mic @ Tressider Patio",
+        "description": "Come join a high-energy board game night for Stanford undergrads.",
+        "tags": [
+            "social",
+            "music"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-04-26T15:07:48.365326+00:00",
+        "end_time": "2025-04-26T19:07:48.365326+00:00",
+        "created_at": "2025-04-21T00:07:48.365338+00:00",
+        "creator_id": "5258eec4-8813-4ccd-930b-cf92f98548df"
+    },
+    {
+        "id": "c8e177fb-3181-4241-9267-ddc7ed9fa45f",
+        "community_id": "62f50119-55fa-4662-b393-14468806233e",
+        "name": "Film Night @ Tressider Patio",
+        "description": "Come join a chill film night for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "music"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-05-11T03:07:48.365382+00:00",
+        "end_time": "2025-05-11T07:07:48.365382+00:00",
+        "created_at": "2025-04-21T00:07:48.365407+00:00",
+        "creator_id": "4616713a-c490-49b9-bb9e-63b90bf67e48"
+    },
+    {
+        "id": "3a15a218-0a1c-4fd7-9aa9-c1f1a126d610",
+        "community_id": "b467a6bc-c212-44b2-9aa4-420335ed7143",
+        "name": "Board Game Night @ Huang Basement",
+        "description": "Come join a brainy study session for Stanford undergrads.",
+        "tags": [
+            "games",
+            "party"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-05-19T14:07:48.365449+00:00",
+        "end_time": "2025-05-19T16:07:48.365449+00:00",
+        "created_at": "2025-04-21T00:07:48.365462+00:00",
+        "creator_id": "3f99ac39-dccc-4dd1-9136-c3ec365dfdd3"
+    },
+    {
+        "id": "23e38562-c49e-4d98-9e4f-d923b0cecc35",
+        "community_id": "dbf3d5ba-30f7-49ec-8eae-6f423a5cbe9c",
+        "name": "Seminar @ Main Quad",
+        "description": "Come join a fun art jam for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "tech"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-07T23:07:48.365499+00:00",
+        "end_time": "2025-04-08T01:07:48.365499+00:00",
+        "created_at": "2025-04-21T00:07:48.365512+00:00",
+        "creator_id": "17214a5a-44b4-4c39-9490-a7af8fdb2646"
+    },
+    {
+        "id": "f2674bec-ea42-44ce-b78f-3829e71c21eb",
+        "community_id": "8cf4ab00-b0a0-4666-a3de-6672559a4591",
+        "name": "Film Night @ Studio 2",
+        "description": "Come join a fun hackathon for Stanford undergrads.",
+        "tags": [
+            "music",
+            "academic"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-03-24T14:07:48.365546+00:00",
+        "end_time": "2025-03-24T16:07:48.365546+00:00",
+        "created_at": "2025-04-21T00:07:48.36556+00:00",
+        "creator_id": "55ef82c3-4f28-447d-bc48-27c0140bb85d"
+    },
+    {
+        "id": "db3133f6-b217-4824-a00d-b21e3060ec4d",
+        "community_id": "7d76ea14-4d83-4409-9703-b10c178b5dd1",
+        "name": "Board Game Night @ Huang Basement",
+        "description": "Come join a high-energy study session for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "music"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-05-02T22:07:48.365579+00:00",
+        "end_time": "2025-05-03T01:07:48.365579+00:00",
+        "created_at": "2025-04-21T00:07:48.365591+00:00",
+        "creator_id": "4f6c9b8f-269e-418d-987b-eae7d4cef0e2"
+    },
+    {
+        "id": "41f388aa-bf92-41db-8db5-8d42f58aed9d",
+        "community_id": "3c0dba12-d7c0-49e3-bf68-76d8af412e08",
+        "name": "Party @ Science Lecture Hall",
+        "description": "Come join a fun coding jam for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "creative"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-04-01T23:07:48.365624+00:00",
+        "end_time": "2025-04-02T01:07:48.365624+00:00",
+        "created_at": "2025-04-21T00:07:48.365644+00:00",
+        "creator_id": "6f627580-20f2-480e-9ea0-0184eff27eef"
+    },
+    {
+        "id": "bf57633a-1d37-4727-9254-d7cd7c3a12b8",
+        "community_id": "745de45b-31cf-46c0-8707-e4c25d0a248e",
+        "name": "Party @ Tressider Patio",
+        "description": "Come join a chill seminar for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "social"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-04-30T00:07:48.365666+00:00",
+        "end_time": "2025-04-30T03:07:48.365666+00:00",
+        "created_at": "2025-04-21T00:07:48.365679+00:00",
+        "creator_id": "1a1f6b86-f3bb-4e3a-84e8-bda8eed58a66"
+    },
+    {
+        "id": "af257374-75af-4b34-9f42-11609e818a9c",
+        "community_id": "aa976cb7-d123-4bc6-8afd-5244d6c63b81",
+        "name": "Seminar @ Studio 2",
+        "description": "Come join a chill board game night for Stanford undergrads.",
+        "tags": [
+            "games",
+            "party"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-04-12T16:07:48.365708+00:00",
+        "end_time": "2025-04-12T17:07:48.365708+00:00",
+        "created_at": "2025-04-21T00:07:48.36572+00:00",
+        "creator_id": "e9410143-2247-4d43-a2a8-add1bd482411"
+    },
+    {
+        "id": "9c269a5e-2643-4f40-a5dd-758648cb86d0",
+        "community_id": "c7fa1b92-f581-4bd0-b607-d22255629f0e",
+        "name": "Dance-Off @ Huang Basement",
+        "description": "Come join a chill dance-off for Stanford undergrads.",
+        "tags": [
+            "social",
+            "academic"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-05-09T02:07:48.365736+00:00",
+        "end_time": "2025-05-09T03:07:48.365736+00:00",
+        "created_at": "2025-04-21T00:07:48.365748+00:00",
+        "creator_id": "0f116986-1608-4810-b26c-abad6b55af14"
+    },
+    {
+        "id": "b068a25e-36e3-4077-9c81-3de7a00299c2",
+        "community_id": "dff00b14-3c93-433d-99ab-20169b620304",
+        "name": "Coding Jam @ Huang Basement",
+        "description": "Come join a brainy hackathon for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "creative"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-05T08:07:48.365772+00:00",
+        "end_time": "2025-04-05T11:07:48.365772+00:00",
+        "created_at": "2025-04-21T00:07:48.365784+00:00",
+        "creator_id": "8320724c-f2e9-4b35-ab22-5dee95833646"
+    },
+    {
+        "id": "663f2a44-d203-461c-acf3-9806eb241f48",
+        "community_id": "20c6bf06-a67c-4edd-a378-43f4a27740b9",
+        "name": "Party @ Green Library",
+        "description": "Come join a chill seminar for Stanford undergrads.",
+        "tags": [
+            "party",
+            "creative"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-05-14T17:07:48.365804+00:00",
+        "end_time": "2025-05-14T21:07:48.365804+00:00",
+        "created_at": "2025-04-21T00:07:48.365818+00:00",
+        "creator_id": "5d23a6c7-4acf-4776-bae5-615b63d11ade"
+    },
+    {
+        "id": "469bf324-617b-4355-8912-a751c07fbd73",
+        "community_id": "d512e2ad-f538-4a60-b400-83e04684d4c3",
+        "name": "Film Night @ Science Lecture Hall",
+        "description": "Come join a creative seminar for Stanford undergrads.",
+        "tags": [
+            "games",
+            "academic"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-03-31T11:07:48.365836+00:00",
+        "end_time": "2025-03-31T13:07:48.365836+00:00",
+        "created_at": "2025-04-21T00:07:48.365849+00:00",
+        "creator_id": "f5b37c3a-a7fb-45ec-804c-865a034f58eb"
+    },
+    {
+        "id": "7e560385-18d7-4539-9dc5-af3b60c79a2a",
+        "community_id": "5c8cd743-f49e-4f3c-ba85-3188bf0ad5c4",
+        "name": "Seminar @ Huang Basement",
+        "description": "Come join a chill art jam for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "creative"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-04-24T23:07:48.365867+00:00",
+        "end_time": "2025-04-25T00:07:48.365867+00:00",
+        "created_at": "2025-04-21T00:07:48.365879+00:00",
+        "creator_id": "1f3078a0-7aa1-4455-97f0-babee552bbac"
+    },
+    {
+        "id": "8b15ebcf-d39b-4886-a0a4-3327a156a950",
+        "community_id": "a8ad21d6-7f22-49b5-92e3-45b42be8a073",
+        "name": "Seminar @ Huang Basement",
+        "description": "Come join a creative hackathon for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "party"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-05-17T09:07:48.365897+00:00",
+        "end_time": "2025-05-17T10:07:48.365897+00:00",
+        "created_at": "2025-04-21T00:07:48.365909+00:00",
+        "creator_id": "97b847ef-e951-4f9d-ab0b-7c452eb901ac"
+    },
+    {
+        "id": "043ae4b3-17a0-4fb8-bd80-84b3c88302d4",
+        "community_id": "2e94da09-eba2-4e90-b9e7-be60178552c6",
+        "name": "Film Night @ Dorm Common Room",
+        "description": "Come join a brainy seminar for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "music"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-05-17T04:07:48.365929+00:00",
+        "end_time": "2025-05-17T08:07:48.365929+00:00",
+        "created_at": "2025-04-21T00:07:48.365941+00:00",
+        "creator_id": "29c76514-f1dd-48fa-a69c-7d420cfb0aa4"
+    },
+    {
+        "id": "21ff7f18-ec62-45ec-ad58-826dac8b9326",
+        "community_id": "5c8cd743-f49e-4f3c-ba85-3188bf0ad5c4",
+        "name": "Hackathon @ Main Quad",
+        "description": "Come join a creative party for Stanford undergrads.",
+        "tags": [
+            "music",
+            "creative"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-05-07T23:07:48.365968+00:00",
+        "end_time": "2025-05-08T02:07:48.365968+00:00",
+        "created_at": "2025-04-21T00:07:48.365981+00:00",
+        "creator_id": "54ad632d-f7d6-41b9-8db5-21fc51567327"
+    },
+    {
+        "id": "277314e1-6a22-48a7-9bf5-3be58a3d462f",
+        "community_id": "df05b3c1-24a7-4331-b667-c7ee9ad6e92b",
+        "name": "Hackathon @ Huang Basement",
+        "description": "Come join a creative open mic for Stanford undergrads.",
+        "tags": [
+            "music",
+            "wellness"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-05-04T03:07:48.366001+00:00",
+        "end_time": "2025-05-04T07:07:48.366001+00:00",
+        "created_at": "2025-04-21T00:07:48.366013+00:00",
+        "creator_id": "1d11534b-565f-4d82-9069-560703ddc821"
+    },
+    {
+        "id": "f3259845-a19b-4a1f-aa09-b4e5ace17025",
+        "community_id": "7d76ea14-4d83-4409-9703-b10c178b5dd1",
+        "name": "Study Session @ Tressider Patio",
+        "description": "Come join a brainy hackathon for Stanford undergrads.",
+        "tags": [
+            "social",
+            "games"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-05-04T11:07:48.366038+00:00",
+        "end_time": "2025-05-04T14:07:48.366038+00:00",
+        "created_at": "2025-04-21T00:07:48.366051+00:00",
+        "creator_id": "3d2b0626-0aff-49ce-907b-fad127d0877c"
+    },
+    {
+        "id": "4c7244fd-5d3d-41e2-8d2c-a50454efd7df",
+        "community_id": "83f25cfc-f55f-4fe0-8ba5-2aca05b865b0",
+        "name": "Party @ Science Lecture Hall",
+        "description": "Come join a brainy hackathon for Stanford undergrads.",
+        "tags": [
+            "party",
+            "social"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-03-31T22:07:48.366067+00:00",
+        "end_time": "2025-04-01T02:07:48.366067+00:00",
+        "created_at": "2025-04-21T00:07:48.36608+00:00",
+        "creator_id": "acdcf6ca-ace8-41c6-b9ab-adea9cc73b37"
+    },
+    {
+        "id": "87a4d91a-eeed-4f07-a937-c2b49a85345a",
+        "community_id": "b788377f-ad90-49b0-95d0-610206e3f237",
+        "name": "Study Session @ Green Library",
+        "description": "Come join a fun open mic for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "music"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-03-29T14:07:48.366093+00:00",
+        "end_time": "2025-03-29T15:07:48.366093+00:00",
+        "created_at": "2025-04-21T00:07:48.366105+00:00",
+        "creator_id": "72608d21-5f30-43e9-8a6c-7390339cc00d"
+    },
+    {
+        "id": "544552e8-492f-4aa3-9934-9a02554b9e6d",
+        "community_id": "83f25cfc-f55f-4fe0-8ba5-2aca05b865b0",
+        "name": "Open Mic @ Main Quad",
+        "description": "Come join a chill party for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "creative"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-05-02T06:07:48.36613+00:00",
+        "end_time": "2025-05-02T09:07:48.36613+00:00",
+        "created_at": "2025-04-21T00:07:48.366142+00:00",
+        "creator_id": "809ab912-9389-443a-bfac-db83acc194b3"
+    },
+    {
+        "id": "ec0c855d-7212-4b06-9f13-98f61c95fa92",
+        "community_id": "d512e2ad-f538-4a60-b400-83e04684d4c3",
+        "name": "Film Night @ Main Quad",
+        "description": "Come join a brainy coding jam for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "tech"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-04-09T18:07:48.366157+00:00",
+        "end_time": "2025-04-09T22:07:48.366157+00:00",
+        "created_at": "2025-04-21T00:07:48.366169+00:00",
+        "creator_id": "82fe6023-f656-40d8-9266-101bbde21191"
+    },
+    {
+        "id": "c8400193-772b-42eb-895d-592969837ab3",
+        "community_id": "5f8b1f4e-394b-45a2-9972-f0fa60a21c64",
+        "name": "Hackathon @ Studio 2",
+        "description": "Come join a chill open mic for Stanford undergrads.",
+        "tags": [
+            "party",
+            "academic"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-04-29T00:07:48.366192+00:00",
+        "end_time": "2025-04-29T03:07:48.366192+00:00",
+        "created_at": "2025-04-21T00:07:48.366204+00:00",
+        "creator_id": "107df1aa-12cd-4922-87c9-bbeb9c30d335"
+    },
+    {
+        "id": "0904f647-dfda-4961-8de7-ac02d0b9010a",
+        "community_id": "745de45b-31cf-46c0-8707-e4c25d0a248e",
+        "name": "Open Mic @ Studio 2",
+        "description": "Come join a chill board game night for Stanford undergrads.",
+        "tags": [
+            "games",
+            "tech"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-05-01T23:07:48.366217+00:00",
+        "end_time": "2025-05-02T02:07:48.366217+00:00",
+        "created_at": "2025-04-21T00:07:48.366229+00:00",
+        "creator_id": "5f5bbf01-e5fc-4573-97e6-183d164b16c0"
+    },
+    {
+        "id": "9dd40fbe-90ac-4cec-8ae6-afe97406cab3",
+        "community_id": "f025227e-583f-4d67-bff2-9ba75ad79838",
+        "name": "Coding Jam @ Dorm Common Room",
+        "description": "Come join a chill art jam for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "tech"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-05-11T05:07:48.36626+00:00",
+        "end_time": "2025-05-11T06:07:48.36626+00:00",
+        "created_at": "2025-04-21T00:07:48.366272+00:00",
+        "creator_id": "4d277229-2f2a-47f7-830f-72c478a543fd"
+    },
+    {
+        "id": "766e648e-39c2-4213-86f2-82f450f938c2",
+        "community_id": "f025227e-583f-4d67-bff2-9ba75ad79838",
+        "name": "Hackathon @ Campus Lawn",
+        "description": "Come join a creative art jam for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "social"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-04-10T06:07:48.366281+00:00",
+        "end_time": "2025-04-10T09:07:48.366281+00:00",
+        "created_at": "2025-04-21T00:07:48.366294+00:00",
+        "creator_id": "1aaf34b5-2f55-4b64-a7e4-4197535e5c6f"
+    },
+    {
+        "id": "2d05ff75-882e-4766-91c2-cdf552d0484b",
+        "community_id": "c468e704-041a-48aa-9d9b-2415b9fbb40e",
+        "name": "Seminar @ Science Lecture Hall",
+        "description": "Come join a fun seminar for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "music"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-04-23T20:07:48.366318+00:00",
+        "end_time": "2025-04-23T21:07:48.366318+00:00",
+        "created_at": "2025-04-21T00:07:48.366329+00:00",
+        "creator_id": "5c617569-55f3-4ec0-8e04-5da6981e102c"
+    },
+    {
+        "id": "788ccdd3-9728-414b-8038-a51984f70cad",
+        "community_id": "574e722d-8948-4278-b244-2edc61b47b34",
+        "name": "Dance-Off @ Main Quad",
+        "description": "Come join a brainy seminar for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "music"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-04-17T22:07:48.366345+00:00",
+        "end_time": "2025-04-18T00:07:48.366345+00:00",
+        "created_at": "2025-04-21T00:07:48.366357+00:00",
+        "creator_id": "90512951-98ab-4128-b6a3-6cd52078f0bb"
+    },
+    {
+        "id": "8fce901b-72ff-4444-8d67-3f3c2fa28840",
+        "community_id": "df67ea56-82d7-4d7f-88c5-a04d70ab2359",
+        "name": "Hackathon @ Huang Basement",
+        "description": "Come join a brainy hackathon for Stanford undergrads.",
+        "tags": [
+            "games",
+            "wellness"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-05-19T13:07:48.366376+00:00",
+        "end_time": "2025-05-19T14:07:48.366376+00:00",
+        "created_at": "2025-04-21T00:07:48.366388+00:00",
+        "creator_id": "0f807d25-5eab-4bac-bead-0a99d377b4a4"
+    },
+    {
+        "id": "204854d4-c989-4f1e-93de-2e7454b78b37",
+        "community_id": "de7b2ec2-e0d1-4130-9bb8-85158f1b6e72",
+        "name": "Film Night @ Dorm Common Room",
+        "description": "Come join a brainy seminar for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "music"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-03-22T21:07:48.366407+00:00",
+        "end_time": "2025-03-23T01:07:48.366407+00:00",
+        "created_at": "2025-04-21T00:07:48.36642+00:00",
+        "creator_id": "1943569e-884e-4f7b-8486-8fb644b3a8b1"
+    },
+    {
+        "id": "bc67ad5d-0ec0-4aa9-b866-692dce5b2bf7",
+        "community_id": "4993b1cf-e519-426e-bce1-938f6ef78c07",
+        "name": "Coding Jam @ Main Quad",
+        "description": "Come join a creative hackathon for Stanford undergrads.",
+        "tags": [
+            "games",
+            "music"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-04-14T17:07:48.366442+00:00",
+        "end_time": "2025-04-14T19:07:48.366442+00:00",
+        "created_at": "2025-04-21T00:07:48.366457+00:00",
+        "creator_id": "5257dc6b-3546-423c-b63a-aaf11a15c011"
+    },
+    {
+        "id": "5a4df6ad-c9de-4eef-ae48-6482a4f47812",
+        "community_id": "b788377f-ad90-49b0-95d0-610206e3f237",
+        "name": "Seminar @ Science Lecture Hall",
+        "description": "Come join a creative hackathon for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "party"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-22T22:07:48.366478+00:00",
+        "end_time": "2025-04-22T23:07:48.366478+00:00",
+        "created_at": "2025-04-21T00:07:48.36649+00:00",
+        "creator_id": "f6120876-fd12-4bf0-963b-cf009efa7ffa"
+    },
+    {
+        "id": "4b9fd976-cb2e-4aec-9da4-8c81e92a0b38",
+        "community_id": "83f25cfc-f55f-4fe0-8ba5-2aca05b865b0",
+        "name": "Open Mic @ Studio 2",
+        "description": "Come join a chill open mic for Stanford undergrads.",
+        "tags": [
+            "party",
+            "wellness"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-05-02T05:07:48.366515+00:00",
+        "end_time": "2025-05-02T08:07:48.366515+00:00",
+        "created_at": "2025-04-21T00:07:48.366527+00:00",
+        "creator_id": "18a3194f-ee34-42fd-ab89-a1f5ad1b56cf"
+    },
+    {
+        "id": "32d8c7a9-2452-4ec6-b266-dd15f488640f",
+        "community_id": "9273f472-23f2-4157-9bfe-d9eb68ac7c3c",
+        "name": "Hackathon @ Green Library",
+        "description": "Come join a high-energy seminar for Stanford undergrads.",
+        "tags": [
+            "party",
+            "games"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-04-05T11:07:48.366545+00:00",
+        "end_time": "2025-04-05T12:07:48.366545+00:00",
+        "created_at": "2025-04-21T00:07:48.366557+00:00",
+        "creator_id": "72d0cbdc-f6e0-4e9c-9104-14861af3e724"
+    },
+    {
+        "id": "b6d12ee7-8383-4e11-b9ad-a5d4aa0ce3ec",
+        "community_id": "6fe64deb-e271-411a-8758-792b0d3054d4",
+        "name": "Party @ Main Quad",
+        "description": "Come join a brainy party for Stanford undergrads.",
+        "tags": [
+            "party",
+            "games"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-05-03T18:07:48.366575+00:00",
+        "end_time": "2025-05-03T21:07:48.366575+00:00",
+        "created_at": "2025-04-21T00:07:48.366587+00:00",
+        "creator_id": "f747a4ae-8059-40b6-8f46-b1f5d0d4e535"
+    },
+    {
+        "id": "af096463-72df-4700-9bb1-173295407ef2",
+        "community_id": "452b46f9-4610-4b34-bf53-584d3193d17d",
+        "name": "Board Game Night @ Huang Basement",
+        "description": "Come join a high-energy party for Stanford undergrads.",
+        "tags": [
+            "party",
+            "creative"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-04-16T17:07:48.366597+00:00",
+        "end_time": "2025-04-16T19:07:48.366597+00:00",
+        "created_at": "2025-04-21T00:07:48.366609+00:00",
+        "creator_id": "13df09dd-7118-4aec-bff3-1087f334c039"
+    },
+    {
+        "id": "0e278cdb-2243-4f66-ba72-2c4fc62d8160",
+        "community_id": "62f50119-55fa-4662-b393-14468806233e",
+        "name": "Hackathon @ Main Quad",
+        "description": "Come join a brainy art jam for Stanford undergrads.",
+        "tags": [
+            "social",
+            "party"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-04-10T15:07:48.366627+00:00",
+        "end_time": "2025-04-10T18:07:48.366627+00:00",
+        "created_at": "2025-04-21T00:07:48.366639+00:00",
+        "creator_id": "99083cfe-adb4-41e8-8b8f-0b3282df0717"
+    },
+    {
+        "id": "14cd0942-dc5c-4aaa-b70b-9624e34b8fbd",
+        "community_id": "7cca4f6c-06dd-48bc-9466-ffe83013ce9e",
+        "name": "Board Game Night @ Green Library",
+        "description": "Come join a high-energy open mic for Stanford undergrads.",
+        "tags": [
+            "music",
+            "creative"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-04-24T20:07:48.366659+00:00",
+        "end_time": "2025-04-25T00:07:48.366659+00:00",
+        "created_at": "2025-04-21T00:07:48.366672+00:00",
+        "creator_id": "60c21329-0c6f-4868-99b0-c8deaeb88436"
+    },
+    {
+        "id": "3342e94f-4218-4b86-8480-fa08b8bd6559",
+        "community_id": "efa9cda3-5c3c-4285-aa81-ebce5482c988",
+        "name": "Party @ Campus Lawn",
+        "description": "Come join a creative board game night for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "social"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-04-16T21:07:48.366705+00:00",
+        "end_time": "2025-04-16T23:07:48.366705+00:00",
+        "created_at": "2025-04-21T00:07:48.366723+00:00",
+        "creator_id": "f962d996-6860-44cf-ad4e-97323d552afd"
+    },
+    {
+        "id": "79fedaf5-e9a5-4ab7-8bb7-165fd51927f3",
+        "community_id": "4b2f5621-37b6-4fc0-bc58-06cd679bcfb1",
+        "name": "Seminar @ Dorm Common Room",
+        "description": "Come join a creative study session for Stanford undergrads.",
+        "tags": [
+            "music",
+            "wellness"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-04-20T10:07:48.366747+00:00",
+        "end_time": "2025-04-20T12:07:48.366747+00:00",
+        "created_at": "2025-04-21T00:07:48.366759+00:00",
+        "creator_id": "ac6b990f-55aa-46a7-bd65-23d5228b957b"
+    },
+    {
+        "id": "0d8575e5-79e6-41fa-be3e-ba090c267e99",
+        "community_id": "b6d6a473-fe1d-4b68-961e-fe0a26c306bb",
+        "name": "Party @ Studio 2",
+        "description": "Come join a chill study session for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "social"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-03-22T00:07:48.366788+00:00",
+        "end_time": "2025-03-22T03:07:48.366788+00:00",
+        "created_at": "2025-04-21T00:07:48.3668+00:00",
+        "creator_id": "56111b61-feb6-4478-a081-bf1110d787a5"
+    },
+    {
+        "id": "1123e0da-4892-4306-8657-bb269f3d3f8e",
+        "community_id": "11b3f0d4-5ace-46ff-8d56-65d414529c34",
+        "name": "Coding Jam @ Studio 2",
+        "description": "Come join a chill seminar for Stanford undergrads.",
+        "tags": [
+            "party",
+            "creative"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-05-21T03:07:48.366817+00:00",
+        "end_time": "2025-05-21T06:07:48.366817+00:00",
+        "created_at": "2025-04-21T00:07:48.366829+00:00",
+        "creator_id": "8c397ab7-cb72-4e40-a7c1-44b381f5ec90"
+    },
+    {
+        "id": "dca0f6f0-c641-4374-8fb2-875e5bbf28ba",
+        "community_id": "6fe64deb-e271-411a-8758-792b0d3054d4",
+        "name": "Seminar @ Tressider Patio",
+        "description": "Come join a creative dance-off for Stanford undergrads.",
+        "tags": [
+            "music",
+            "academic"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-04-07T21:07:48.366852+00:00",
+        "end_time": "2025-04-07T22:07:48.366852+00:00",
+        "created_at": "2025-04-21T00:07:48.366865+00:00",
+        "creator_id": "347efaf8-577d-4b31-8938-3fdeb55fbe0f"
+    },
+    {
+        "id": "4ef0d2b5-8c33-42a6-86c9-041483d405e8",
+        "community_id": "2f1aa073-bbf9-40f5-a397-4d00c1da72cd",
+        "name": "Coding Jam @ Science Lecture Hall",
+        "description": "Come join a fun seminar for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "music"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-04-04T16:07:48.366883+00:00",
+        "end_time": "2025-04-04T20:07:48.366883+00:00",
+        "created_at": "2025-04-21T00:07:48.366896+00:00",
+        "creator_id": "0aed7cfa-850c-4c7d-b5d5-fea72ea739b6"
+    },
+    {
+        "id": "1c3df98f-9c0f-4983-83c3-1cd464ad02de",
+        "community_id": "7cca4f6c-06dd-48bc-9466-ffe83013ce9e",
+        "name": "Board Game Night @ Dorm Common Room",
+        "description": "Come join a fun art jam for Stanford undergrads.",
+        "tags": [
+            "social",
+            "tech"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-05-13T06:07:48.366915+00:00",
+        "end_time": "2025-05-13T09:07:48.366915+00:00",
+        "created_at": "2025-04-21T00:07:48.366927+00:00",
+        "creator_id": "eb27d8e6-64ea-4f0d-a059-421aa4c1a444"
+    },
+    {
+        "id": "4486bfec-1ede-42aa-b2ed-36007f3f3891",
+        "community_id": "2ff203ec-f2dd-4676-ab3b-c7c0396ac1e7",
+        "name": "Film Night @ Huang Basement",
+        "description": "Come join a chill board game night for Stanford undergrads.",
+        "tags": [
+            "social",
+            "tech"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-04-23T14:07:48.366946+00:00",
+        "end_time": "2025-04-23T18:07:48.366946+00:00",
+        "created_at": "2025-04-21T00:07:48.366957+00:00",
+        "creator_id": "c9eb5afa-9376-4956-8470-c9d1b70274fc"
+    },
+    {
+        "id": "eb4705b8-ac48-45d4-9fa5-c54bf57c00eb",
+        "community_id": "5c8cd743-f49e-4f3c-ba85-3188bf0ad5c4",
+        "name": "Party @ Studio 2",
+        "description": "Come join a brainy seminar for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "academic"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-16T14:07:48.366976+00:00",
+        "end_time": "2025-04-16T18:07:48.366976+00:00",
+        "created_at": "2025-04-21T00:07:48.366989+00:00",
+        "creator_id": "0d641b42-c93c-40bc-a7ea-c382da480aa8"
+    },
+    {
+        "id": "fbbd7974-1869-44ff-b728-81501bcdc401",
+        "community_id": "6fe64deb-e271-411a-8758-792b0d3054d4",
+        "name": "Film Night @ Studio 2",
+        "description": "Come join a high-energy open mic for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "academic"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-04-02T10:07:48.367008+00:00",
+        "end_time": "2025-04-02T13:07:48.367008+00:00",
+        "created_at": "2025-04-21T00:07:48.36702+00:00",
+        "creator_id": "b144ff6d-a699-4772-9d59-76f208835e9e"
+    },
+    {
+        "id": "d1456f0a-d58d-46d3-969a-823539c09288",
+        "community_id": "4993b1cf-e519-426e-bce1-938f6ef78c07",
+        "name": "Study Session @ Green Library",
+        "description": "Come join a fun coding jam for Stanford undergrads.",
+        "tags": [
+            "music",
+            "wellness"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-04-18T13:07:48.367043+00:00",
+        "end_time": "2025-04-18T15:07:48.367043+00:00",
+        "created_at": "2025-04-21T00:07:48.367055+00:00",
+        "creator_id": "9d0dd60f-b7e8-4fff-9294-3d5d3cfa4382"
+    },
+    {
+        "id": "eb276257-c96a-4444-90d0-bc59670e5fb0",
+        "community_id": "05fbae68-a7f1-461c-8354-b6b75968294b",
+        "name": "Study Session @ Science Lecture Hall",
+        "description": "Come join a chill hackathon for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "games"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-05-11T17:07:48.367075+00:00",
+        "end_time": "2025-05-11T20:07:48.367075+00:00",
+        "created_at": "2025-04-21T00:07:48.367087+00:00",
+        "creator_id": "0bdc1660-30ba-4d82-9211-fcd354883a10"
+    },
+    {
+        "id": "92d3ed2a-be5a-43e6-b3dc-aabc7ec5d4eb",
+        "community_id": "df1c9229-239a-499a-99fd-fa34584682a1",
+        "name": "Film Night @ Huang Basement",
+        "description": "Come join a high-energy film night for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "academic"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-04-14T15:07:48.367116+00:00",
+        "end_time": "2025-04-14T16:07:48.367116+00:00",
+        "created_at": "2025-04-21T00:07:48.367133+00:00",
+        "creator_id": "76f43565-1ee7-4eb4-ab6c-cdb7dd9474e3"
+    },
+    {
+        "id": "94871bc8-844a-4bb8-b557-7382a40c93e5",
+        "community_id": "f2893407-e04d-4be4-b992-343c67a8539d",
+        "name": "Film Night @ Science Lecture Hall",
+        "description": "Come join a chill board game night for Stanford undergrads.",
+        "tags": [
+            "music",
+            "creative"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-03-24T19:07:48.367156+00:00",
+        "end_time": "2025-03-24T21:07:48.367156+00:00",
+        "created_at": "2025-04-21T00:07:48.367168+00:00",
+        "creator_id": "115a163d-94e5-448e-893d-c31eaee35f13"
+    },
+    {
+        "id": "20f2cfeb-ca16-4eeb-b124-4b0a453cfd1b",
+        "community_id": "2129f14f-303e-4d31-8865-11cadd841af8",
+        "name": "Party @ Studio 2",
+        "description": "Come join a fun art jam for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "social"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-05-15T07:07:48.367193+00:00",
+        "end_time": "2025-05-15T09:07:48.367193+00:00",
+        "created_at": "2025-04-21T00:07:48.367206+00:00",
+        "creator_id": "789c2d4e-2287-4340-8667-0d62669355bf"
+    },
+    {
+        "id": "a6efc0e7-23e8-47c7-a2ea-549d94d0cbf7",
+        "community_id": "dff00b14-3c93-433d-99ab-20169b620304",
+        "name": "Hackathon @ Dorm Common Room",
+        "description": "Come join a high-energy board game night for Stanford undergrads.",
+        "tags": [
+            "music",
+            "academic"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-05-12T00:07:48.367223+00:00",
+        "end_time": "2025-05-12T04:07:48.367223+00:00",
+        "created_at": "2025-04-21T00:07:48.367234+00:00",
+        "creator_id": "99c92edf-e625-4e0d-a596-2a8ef6f47c42"
+    },
+    {
+        "id": "a08139a4-af20-42a7-9e69-a20b90cfe96a",
+        "community_id": "c468e704-041a-48aa-9d9b-2415b9fbb40e",
+        "name": "Coding Jam @ Science Lecture Hall",
+        "description": "Come join a chill coding jam for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "games"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-05-18T23:07:48.36726+00:00",
+        "end_time": "2025-05-19T03:07:48.36726+00:00",
+        "created_at": "2025-04-21T00:07:48.367278+00:00",
+        "creator_id": "62ace560-d5c2-4cb2-a683-a666f49f6c02"
+    },
+    {
+        "id": "8c719e2c-50fd-4c8b-82c7-e7fa7cb12e9c",
+        "community_id": "2f1aa073-bbf9-40f5-a397-4d00c1da72cd",
+        "name": "Art Jam @ Green Library",
+        "description": "Come join a chill art jam for Stanford undergrads.",
+        "tags": [
+            "music",
+            "creative"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-03-24T00:07:48.367313+00:00",
+        "end_time": "2025-03-24T01:07:48.367313+00:00",
+        "created_at": "2025-04-21T00:07:48.367333+00:00",
+        "creator_id": "e5db857b-64bf-4651-9e44-8cedd17463d6"
+    },
+    {
+        "id": "53b0c4e4-7035-4630-be5a-6befe83531f8",
+        "community_id": "df05b3c1-24a7-4331-b667-c7ee9ad6e92b",
+        "name": "Dance-Off @ Huang Basement",
+        "description": "Come join a brainy seminar for Stanford undergrads.",
+        "tags": [
+            "social",
+            "academic"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-03-31T10:07:48.367357+00:00",
+        "end_time": "2025-03-31T12:07:48.367357+00:00",
+        "created_at": "2025-04-21T00:07:48.367394+00:00",
+        "creator_id": "dedd1f4a-cabe-4530-91f1-97cf353efbb3"
+    },
+    {
+        "id": "46690417-549a-4468-bafc-eeb25cc297fd",
+        "community_id": "a8ad21d6-7f22-49b5-92e3-45b42be8a073",
+        "name": "Party @ Main Quad",
+        "description": "Come join a chill hackathon for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "games"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-05-18T07:07:48.367421+00:00",
+        "end_time": "2025-05-18T10:07:48.367421+00:00",
+        "created_at": "2025-04-21T00:07:48.367445+00:00",
+        "creator_id": "4678ebf0-38b4-4bda-bbeb-5ec7d4f56fb9"
+    },
+    {
+        "id": "112e606d-8524-443c-9a17-0ed3bdf7ac42",
+        "community_id": "fb39f115-aec2-4c81-bdca-2dc06b16e06c",
+        "name": "Film Night @ Main Quad",
+        "description": "Come join a chill open mic for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "games"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-04-12T01:07:48.367472+00:00",
+        "end_time": "2025-04-12T03:07:48.367472+00:00",
+        "created_at": "2025-04-21T00:07:48.367492+00:00",
+        "creator_id": "9342517b-64a7-4dac-9589-f8da6edf3488"
+    },
+    {
+        "id": "cb093ea1-8229-4700-8796-6473ef22383f",
+        "community_id": "574e722d-8948-4278-b244-2edc61b47b34",
+        "name": "Board Game Night @ Studio 2",
+        "description": "Come join a brainy board game night for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "creative"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-05-09T00:07:48.367519+00:00",
+        "end_time": "2025-05-09T01:07:48.367519+00:00",
+        "created_at": "2025-04-21T00:07:48.367538+00:00",
+        "creator_id": "e056cd19-ce90-41ad-af3b-beb003716c6c"
+    },
+    {
+        "id": "185d0441-20be-48d7-90a7-d9f0ba802204",
+        "community_id": "7d76ea14-4d83-4409-9703-b10c178b5dd1",
+        "name": "Board Game Night @ Dorm Common Room",
+        "description": "Come join a brainy coding jam for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "wellness"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-05-18T19:07:48.367561+00:00",
+        "end_time": "2025-05-18T20:07:48.367561+00:00",
+        "created_at": "2025-04-21T00:07:48.367573+00:00",
+        "creator_id": "e4f39240-c45a-411d-ba20-de521cee9bff"
+    },
+    {
+        "id": "d750598c-3d4b-4989-aa8d-68c42e23e108",
+        "community_id": "d512e2ad-f538-4a60-b400-83e04684d4c3",
+        "name": "Film Night @ Tressider Patio",
+        "description": "Come join a high-energy film night for Stanford undergrads.",
+        "tags": [
+            "social",
+            "creative"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-04-20T07:07:48.367598+00:00",
+        "end_time": "2025-04-20T09:07:48.367598+00:00",
+        "created_at": "2025-04-21T00:07:48.367619+00:00",
+        "creator_id": "e3135af8-f904-45d6-ad20-737e3e7ca636"
+    },
+    {
+        "id": "2285a004-0ffc-4ec0-9da1-2afb05ed80a5",
+        "community_id": "2d59a720-5234-4235-b9be-ebd8d38ae339",
+        "name": "Open Mic @ Studio 2",
+        "description": "Come join a brainy dance-off for Stanford undergrads.",
+        "tags": [
+            "games",
+            "party"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-04-21T04:07:48.36766+00:00",
+        "end_time": "2025-04-21T06:07:48.36766+00:00",
+        "created_at": "2025-04-21T00:07:48.367683+00:00",
+        "creator_id": "91cd48c1-a7e9-4861-b2e3-e3040e8d216f"
+    },
+    {
+        "id": "e011a25b-0d38-4b3e-b2c9-7b5c787c68cf",
+        "community_id": "de7b2ec2-e0d1-4130-9bb8-85158f1b6e72",
+        "name": "Dance-Off @ Campus Lawn",
+        "description": "Come join a creative party for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "academic"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-05-02T16:07:48.367715+00:00",
+        "end_time": "2025-05-02T20:07:48.367715+00:00",
+        "created_at": "2025-04-21T00:07:48.367729+00:00",
+        "creator_id": "0aed7cfa-850c-4c7d-b5d5-fea72ea739b6"
+    },
+    {
+        "id": "61b43262-30bc-4789-9171-680d2c8f2960",
+        "community_id": "a7c7365f-cd57-415f-a9ab-223511ee64a9",
+        "name": "Study Session @ Campus Lawn",
+        "description": "Come join a fun seminar for Stanford undergrads.",
+        "tags": [
+            "music",
+            "tech"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-05-02T03:07:48.367754+00:00",
+        "end_time": "2025-05-02T04:07:48.367754+00:00",
+        "created_at": "2025-04-21T00:07:48.367775+00:00",
+        "creator_id": "64bdea1b-4b75-4b02-bb5b-29111b7e8eb5"
+    },
+    {
+        "id": "0d057301-d073-48f0-8218-31dd0841f15b",
+        "community_id": "11b3f0d4-5ace-46ff-8d56-65d414529c34",
+        "name": "Coding Jam @ Dorm Common Room",
+        "description": "Come join a creative hackathon for Stanford undergrads.",
+        "tags": [
+            "games",
+            "creative"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-04-15T09:07:48.367807+00:00",
+        "end_time": "2025-04-15T10:07:48.367807+00:00",
+        "created_at": "2025-04-21T00:07:48.36783+00:00",
+        "creator_id": "2ae632f6-c1f3-46b4-9dc1-ad9509de7dfa"
+    },
+    {
+        "id": "395fa82f-1e16-4e5c-9c2f-007e575a16e7",
+        "community_id": "1ce1c628-3766-458e-bbad-f84bc70ae2c6",
+        "name": "Coding Jam @ Main Quad",
+        "description": "Come join a fun board game night for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "wellness"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-04-29T17:07:48.367857+00:00",
+        "end_time": "2025-04-29T20:07:48.367857+00:00",
+        "created_at": "2025-04-21T00:07:48.367881+00:00",
+        "creator_id": "e27c61cc-7c70-4ddd-9131-6c47b3cf2073"
+    },
+    {
+        "id": "0da0c012-6ff0-49e0-8382-cf514f3a4620",
+        "community_id": "aa976cb7-d123-4bc6-8afd-5244d6c63b81",
+        "name": "Seminar @ Campus Lawn",
+        "description": "Come join a fun seminar for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "social"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-05-16T13:07:48.367907+00:00",
+        "end_time": "2025-05-16T15:07:48.367907+00:00",
+        "created_at": "2025-04-21T00:07:48.367927+00:00",
+        "creator_id": "584f2d6c-08d6-48ab-9119-165cc6426059"
+    },
+    {
+        "id": "e0002a50-a8d2-418c-b717-7d2d3c08d680",
+        "community_id": "c8d9166a-d643-4300-b26f-35e032dc6aa1",
+        "name": "Party @ Huang Basement",
+        "description": "Come join a chill coding jam for Stanford undergrads.",
+        "tags": [
+            "party",
+            "social"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-04-16T16:07:48.367956+00:00",
+        "end_time": "2025-04-16T19:07:48.367956+00:00",
+        "created_at": "2025-04-21T00:07:48.367976+00:00",
+        "creator_id": "ae2bdf73-5f12-49bf-9dbe-32b9e4bc24ee"
+    },
+    {
+        "id": "972e58a8-9637-4413-8adf-921d26d2a0da",
+        "community_id": "b788377f-ad90-49b0-95d0-610206e3f237",
+        "name": "Film Night @ Dorm Common Room",
+        "description": "Come join a high-energy film night for Stanford undergrads.",
+        "tags": [
+            "music",
+            "party"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-05-10T16:07:48.368006+00:00",
+        "end_time": "2025-05-10T19:07:48.368006+00:00",
+        "created_at": "2025-04-21T00:07:48.368024+00:00",
+        "creator_id": "ca1c9e8b-785e-43ee-94c2-aa294ebfbe09"
+    },
+    {
+        "id": "a226e8b5-604e-4a82-9829-7ef109f5a450",
+        "community_id": "df67ea56-82d7-4d7f-88c5-a04d70ab2359",
+        "name": "Art Jam @ Studio 2",
+        "description": "Come join a high-energy party for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "creative"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-05-05T18:07:48.368045+00:00",
+        "end_time": "2025-05-05T22:07:48.368045+00:00",
+        "created_at": "2025-04-21T00:07:48.368058+00:00",
+        "creator_id": "70f5c76c-a1f8-4013-bb8c-a7d34fce9837"
+    },
+    {
+        "id": "11ba959e-9889-4187-8c2d-003568d80d4a",
+        "community_id": "4993b1cf-e519-426e-bce1-938f6ef78c07",
+        "name": "Art Jam @ Main Quad",
+        "description": "Come join a high-energy study session for Stanford undergrads.",
+        "tags": [
+            "party",
+            "music"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-04-23T02:07:48.36808+00:00",
+        "end_time": "2025-04-23T03:07:48.36808+00:00",
+        "created_at": "2025-04-21T00:07:48.368092+00:00",
+        "creator_id": "fb73521d-3f19-4142-b47d-2492636c81c9"
+    },
+    {
+        "id": "2733a248-53d1-4e4d-bf59-afbe804cfa22",
+        "community_id": "b6d6a473-fe1d-4b68-961e-fe0a26c306bb",
+        "name": "Study Session @ Huang Basement",
+        "description": "Come join a chill board game night for Stanford undergrads.",
+        "tags": [
+            "social",
+            "music"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-05-16T19:07:48.36811+00:00",
+        "end_time": "2025-05-16T20:07:48.36811+00:00",
+        "created_at": "2025-04-21T00:07:48.368121+00:00",
+        "creator_id": "84a75b03-2b18-4933-9b45-ff27fa81a1a9"
+    },
+    {
+        "id": "eac2d38e-3c20-45c2-9db9-67340bdeb67b",
+        "community_id": "d604e620-e550-4332-828f-6860340792ba",
+        "name": "Film Night @ Main Quad",
+        "description": "Come join a chill party for Stanford undergrads.",
+        "tags": [
+            "games",
+            "academic"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-05-21T09:07:48.368141+00:00",
+        "end_time": "2025-05-21T12:07:48.368141+00:00",
+        "created_at": "2025-04-21T00:07:48.368152+00:00",
+        "creator_id": "195d1e68-9a3f-4af0-ad57-185667e1dde1"
+    },
+    {
+        "id": "2e155dec-8ef9-4601-ba93-a8ee1ae52fe4",
+        "community_id": "2129f14f-303e-4d31-8865-11cadd841af8",
+        "name": "Hackathon @ Campus Lawn",
+        "description": "Come join a high-energy film night for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "creative"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-04-20T14:07:48.368172+00:00",
+        "end_time": "2025-04-20T17:07:48.368172+00:00",
+        "created_at": "2025-04-21T00:07:48.368205+00:00",
+        "creator_id": "c43774be-a5db-40cd-ac3d-25248d0eef58"
+    },
+    {
+        "id": "d78d6943-3f86-4435-b367-07aaf0e1922f",
+        "community_id": "1016e15a-e708-4548-968d-8518f1a5543f",
+        "name": "Seminar @ Studio 2",
+        "description": "Come join a creative study session for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "party"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-04-29T02:07:48.368233+00:00",
+        "end_time": "2025-04-29T03:07:48.368233+00:00",
+        "created_at": "2025-04-21T00:07:48.368248+00:00",
+        "creator_id": "551a149b-d243-4ac3-a2f0-cf99fa9228b7"
+    },
+    {
+        "id": "37791fa3-afe0-43e3-9541-3548671e4fc8",
+        "community_id": "7d76ea14-4d83-4409-9703-b10c178b5dd1",
+        "name": "Film Night @ Main Quad",
+        "description": "Come join a creative dance-off for Stanford undergrads.",
+        "tags": [
+            "games",
+            "music"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-05-15T15:07:48.36827+00:00",
+        "end_time": "2025-05-15T18:07:48.36827+00:00",
+        "created_at": "2025-04-21T00:07:48.368282+00:00",
+        "creator_id": "d70efa8f-3600-4b23-b6a8-c08cd6fb79df"
+    },
+    {
+        "id": "3407377a-f527-41a6-9aef-314d2c87c99f",
+        "community_id": "3c0dba12-d7c0-49e3-bf68-76d8af412e08",
+        "name": "Study Session @ Studio 2",
+        "description": "Come join a creative dance-off for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "party"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-05-09T06:07:48.368313+00:00",
+        "end_time": "2025-05-09T08:07:48.368313+00:00",
+        "created_at": "2025-04-21T00:07:48.368325+00:00",
+        "creator_id": "54ad632d-f7d6-41b9-8db5-21fc51567327"
+    },
+    {
+        "id": "943e501d-59c1-45ee-9f49-7f9af9c899f9",
+        "community_id": "d604e620-e550-4332-828f-6860340792ba",
+        "name": "Board Game Night @ Science Lecture Hall",
+        "description": "Come join a brainy party for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "games"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-04-10T08:07:48.368351+00:00",
+        "end_time": "2025-04-10T12:07:48.368351+00:00",
+        "created_at": "2025-04-21T00:07:48.368363+00:00",
+        "creator_id": "285d8761-43b3-470e-bc35-b98eeab33008"
+    },
+    {
+        "id": "8de93858-7126-429b-ab16-a5e5cfb20f29",
+        "community_id": "62f50119-55fa-4662-b393-14468806233e",
+        "name": "Dance-Off @ Science Lecture Hall",
+        "description": "Come join a high-energy study session for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "wellness"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-05-21T02:07:48.368384+00:00",
+        "end_time": "2025-05-21T04:07:48.368384+00:00",
+        "created_at": "2025-04-21T00:07:48.368396+00:00",
+        "creator_id": "eba40786-72af-4683-9fc6-2055f6e11ef1"
+    },
+    {
+        "id": "a78c98fd-8a41-49f7-a1e6-16d3f5130850",
+        "community_id": "574e722d-8948-4278-b244-2edc61b47b34",
+        "name": "Seminar @ Green Library",
+        "description": "Come join a creative board game night for Stanford undergrads.",
+        "tags": [
+            "games",
+            "music"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-05-05T16:07:48.368414+00:00",
+        "end_time": "2025-05-05T18:07:48.368414+00:00",
+        "created_at": "2025-04-21T00:07:48.368426+00:00",
+        "creator_id": "0e482ab1-fa47-4768-a72b-4c8658fb0cf4"
+    },
+    {
+        "id": "c23e8745-4496-4351-a4ce-dc20b18fb523",
+        "community_id": "b788377f-ad90-49b0-95d0-610206e3f237",
+        "name": "Board Game Night @ Studio 2",
+        "description": "Come join a chill study session for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "social"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-04-15T23:07:48.368444+00:00",
+        "end_time": "2025-04-16T02:07:48.368444+00:00",
+        "created_at": "2025-04-21T00:07:48.368455+00:00",
+        "creator_id": "f6120876-fd12-4bf0-963b-cf009efa7ffa"
+    },
+    {
+        "id": "540233e9-ebff-4090-bf86-aa8621cc44bd",
+        "community_id": "c8d9166a-d643-4300-b26f-35e032dc6aa1",
+        "name": "Dance-Off @ Huang Basement",
+        "description": "Come join a chill seminar for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "social"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-04-26T10:07:48.368474+00:00",
+        "end_time": "2025-04-26T14:07:48.368474+00:00",
+        "created_at": "2025-04-21T00:07:48.368486+00:00",
+        "creator_id": "bdd3fcc1-47cd-4fef-bd93-30e92a61805e"
+    },
+    {
+        "id": "b5dd4a0d-75da-43ec-9437-650a4da5cb9c",
+        "community_id": "7d76ea14-4d83-4409-9703-b10c178b5dd1",
+        "name": "Study Session @ Huang Basement",
+        "description": "Come join a high-energy board game night for Stanford undergrads.",
+        "tags": [
+            "games",
+            "party"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-04-15T10:07:48.368505+00:00",
+        "end_time": "2025-04-15T14:07:48.368505+00:00",
+        "created_at": "2025-04-21T00:07:48.368517+00:00",
+        "creator_id": "ea2f1cc8-8ba2-4db7-99b6-a3aac633b63c"
+    },
+    {
+        "id": "8b043819-07bf-4fd2-ac8f-daf3215b122a",
+        "community_id": "f025227e-583f-4d67-bff2-9ba75ad79838",
+        "name": "Open Mic @ Studio 2",
+        "description": "Come join a brainy party for Stanford undergrads.",
+        "tags": [
+            "music",
+            "academic"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-04-22T18:07:48.36855+00:00",
+        "end_time": "2025-04-22T21:07:48.36855+00:00",
+        "created_at": "2025-04-21T00:07:48.368563+00:00",
+        "creator_id": "fecab741-5157-4671-b783-374c33502019"
+    },
+    {
+        "id": "84538ff9-eb28-4f60-b790-bc8f3f41c0c4",
+        "community_id": "1ce1c628-3766-458e-bbad-f84bc70ae2c6",
+        "name": "Seminar @ Science Lecture Hall",
+        "description": "Come join a chill dance-off for Stanford undergrads.",
+        "tags": [
+            "party",
+            "social"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-14T19:07:48.368574+00:00",
+        "end_time": "2025-04-14T23:07:48.368574+00:00",
+        "created_at": "2025-04-21T00:07:48.368593+00:00",
+        "creator_id": "7a27bf96-b517-4523-919c-67bad310ab41"
+    },
+    {
+        "id": "f59822a9-084d-4483-ab7c-9893485f0942",
+        "community_id": "452b46f9-4610-4b34-bf53-584d3193d17d",
+        "name": "Study Session @ Huang Basement",
+        "description": "Come join a chill study session for Stanford undergrads.",
+        "tags": [
+            "games",
+            "creative"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-04-03T08:07:48.36862+00:00",
+        "end_time": "2025-04-03T12:07:48.36862+00:00",
+        "created_at": "2025-04-21T00:07:48.368633+00:00",
+        "creator_id": "1426cc1e-ad74-4480-bc5b-b8253eec8456"
+    },
+    {
+        "id": "acdab2f7-cb6b-4c84-b26e-15b9cf841900",
+        "community_id": "83f25cfc-f55f-4fe0-8ba5-2aca05b865b0",
+        "name": "Open Mic @ Green Library",
+        "description": "Come join a creative film night for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "wellness"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-05-15T04:07:48.368647+00:00",
+        "end_time": "2025-05-15T07:07:48.368647+00:00",
+        "created_at": "2025-04-21T00:07:48.368659+00:00",
+        "creator_id": "b4c7acbb-6b0c-4925-ac74-049ff5c19f18"
+    },
+    {
+        "id": "5e796401-05d8-4e01-8f4f-16c02f34ed0d",
+        "community_id": "a48721e4-97af-4dd7-818c-6918a0b8302a",
+        "name": "Open Mic @ Science Lecture Hall",
+        "description": "Come join a creative study session for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "party"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-04-26T10:07:48.368674+00:00",
+        "end_time": "2025-04-26T11:07:48.368674+00:00",
+        "created_at": "2025-04-21T00:07:48.368685+00:00",
+        "creator_id": "d7b7b4aa-e30e-4c3c-9aaf-f1f9f699dcaa"
+    },
+    {
+        "id": "ad3fe2c9-2e35-4e05-91de-a8a2d6941f82",
+        "community_id": "83f25cfc-f55f-4fe0-8ba5-2aca05b865b0",
+        "name": "Study Session @ Tressider Patio",
+        "description": "Come join a creative seminar for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "tech"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-05-14T16:07:48.368715+00:00",
+        "end_time": "2025-05-14T19:07:48.368715+00:00",
+        "created_at": "2025-04-21T00:07:48.368743+00:00",
+        "creator_id": "de1ccc95-b326-410d-9d87-cb538c7f2f1b"
+    },
+    {
+        "id": "565b09d2-73f1-461a-b18f-c05a84fb1e3a",
+        "community_id": "d604e620-e550-4332-828f-6860340792ba",
+        "name": "Study Session @ Campus Lawn",
+        "description": "Come join a high-energy coding jam for Stanford undergrads.",
+        "tags": [
+            "games",
+            "music"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-05-07T08:07:48.368773+00:00",
+        "end_time": "2025-05-07T12:07:48.368773+00:00",
+        "created_at": "2025-04-21T00:07:48.368791+00:00",
+        "creator_id": "99c92edf-e625-4e0d-a596-2a8ef6f47c42"
+    },
+    {
+        "id": "ffcc7c92-bba2-4afb-864c-60b24b2dba65",
+        "community_id": "b6d6a473-fe1d-4b68-961e-fe0a26c306bb",
+        "name": "Board Game Night @ Science Lecture Hall",
+        "description": "Come join a creative study session for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "party"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-04-15T21:07:48.368819+00:00",
+        "end_time": "2025-04-15T23:07:48.368819+00:00",
+        "created_at": "2025-04-21T00:07:48.368832+00:00",
+        "creator_id": "3d657579-1e12-41fc-8b33-b37c42a4f131"
+    },
+    {
+        "id": "1010eb57-fd48-4c58-a023-35d9d9e3ec59",
+        "community_id": "8cf4ab00-b0a0-4666-a3de-6672559a4591",
+        "name": "Hackathon @ Main Quad",
+        "description": "Come join a high-energy dance-off for Stanford undergrads.",
+        "tags": [
+            "music",
+            "party"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-04-19T11:07:48.368855+00:00",
+        "end_time": "2025-04-19T15:07:48.368855+00:00",
+        "created_at": "2025-04-21T00:07:48.369056+00:00",
+        "creator_id": "d2d9761a-b46c-4755-a927-cafbf51330cb"
+    },
+    {
+        "id": "40f33aea-c420-4ed4-bb4c-4374c177dfd9",
+        "community_id": "df2f884c-0816-4bf4-8485-dec8c5efbc75",
+        "name": "Coding Jam @ Dorm Common Room",
+        "description": "Come join a high-energy party for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "social"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-05-07T16:07:48.369107+00:00",
+        "end_time": "2025-05-07T19:07:48.369107+00:00",
+        "created_at": "2025-04-21T00:07:48.369124+00:00",
+        "creator_id": "dfd3f860-a41a-4e3c-8ee3-36154b9a085e"
+    },
+    {
+        "id": "311b6fe3-5313-4d50-9b60-fe5047538a0c",
+        "community_id": "b6d6a473-fe1d-4b68-961e-fe0a26c306bb",
+        "name": "Party @ Science Lecture Hall",
+        "description": "Come join a fun study session for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "creative"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-04-22T17:07:48.369145+00:00",
+        "end_time": "2025-04-22T18:07:48.369145+00:00",
+        "created_at": "2025-04-21T00:07:48.369163+00:00",
+        "creator_id": "9f6590fd-c128-4df2-bba4-5987c0709fae"
+    },
+    {
+        "id": "c3d91a51-70f0-4746-8c04-3caa6bd1fe2c",
+        "community_id": "df67ea56-82d7-4d7f-88c5-a04d70ab2359",
+        "name": "Seminar @ Tressider Patio",
+        "description": "Come join a chill party for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "music"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-05-17T10:07:48.369183+00:00",
+        "end_time": "2025-05-17T14:07:48.369183+00:00",
+        "created_at": "2025-04-21T00:07:48.369195+00:00",
+        "creator_id": "3ec65900-5d0b-4e07-b3b5-c4a9673b862c"
+    },
+    {
+        "id": "2cba725d-79d9-42ba-b854-2bf8dd41e5d6",
+        "community_id": "68c876ca-8781-4f95-9160-e78c5d5d24ea",
+        "name": "Seminar @ Huang Basement",
+        "description": "Come join a chill study session for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "tech"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-03-23T00:07:48.369217+00:00",
+        "end_time": "2025-03-23T02:07:48.369217+00:00",
+        "created_at": "2025-04-21T00:07:48.36923+00:00",
+        "creator_id": "45e26b81-1d62-48c2-9f8a-48fc85763187"
+    },
+    {
+        "id": "ae2a02b5-8733-4b26-a847-f04124db1b9c",
+        "community_id": "c468e704-041a-48aa-9d9b-2415b9fbb40e",
+        "name": "Seminar @ Dorm Common Room",
+        "description": "Come join a high-energy board game night for Stanford undergrads.",
+        "tags": [
+            "games",
+            "tech"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-04-04T21:07:48.369263+00:00",
+        "end_time": "2025-04-05T01:07:48.369263+00:00",
+        "created_at": "2025-04-21T00:07:48.369284+00:00",
+        "creator_id": "396e9bec-d5b0-4cf8-9be7-9568959ffa29"
+    },
+    {
+        "id": "4b668705-b958-4eda-8e80-0f6096a0f5fd",
+        "community_id": "20c6bf06-a67c-4edd-a378-43f4a27740b9",
+        "name": "Dance-Off @ Tressider Patio",
+        "description": "Come join a high-energy dance-off for Stanford undergrads.",
+        "tags": [
+            "games",
+            "tech"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-03-29T15:07:48.369308+00:00",
+        "end_time": "2025-03-29T19:07:48.369308+00:00",
+        "created_at": "2025-04-21T00:07:48.369322+00:00",
+        "creator_id": "3de31bce-24bf-4ec1-b314-61a0f6c1ee63"
+    },
+    {
+        "id": "0e51ca76-637d-4723-a63d-947efd25a26d",
+        "community_id": "2f1aa073-bbf9-40f5-a397-4d00c1da72cd",
+        "name": "Art Jam @ Main Quad",
+        "description": "Come join a high-energy open mic for Stanford undergrads.",
+        "tags": [
+            "games",
+            "party"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-04-06T13:07:48.369344+00:00",
+        "end_time": "2025-04-06T16:07:48.369344+00:00",
+        "created_at": "2025-04-21T00:07:48.369356+00:00",
+        "creator_id": "3f4f9016-712f-4cba-8a78-44cacdbfe5a1"
+    },
+    {
+        "id": "a05c6332-7c3b-40fd-8257-f5f2c81e9f9c",
+        "community_id": "d3a195c0-f2f5-497a-8e2c-cce1e64c8d50",
+        "name": "Board Game Night @ Campus Lawn",
+        "description": "Come join a fun hackathon for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "tech"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-05-01T22:07:48.369375+00:00",
+        "end_time": "2025-05-01T23:07:48.369375+00:00",
+        "created_at": "2025-04-21T00:07:48.369388+00:00",
+        "creator_id": "d4b5afbe-ce30-4a42-8319-ab81d3ed5aa3"
+    },
+    {
+        "id": "e1d60d79-641d-4639-8e89-b65dda1aa2db",
+        "community_id": "d3a195c0-f2f5-497a-8e2c-cce1e64c8d50",
+        "name": "Board Game Night @ Green Library",
+        "description": "Come join a fun seminar for Stanford undergrads.",
+        "tags": [
+            "games",
+            "academic"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-04-27T04:07:48.36941+00:00",
+        "end_time": "2025-04-27T05:07:48.36941+00:00",
+        "created_at": "2025-04-21T00:07:48.369422+00:00",
+        "creator_id": "1426cc1e-ad74-4480-bc5b-b8253eec8456"
+    },
+    {
+        "id": "cc55f3c6-5647-4ad1-a176-8f517d97655d",
+        "community_id": "1016e15a-e708-4548-968d-8518f1a5543f",
+        "name": "Party @ Science Lecture Hall",
+        "description": "Come join a creative party for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "party"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-05-05T01:07:48.369453+00:00",
+        "end_time": "2025-05-05T04:07:48.369453+00:00",
+        "created_at": "2025-04-21T00:07:48.369465+00:00",
+        "creator_id": "90a5ede7-e3ea-4af7-9f2a-f9253062243f"
+    },
+    {
+        "id": "7dd0b433-3e49-4b79-bfd2-b4ef5d478c21",
+        "community_id": "3c0dba12-d7c0-49e3-bf68-76d8af412e08",
+        "name": "Party @ Campus Lawn",
+        "description": "Come join a brainy dance-off for Stanford undergrads.",
+        "tags": [
+            "music",
+            "creative"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-03-26T02:07:48.369483+00:00",
+        "end_time": "2025-03-26T06:07:48.369483+00:00",
+        "created_at": "2025-04-21T00:07:48.369495+00:00",
+        "creator_id": "054681b2-e23f-42a3-85f3-ff327612d786"
+    },
+    {
+        "id": "ba6708bf-5af4-4934-9d53-f7104eb8f412",
+        "community_id": "aa976cb7-d123-4bc6-8afd-5244d6c63b81",
+        "name": "Dance-Off @ Campus Lawn",
+        "description": "Come join a high-energy coding jam for Stanford undergrads.",
+        "tags": [
+            "party",
+            "music"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-05-16T02:07:48.369524+00:00",
+        "end_time": "2025-05-16T06:07:48.369524+00:00",
+        "created_at": "2025-04-21T00:07:48.369537+00:00",
+        "creator_id": "debdfb80-9891-4dad-9395-2787deb8c265"
+    },
+    {
+        "id": "06139808-be89-4530-b698-f8f96fe12693",
+        "community_id": "a8ad21d6-7f22-49b5-92e3-45b42be8a073",
+        "name": "Seminar @ Huang Basement",
+        "description": "Come join a high-energy dance-off for Stanford undergrads.",
+        "tags": [
+            "social",
+            "wellness"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-05-09T04:07:48.369553+00:00",
+        "end_time": "2025-05-09T08:07:48.369553+00:00",
+        "created_at": "2025-04-21T00:07:48.369565+00:00",
+        "creator_id": "3cd81a58-1c2f-4244-8cec-da4fb94e6938"
+    },
+    {
+        "id": "0462a926-5136-4f85-af1c-584ea9503360",
+        "community_id": "f025227e-583f-4d67-bff2-9ba75ad79838",
+        "name": "Hackathon @ Campus Lawn",
+        "description": "Come join a chill coding jam for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "party"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-04-14T16:07:48.369584+00:00",
+        "end_time": "2025-04-14T17:07:48.369584+00:00",
+        "created_at": "2025-04-21T00:07:48.369596+00:00",
+        "creator_id": "72608d21-5f30-43e9-8a6c-7390339cc00d"
+    },
+    {
+        "id": "68a3e6d7-8282-4c04-aa69-4c078d21de98",
+        "community_id": "efa9cda3-5c3c-4285-aa81-ebce5482c988",
+        "name": "Hackathon @ Science Lecture Hall",
+        "description": "Come join a fun art jam for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "games"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-04-25T05:07:48.369617+00:00",
+        "end_time": "2025-04-25T08:07:48.369617+00:00",
+        "created_at": "2025-04-21T00:07:48.369629+00:00",
+        "creator_id": "80064b1c-c4dd-44be-995b-ab854ea329b9"
+    },
+    {
+        "id": "5f4cb46f-f74e-4bce-a772-d3090d2e9cf4",
+        "community_id": "1ce1c628-3766-458e-bbad-f84bc70ae2c6",
+        "name": "Art Jam @ Studio 2",
+        "description": "Come join a high-energy study session for Stanford undergrads.",
+        "tags": [
+            "games",
+            "tech"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-04-18T17:07:48.369649+00:00",
+        "end_time": "2025-04-18T20:07:48.369649+00:00",
+        "created_at": "2025-04-21T00:07:48.369668+00:00",
+        "creator_id": "adaa1657-e8e3-482c-981d-8bc7ae793db5"
+    },
+    {
+        "id": "679a6398-2273-4171-9cb9-31dbb4bd6f33",
+        "community_id": "df1c9229-239a-499a-99fd-fa34584682a1",
+        "name": "Open Mic @ Huang Basement",
+        "description": "Come join a brainy party for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "games"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-04-12T03:07:48.36969+00:00",
+        "end_time": "2025-04-12T05:07:48.36969+00:00",
+        "created_at": "2025-04-21T00:07:48.369702+00:00",
+        "creator_id": "d04934a3-454f-468e-9f5e-0ae4c6659270"
+    },
+    {
+        "id": "b1499767-330f-4a4b-a4b5-d13d25ae53a4",
+        "community_id": "2ff203ec-f2dd-4676-ab3b-c7c0396ac1e7",
+        "name": "Hackathon @ Studio 2",
+        "description": "Come join a chill party for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "music"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-04-16T09:07:48.369723+00:00",
+        "end_time": "2025-04-16T11:07:48.369723+00:00",
+        "created_at": "2025-04-21T00:07:48.369735+00:00",
+        "creator_id": "c588c9a0-9819-4580-be2b-6608bcda48c4"
+    },
+    {
+        "id": "dc231971-2acf-4438-b483-d42ea868beec",
+        "community_id": "a48721e4-97af-4dd7-818c-6918a0b8302a",
+        "name": "Hackathon @ Studio 2",
+        "description": "Come join a fun seminar for Stanford undergrads.",
+        "tags": [
+            "games",
+            "academic"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-04-12T17:07:48.369755+00:00",
+        "end_time": "2025-04-12T21:07:48.369755+00:00",
+        "created_at": "2025-04-21T00:07:48.369767+00:00",
+        "creator_id": "cd7b3885-b197-4663-bf0d-d6b62f82ad4f"
+    },
+    {
+        "id": "cc1b8d1e-cc89-4e5e-8a29-849ad4b6e35c",
+        "community_id": "8cf4ab00-b0a0-4666-a3de-6672559a4591",
+        "name": "Film Night @ Huang Basement",
+        "description": "Come join a chill dance-off for Stanford undergrads.",
+        "tags": [
+            "social",
+            "music"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-05-06T01:07:48.369787+00:00",
+        "end_time": "2025-05-06T03:07:48.369787+00:00",
+        "created_at": "2025-04-21T00:07:48.369798+00:00",
+        "creator_id": "cdf4df81-6341-4be6-8c4f-7cff3353459b"
+    },
+    {
+        "id": "5baaa084-a485-4548-ae6f-ed075aef544e",
+        "community_id": "9273f472-23f2-4157-9bfe-d9eb68ac7c3c",
+        "name": "Film Night @ Dorm Common Room",
+        "description": "Come join a high-energy party for Stanford undergrads.",
+        "tags": [
+            "games",
+            "wellness"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-04-17T04:07:48.369821+00:00",
+        "end_time": "2025-04-17T07:07:48.369821+00:00",
+        "created_at": "2025-04-21T00:07:48.369832+00:00",
+        "creator_id": "01642664-df1d-477e-b724-15c3d65531bc"
+    },
+    {
+        "id": "997d5f9b-6e9b-4106-a78d-baa8ef5349f4",
+        "community_id": "5c8cd743-f49e-4f3c-ba85-3188bf0ad5c4",
+        "name": "Art Jam @ Dorm Common Room",
+        "description": "Come join a high-energy seminar for Stanford undergrads.",
+        "tags": [
+            "party",
+            "games"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-04-02T12:07:48.36985+00:00",
+        "end_time": "2025-04-02T15:07:48.36985+00:00",
+        "created_at": "2025-04-21T00:07:48.369863+00:00",
+        "creator_id": "f857a2db-ef54-4c6c-b1ea-913b8763eab2"
+    },
+    {
+        "id": "669b2cfe-24c1-4914-af20-4fc278f0eee8",
+        "community_id": "fb39f115-aec2-4c81-bdca-2dc06b16e06c",
+        "name": "Film Night @ Studio 2",
+        "description": "Come join a brainy study session for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "music"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-04-20T05:07:48.369888+00:00",
+        "end_time": "2025-04-20T07:07:48.369888+00:00",
+        "created_at": "2025-04-21T00:07:48.3699+00:00",
+        "creator_id": "0bdc1660-30ba-4d82-9211-fcd354883a10"
+    },
+    {
+        "id": "4dea47f5-a9e6-46a4-bb6b-083f8db51c89",
+        "community_id": "5c8cd743-f49e-4f3c-ba85-3188bf0ad5c4",
+        "name": "Film Night @ Green Library",
+        "description": "Come join a creative film night for Stanford undergrads.",
+        "tags": [
+            "social",
+            "tech"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-04-12T07:07:48.369921+00:00",
+        "end_time": "2025-04-12T09:07:48.369921+00:00",
+        "created_at": "2025-04-21T00:07:48.369936+00:00",
+        "creator_id": "b1d19c6b-9125-46b9-b64b-73530609d2d8"
+    },
+    {
+        "id": "5b638684-8741-48bc-adbd-42903227ea38",
+        "community_id": "11b3f0d4-5ace-46ff-8d56-65d414529c34",
+        "name": "Seminar @ Science Lecture Hall",
+        "description": "Come join a fun board game night for Stanford undergrads.",
+        "tags": [
+            "social",
+            "tech"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-04-18T14:07:48.369963+00:00",
+        "end_time": "2025-04-18T15:07:48.369963+00:00",
+        "created_at": "2025-04-21T00:07:48.369979+00:00",
+        "creator_id": "e0eb84ca-4e05-4cd0-8dee-5d6fc8e314e4"
+    },
+    {
+        "id": "5726ca94-0247-43bd-91da-d43d83494def",
+        "community_id": "d3a195c0-f2f5-497a-8e2c-cce1e64c8d50",
+        "name": "Coding Jam @ Green Library",
+        "description": "Come join a fun seminar for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "games"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-05-08T16:07:48.370002+00:00",
+        "end_time": "2025-05-08T20:07:48.370002+00:00",
+        "created_at": "2025-04-21T00:07:48.370014+00:00",
+        "creator_id": "fee9b6da-7853-4416-8b40-68b169ce3f32"
+    },
+    {
+        "id": "a4c4641f-88ac-4b41-a9bd-15cff2c63ba7",
+        "community_id": "df67ea56-82d7-4d7f-88c5-a04d70ab2359",
+        "name": "Seminar @ Campus Lawn",
+        "description": "Come join a high-energy coding jam for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "creative"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-05-12T13:07:48.370032+00:00",
+        "end_time": "2025-05-12T16:07:48.370032+00:00",
+        "created_at": "2025-04-21T00:07:48.370045+00:00",
+        "creator_id": "a9f8f4a3-1075-4008-98b7-f11b4c2019ff"
+    },
+    {
+        "id": "5fe46f38-c274-4293-b60f-9baf32440696",
+        "community_id": "20c6bf06-a67c-4edd-a378-43f4a27740b9",
+        "name": "Film Night @ Green Library",
+        "description": "Come join a chill art jam for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "games"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-03-26T01:07:48.370089+00:00",
+        "end_time": "2025-03-26T04:07:48.370089+00:00",
+        "created_at": "2025-04-21T00:07:48.370104+00:00",
+        "creator_id": "347efaf8-577d-4b31-8938-3fdeb55fbe0f"
+    },
+    {
+        "id": "73c02031-30ef-4f59-b647-439bfc82a757",
+        "community_id": "e31b5f7d-d03a-47eb-a587-7ef1491b198d",
+        "name": "Hackathon @ Dorm Common Room",
+        "description": "Come join a chill seminar for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "party"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-05-09T06:07:48.370146+00:00",
+        "end_time": "2025-05-09T10:07:48.370146+00:00",
+        "created_at": "2025-04-21T00:07:48.37016+00:00",
+        "creator_id": "f302db34-5dcd-4975-ab47-bcde8e054e67"
+    },
+    {
+        "id": "1aa9ca0f-3a6e-467a-a71f-189d318ce173",
+        "community_id": "5c8cd743-f49e-4f3c-ba85-3188bf0ad5c4",
+        "name": "Board Game Night @ Studio 2",
+        "description": "Come join a fun coding jam for Stanford undergrads.",
+        "tags": [
+            "games",
+            "social"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-04-18T23:07:48.370182+00:00",
+        "end_time": "2025-04-19T00:07:48.370182+00:00",
+        "created_at": "2025-04-21T00:07:48.370197+00:00",
+        "creator_id": "1c0a921f-0518-45d0-9a8b-a9a6ab543417"
+    },
+    {
+        "id": "760dab1c-9a38-4a9f-a47f-deaa3b178e7d",
+        "community_id": "4993b1cf-e519-426e-bce1-938f6ef78c07",
+        "name": "Board Game Night @ Main Quad",
+        "description": "Come join a brainy dance-off for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "games"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-05-08T01:07:48.370209+00:00",
+        "end_time": "2025-05-08T04:07:48.370209+00:00",
+        "created_at": "2025-04-21T00:07:48.370221+00:00",
+        "creator_id": "d9a31eed-8ae9-4cf1-9b75-72531e772a0b"
+    },
+    {
+        "id": "e224b721-c958-4aba-9114-3475846d7fb4",
+        "community_id": "5c32cbcf-5244-4c69-8f46-838bff8fe6d5",
+        "name": "Study Session @ Campus Lawn",
+        "description": "Come join a brainy open mic for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "tech"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-05-18T21:07:48.37024+00:00",
+        "end_time": "2025-05-18T23:07:48.37024+00:00",
+        "created_at": "2025-04-21T00:07:48.370252+00:00",
+        "creator_id": "b79c8bd2-b7c1-4a16-b0a1-7fc7491ed0b7"
+    },
+    {
+        "id": "a75c4ed3-228d-40ac-84d8-4e6ec7e9370a",
+        "community_id": "5f8b1f4e-394b-45a2-9972-f0fa60a21c64",
+        "name": "Coding Jam @ Green Library",
+        "description": "Come join a high-energy open mic for Stanford undergrads.",
+        "tags": [
+            "music",
+            "creative"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-04-22T14:07:48.370271+00:00",
+        "end_time": "2025-04-22T18:07:48.370271+00:00",
+        "created_at": "2025-04-21T00:07:48.370283+00:00",
+        "creator_id": "abd35416-043e-4388-9796-408947153b3b"
+    },
+    {
+        "id": "37c78b1a-4cee-423b-ba5a-08ce56d2b639",
+        "community_id": "efa9cda3-5c3c-4285-aa81-ebce5482c988",
+        "name": "Party @ Studio 2",
+        "description": "Come join a brainy study session for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "games"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-04-01T02:07:48.370302+00:00",
+        "end_time": "2025-04-01T04:07:48.370302+00:00",
+        "created_at": "2025-04-21T00:07:48.370315+00:00",
+        "creator_id": "abc8357f-fc14-4e48-97c1-50cf336d5627"
+    },
+    {
+        "id": "c6f19ad8-f7bd-4c6a-8cc0-b1b8259512d0",
+        "community_id": "1ce1c628-3766-458e-bbad-f84bc70ae2c6",
+        "name": "Art Jam @ Campus Lawn",
+        "description": "Come join a chill coding jam for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "party"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-04-27T05:07:48.37034+00:00",
+        "end_time": "2025-04-27T09:07:48.37034+00:00",
+        "created_at": "2025-04-21T00:07:48.37036+00:00",
+        "creator_id": "a14be3e0-17ad-4f6b-88bb-ba3146145d99"
+    },
+    {
+        "id": "d63d4f79-4162-4e89-8311-6a4c5704af47",
+        "community_id": "aa976cb7-d123-4bc6-8afd-5244d6c63b81",
+        "name": "Study Session @ Science Lecture Hall",
+        "description": "Come join a brainy seminar for Stanford undergrads.",
+        "tags": [
+            "music",
+            "games"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-04-24T18:07:48.370395+00:00",
+        "end_time": "2025-04-24T22:07:48.370395+00:00",
+        "created_at": "2025-04-21T00:07:48.370408+00:00",
+        "creator_id": "b643d915-ee6d-4702-b4e7-d586ebfe1624"
+    },
+    {
+        "id": "c2c9fcfe-46fe-4aeb-a78e-c3d37a7b43a8",
+        "community_id": "c7fa1b92-f581-4bd0-b607-d22255629f0e",
+        "name": "Study Session @ Tressider Patio",
+        "description": "Come join a chill art jam for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "creative"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-04-14T21:07:48.370427+00:00",
+        "end_time": "2025-04-14T22:07:48.370427+00:00",
+        "created_at": "2025-04-21T00:07:48.37044+00:00",
+        "creator_id": "842d3755-9666-42e5-91c2-6bef1a9797e7"
+    },
+    {
+        "id": "bbeeb347-ea13-4250-a5a0-e9a5791c51cc",
+        "community_id": "d3a195c0-f2f5-497a-8e2c-cce1e64c8d50",
+        "name": "Art Jam @ Huang Basement",
+        "description": "Come join a fun open mic for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "tech"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-04-21T02:07:48.370462+00:00",
+        "end_time": "2025-04-21T05:07:48.370462+00:00",
+        "created_at": "2025-04-21T00:07:48.370474+00:00",
+        "creator_id": "98ab9d3b-8dbc-470f-8a3c-4e40d655ebd2"
+    },
+    {
+        "id": "bc01c2fa-60c6-45c8-b5e8-b58a9e03ce18",
+        "community_id": "1016e15a-e708-4548-968d-8518f1a5543f",
+        "name": "Seminar @ Green Library",
+        "description": "Come join a creative coding jam for Stanford undergrads.",
+        "tags": [
+            "party",
+            "music"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-04-24T12:07:48.370503+00:00",
+        "end_time": "2025-04-24T14:07:48.370503+00:00",
+        "created_at": "2025-04-21T00:07:48.370514+00:00",
+        "creator_id": "8d44ce2a-c05d-410a-bad4-c4bd5b456282"
+    },
+    {
+        "id": "4038d257-ab76-4958-a28b-29250b480aa5",
+        "community_id": "7cca4f6c-06dd-48bc-9466-ffe83013ce9e",
+        "name": "Art Jam @ Dorm Common Room",
+        "description": "Come join a creative seminar for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "party"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-04-23T09:07:48.370524+00:00",
+        "end_time": "2025-04-23T10:07:48.370524+00:00",
+        "created_at": "2025-04-21T00:07:48.370537+00:00",
+        "creator_id": "443adddf-f12c-4894-b8fd-3e9e61d6617a"
+    },
+    {
+        "id": "664cf066-3fca-45a2-9d8b-cb5a686bdb7d",
+        "community_id": "7cca4f6c-06dd-48bc-9466-ffe83013ce9e",
+        "name": "Film Night @ Dorm Common Room",
+        "description": "Come join a creative study session for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "music"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-04-13T01:07:48.37057+00:00",
+        "end_time": "2025-04-13T04:07:48.37057+00:00",
+        "created_at": "2025-04-21T00:07:48.370583+00:00",
+        "creator_id": "8d44ce2a-c05d-410a-bad4-c4bd5b456282"
+    },
+    {
+        "id": "6adb3323-5557-4418-855b-9b80a4891b66",
+        "community_id": "dc50267a-c743-4456-a36e-9ba9bd8dd04e",
+        "name": "Study Session @ Campus Lawn",
+        "description": "Come join a chill film night for Stanford undergrads.",
+        "tags": [
+            "party",
+            "games"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-04-15T17:07:48.370601+00:00",
+        "end_time": "2025-04-15T20:07:48.370601+00:00",
+        "created_at": "2025-04-21T00:07:48.370613+00:00",
+        "creator_id": "4ba225b1-b8a0-479c-b167-547d39a81c6d"
+    },
+    {
+        "id": "10f38af9-6297-4825-a67e-c5abde1ac602",
+        "community_id": "5c8cd743-f49e-4f3c-ba85-3188bf0ad5c4",
+        "name": "Art Jam @ Huang Basement",
+        "description": "Come join a creative coding jam for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "games"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-04-13T02:07:48.37063+00:00",
+        "end_time": "2025-04-13T06:07:48.37063+00:00",
+        "created_at": "2025-04-21T00:07:48.370642+00:00",
+        "creator_id": "13da3727-b0c7-4f13-9d6b-1133fa44fa3a"
+    },
+    {
+        "id": "174b64ed-92fa-4cd3-b246-6d63ca7a0c61",
+        "community_id": "d512e2ad-f538-4a60-b400-83e04684d4c3",
+        "name": "Film Night @ Huang Basement",
+        "description": "Come join a high-energy art jam for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "music"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-05-02T06:07:48.370668+00:00",
+        "end_time": "2025-05-02T09:07:48.370668+00:00",
+        "created_at": "2025-04-21T00:07:48.37068+00:00",
+        "creator_id": "90512951-98ab-4128-b6a3-6cd52078f0bb"
+    },
+    {
+        "id": "afa04e36-feb9-4c34-8837-dcc1ecd8bde1",
+        "community_id": "df2f884c-0816-4bf4-8485-dec8c5efbc75",
+        "name": "Open Mic @ Studio 2",
+        "description": "Come join a brainy art jam for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "creative"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-05-08T14:07:48.370701+00:00",
+        "end_time": "2025-05-08T15:07:48.370701+00:00",
+        "created_at": "2025-04-21T00:07:48.370717+00:00",
+        "creator_id": "80a39cb2-17a1-4531-bb2d-bc7b49752152"
+    },
+    {
+        "id": "e38c526d-8ff2-4946-a31d-1dc17a7c6966",
+        "community_id": "4b2f5621-37b6-4fc0-bc58-06cd679bcfb1",
+        "name": "Party @ Green Library",
+        "description": "Come join a high-energy board game night for Stanford undergrads.",
+        "tags": [
+            "social",
+            "party"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-04-01T01:07:48.370738+00:00",
+        "end_time": "2025-04-01T05:07:48.370738+00:00",
+        "created_at": "2025-04-21T00:07:48.37075+00:00",
+        "creator_id": "30f719b7-4d17-44fb-93ed-6dbb66881e46"
+    },
+    {
+        "id": "6e7c4ac9-9d77-441d-8224-de68510896b1",
+        "community_id": "2129f14f-303e-4d31-8865-11cadd841af8",
+        "name": "Seminar @ Huang Basement",
+        "description": "Come join a creative study session for Stanford undergrads.",
+        "tags": [
+            "social",
+            "creative"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-03-29T11:07:48.370785+00:00",
+        "end_time": "2025-03-29T12:07:48.370785+00:00",
+        "created_at": "2025-04-21T00:07:48.370798+00:00",
+        "creator_id": "2ccf2c46-19d7-4432-81ea-6babf15b75fe"
+    },
+    {
+        "id": "4c358a4d-c455-4f8b-87ec-89c45de56a71",
+        "community_id": "2e94da09-eba2-4e90-b9e7-be60178552c6",
+        "name": "Art Jam @ Huang Basement",
+        "description": "Come join a high-energy seminar for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "social"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-01T13:07:48.370821+00:00",
+        "end_time": "2025-04-01T14:07:48.370821+00:00",
+        "created_at": "2025-04-21T00:07:48.370837+00:00",
+        "creator_id": "04addd2c-e0b8-409c-8d49-2f07254c86f6"
+    },
+    {
+        "id": "a1b4b6c2-ddda-471f-b47e-ec3c283a74ba",
+        "community_id": "2129f14f-303e-4d31-8865-11cadd841af8",
+        "name": "Study Session @ Green Library",
+        "description": "Come join a high-energy board game night for Stanford undergrads.",
+        "tags": [
+            "party",
+            "academic"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-04-25T17:07:48.370862+00:00",
+        "end_time": "2025-04-25T20:07:48.370862+00:00",
+        "created_at": "2025-04-21T00:07:48.370879+00:00",
+        "creator_id": "2e4a47d0-35af-40de-be6c-7ece6a7dddee"
+    },
+    {
+        "id": "0e2123c2-f455-4d87-bf97-ab0aeb0b1e5d",
+        "community_id": "8cf4ab00-b0a0-4666-a3de-6672559a4591",
+        "name": "Hackathon @ Campus Lawn",
+        "description": "Come join a brainy film night for Stanford undergrads.",
+        "tags": [
+            "party",
+            "social"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-04-03T13:07:48.370901+00:00",
+        "end_time": "2025-04-03T14:07:48.370901+00:00",
+        "created_at": "2025-04-21T00:07:48.370913+00:00",
+        "creator_id": "632f7fbd-d4df-4b85-a5cb-0e9c7f359aa5"
+    },
+    {
+        "id": "89c2a004-5c5a-40fb-9255-c7f0c099ac3f",
+        "community_id": "9273f472-23f2-4157-9bfe-d9eb68ac7c3c",
+        "name": "Art Jam @ Science Lecture Hall",
+        "description": "Come join a fun party for Stanford undergrads.",
+        "tags": [
+            "games",
+            "music"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-03-27T07:07:48.370939+00:00",
+        "end_time": "2025-03-27T11:07:48.370939+00:00",
+        "created_at": "2025-04-21T00:07:48.370951+00:00",
+        "creator_id": "8b127bba-eef9-4473-8692-1ace0ced5a2c"
+    },
+    {
+        "id": "deb8d40c-66bd-49dd-8a40-a3e75a58264b",
+        "community_id": "b6d6a473-fe1d-4b68-961e-fe0a26c306bb",
+        "name": "Hackathon @ Green Library",
+        "description": "Come join a creative coding jam for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "academic"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-29T00:07:48.37097+00:00",
+        "end_time": "2025-04-29T04:07:48.37097+00:00",
+        "created_at": "2025-04-21T00:07:48.370981+00:00",
+        "creator_id": "f747a4ae-8059-40b6-8f46-b1f5d0d4e535"
+    },
+    {
+        "id": "0aee7935-bb29-4c4d-b48d-d9e53b1bcb4b",
+        "community_id": "b467a6bc-c212-44b2-9aa4-420335ed7143",
+        "name": "Coding Jam @ Tressider Patio",
+        "description": "Come join a fun board game night for Stanford undergrads.",
+        "tags": [
+            "music",
+            "games"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-03T13:07:48.371002+00:00",
+        "end_time": "2025-04-03T17:07:48.371002+00:00",
+        "created_at": "2025-04-21T00:07:48.371017+00:00",
+        "creator_id": "fa21541d-efba-4b2d-8b1f-ff3b3390c540"
+    },
+    {
+        "id": "9f9f8a80-1718-4fef-af53-e3c8a599e3c4",
+        "community_id": "68c876ca-8781-4f95-9160-e78c5d5d24ea",
+        "name": "Art Jam @ Campus Lawn",
+        "description": "Come join a fun dance-off for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "academic"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-05-10T17:07:48.371045+00:00",
+        "end_time": "2025-05-10T21:07:48.371045+00:00",
+        "created_at": "2025-04-21T00:07:48.371066+00:00",
+        "creator_id": "a49645e4-75de-467f-ba2f-08f8e9f01b5d"
+    },
+    {
+        "id": "5afe8235-c159-4dc3-8bed-adf7ee9f2c66",
+        "community_id": "83f25cfc-f55f-4fe0-8ba5-2aca05b865b0",
+        "name": "Coding Jam @ Campus Lawn",
+        "description": "Come join a brainy art jam for Stanford undergrads.",
+        "tags": [
+            "social",
+            "party"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-04-19T22:07:48.371088+00:00",
+        "end_time": "2025-04-19T23:07:48.371088+00:00",
+        "created_at": "2025-04-21T00:07:48.3711+00:00",
+        "creator_id": "c4ed8d88-d7df-45bf-83fb-1831af6f015a"
+    },
+    {
+        "id": "2354f56c-4800-421a-a186-0a79ea301462",
+        "community_id": "efa9cda3-5c3c-4285-aa81-ebce5482c988",
+        "name": "Board Game Night @ Dorm Common Room",
+        "description": "Come join a high-energy dance-off for Stanford undergrads.",
+        "tags": [
+            "party",
+            "games"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-03-23T01:07:48.371127+00:00",
+        "end_time": "2025-03-23T02:07:48.371127+00:00",
+        "created_at": "2025-04-21T00:07:48.37116+00:00",
+        "creator_id": "57b4d013-8bf4-4630-bcd6-5c77fad6d059"
+    },
+    {
+        "id": "20a57cce-2f4d-4cd8-a50a-dd8a80ceb0b2",
+        "community_id": "7cca4f6c-06dd-48bc-9466-ffe83013ce9e",
+        "name": "Open Mic @ Tressider Patio",
+        "description": "Come join a brainy board game night for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "party"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-04-09T09:07:48.371325+00:00",
+        "end_time": "2025-04-09T13:07:48.371325+00:00",
+        "created_at": "2025-04-21T00:07:48.371365+00:00",
+        "creator_id": "fb042ade-7f2b-430d-9d10-975e51d87385"
+    },
+    {
+        "id": "a857daed-d067-4105-810a-dd17c9189ce9",
+        "community_id": "5c8cd743-f49e-4f3c-ba85-3188bf0ad5c4",
+        "name": "Party @ Campus Lawn",
+        "description": "Come join a high-energy art jam for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "party"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-04-15T01:07:48.371415+00:00",
+        "end_time": "2025-04-15T03:07:48.371415+00:00",
+        "created_at": "2025-04-21T00:07:48.371433+00:00",
+        "creator_id": "0f116986-1608-4810-b26c-abad6b55af14"
+    },
+    {
+        "id": "117b8e13-46e5-4af0-bb8f-0002602c44f2",
+        "community_id": "11b3f0d4-5ace-46ff-8d56-65d414529c34",
+        "name": "Film Night @ Huang Basement",
+        "description": "Come join a brainy party for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "academic"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-04-15T22:07:48.371456+00:00",
+        "end_time": "2025-04-16T02:07:48.371456+00:00",
+        "created_at": "2025-04-21T00:07:48.371471+00:00",
+        "creator_id": "b3e71e98-745f-467f-b6a2-62cd67f6c26e"
+    },
+    {
+        "id": "1506a0c5-db77-40d4-bc6f-066fe277241f",
+        "community_id": "11b3f0d4-5ace-46ff-8d56-65d414529c34",
+        "name": "Dance-Off @ Main Quad",
+        "description": "Come join a fun party for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "creative"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-05-08T14:07:48.37149+00:00",
+        "end_time": "2025-05-08T18:07:48.37149+00:00",
+        "created_at": "2025-04-21T00:07:48.371504+00:00",
+        "creator_id": "944d89e9-4813-4579-b3d1-21ee49d29304"
+    },
+    {
+        "id": "cddd71a1-7853-4500-83d8-08735d7ecc0b",
+        "community_id": "6fe64deb-e271-411a-8758-792b0d3054d4",
+        "name": "Party @ Studio 2",
+        "description": "Come join a creative art jam for Stanford undergrads.",
+        "tags": [
+            "music",
+            "party"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-04-20T22:07:48.371527+00:00",
+        "end_time": "2025-04-21T00:07:48.371527+00:00",
+        "created_at": "2025-04-21T00:07:48.37154+00:00",
+        "creator_id": "b79c8bd2-b7c1-4a16-b0a1-7fc7491ed0b7"
+    },
+    {
+        "id": "65552000-4566-4ecd-a0d7-67eac091098f",
+        "community_id": "efa9cda3-5c3c-4285-aa81-ebce5482c988",
+        "name": "Board Game Night @ Tressider Patio",
+        "description": "Come join a creative hackathon for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "social"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-04-23T04:07:48.371584+00:00",
+        "end_time": "2025-04-23T08:07:48.371584+00:00",
+        "created_at": "2025-04-21T00:07:48.371607+00:00",
+        "creator_id": "ea2f1cc8-8ba2-4db7-99b6-a3aac633b63c"
+    },
+    {
+        "id": "13fe37d2-ec1a-4827-b483-9df13490f49d",
+        "community_id": "1ce1c628-3766-458e-bbad-f84bc70ae2c6",
+        "name": "Open Mic @ Campus Lawn",
+        "description": "Come join a brainy study session for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "party"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-04-14T06:07:48.371626+00:00",
+        "end_time": "2025-04-14T07:07:48.371626+00:00",
+        "created_at": "2025-04-21T00:07:48.371638+00:00",
+        "creator_id": "fe59821f-9d0c-4794-8732-362c9336b50c"
+    },
+    {
+        "id": "db4d86cd-9db9-419e-972e-0263491481ab",
+        "community_id": "2ff203ec-f2dd-4676-ab3b-c7c0396ac1e7",
+        "name": "Open Mic @ Huang Basement",
+        "description": "Come join a high-energy art jam for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "creative"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-04-07T23:07:48.371657+00:00",
+        "end_time": "2025-04-08T01:07:48.371657+00:00",
+        "created_at": "2025-04-21T00:07:48.371669+00:00",
+        "creator_id": "cac2ff55-a5e5-4202-8c92-1e62202a3ae6"
+    },
+    {
+        "id": "5e4496cd-aafa-4d12-9b24-3098835f6155",
+        "community_id": "e31b5f7d-d03a-47eb-a587-7ef1491b198d",
+        "name": "Seminar @ Green Library",
+        "description": "Come join a high-energy board game night for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "social"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-05-18T13:07:48.371688+00:00",
+        "end_time": "2025-05-18T14:07:48.371688+00:00",
+        "created_at": "2025-04-21T00:07:48.371701+00:00",
+        "creator_id": "507d5e91-1a04-4edf-8fb7-069982cb4e58"
+    },
+    {
+        "id": "56c46df9-fa87-405b-b0fa-3e8525f41daf",
+        "community_id": "b6d6a473-fe1d-4b68-961e-fe0a26c306bb",
+        "name": "Dance-Off @ Main Quad",
+        "description": "Come join a brainy open mic for Stanford undergrads.",
+        "tags": [
+            "party",
+            "wellness"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-09T05:07:48.371734+00:00",
+        "end_time": "2025-04-09T07:07:48.371734+00:00",
+        "created_at": "2025-04-21T00:07:48.371749+00:00",
+        "creator_id": "dedd1f4a-cabe-4530-91f1-97cf353efbb3"
+    },
+    {
+        "id": "6e6d4802-5fa7-4be3-ace2-963edb1dda50",
+        "community_id": "20c6bf06-a67c-4edd-a378-43f4a27740b9",
+        "name": "Dance-Off @ Dorm Common Room",
+        "description": "Come join a creative hackathon for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "academic"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-24T19:07:48.371767+00:00",
+        "end_time": "2025-04-24T23:07:48.371767+00:00",
+        "created_at": "2025-04-21T00:07:48.37178+00:00",
+        "creator_id": "195d1e68-9a3f-4af0-ad57-185667e1dde1"
+    },
+    {
+        "id": "5e54def6-493d-4077-8187-fcde9d51dcd4",
+        "community_id": "7d76ea14-4d83-4409-9703-b10c178b5dd1",
+        "name": "Party @ Huang Basement",
+        "description": "Come join a high-energy seminar for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "games"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-04-11T09:07:48.371802+00:00",
+        "end_time": "2025-04-11T10:07:48.371802+00:00",
+        "created_at": "2025-04-21T00:07:48.371814+00:00",
+        "creator_id": "ae48770d-86dd-4f9f-b56b-1198370c8402"
+    },
+    {
+        "id": "85f923fc-8948-4884-a29e-004c84c45f8b",
+        "community_id": "f025227e-583f-4d67-bff2-9ba75ad79838",
+        "name": "Coding Jam @ Green Library",
+        "description": "Come join a brainy board game night for Stanford undergrads.",
+        "tags": [
+            "music",
+            "social"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-05-09T07:07:48.371843+00:00",
+        "end_time": "2025-05-09T08:07:48.371843+00:00",
+        "created_at": "2025-04-21T00:07:48.371855+00:00",
+        "creator_id": "30966180-38ff-4b78-aa0e-04afdf0947f7"
+    },
+    {
+        "id": "78c8431b-c822-4e5a-a430-00c10c6d2967",
+        "community_id": "b6d6a473-fe1d-4b68-961e-fe0a26c306bb",
+        "name": "Party @ Science Lecture Hall",
+        "description": "Come join a brainy film night for Stanford undergrads.",
+        "tags": [
+            "party",
+            "music"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-04-19T08:07:48.371879+00:00",
+        "end_time": "2025-04-19T11:07:48.371879+00:00",
+        "created_at": "2025-04-21T00:07:48.371892+00:00",
+        "creator_id": "a866b347-c2af-48de-bc35-ca0911857dfd"
+    },
+    {
+        "id": "98ca50aa-8138-4ba4-9e23-5f7f5b80c7f8",
+        "community_id": "20c6bf06-a67c-4edd-a378-43f4a27740b9",
+        "name": "Hackathon @ Huang Basement",
+        "description": "Come join a high-energy party for Stanford undergrads.",
+        "tags": [
+            "music",
+            "social"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-05-21T14:07:48.371919+00:00",
+        "end_time": "2025-05-21T17:07:48.371919+00:00",
+        "created_at": "2025-04-21T00:07:48.371932+00:00",
+        "creator_id": "a716e34e-ab1f-429b-b65a-4c5143a15d05"
+    },
+    {
+        "id": "366c21ea-19b5-4e8f-a764-1201e186fb9c",
+        "community_id": "a7c7365f-cd57-415f-a9ab-223511ee64a9",
+        "name": "Hackathon @ Science Lecture Hall",
+        "description": "Come join a creative film night for Stanford undergrads.",
+        "tags": [
+            "party",
+            "wellness"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-05-11T06:07:48.371954+00:00",
+        "end_time": "2025-05-11T10:07:48.371954+00:00",
+        "created_at": "2025-04-21T00:07:48.371967+00:00",
+        "creator_id": "c2fdb125-909a-4265-8308-24d8e0936d6e"
+    },
+    {
+        "id": "d4c4912d-0975-4d7d-9357-607dff187d0b",
+        "community_id": "364dd53b-5611-483b-ab71-42ef73946737",
+        "name": "Hackathon @ Campus Lawn",
+        "description": "Come join a fun film night for Stanford undergrads.",
+        "tags": [
+            "games",
+            "wellness"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-04-01T16:07:48.371987+00:00",
+        "end_time": "2025-04-01T20:07:48.371987+00:00",
+        "created_at": "2025-04-21T00:07:48.372003+00:00",
+        "creator_id": "5a7cc01b-28ea-4b55-95f6-6669ea92a68a"
+    },
+    {
+        "id": "db986ff3-948e-4a9b-8a64-ffad6e3ab6d7",
+        "community_id": "c468e704-041a-48aa-9d9b-2415b9fbb40e",
+        "name": "Dance-Off @ Main Quad",
+        "description": "Come join a high-energy coding jam for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "creative"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-03-23T21:07:48.372027+00:00",
+        "end_time": "2025-03-24T01:07:48.372027+00:00",
+        "created_at": "2025-04-21T00:07:48.372041+00:00",
+        "creator_id": "5c2b20db-e65c-4ac2-8244-91cb148430ad"
+    },
+    {
+        "id": "ebd39f56-b970-416f-8c7b-7daaf364a627",
+        "community_id": "29833b26-687b-4968-b20d-be0bb3de88df",
+        "name": "Open Mic @ Studio 2",
+        "description": "Come join a creative party for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "creative"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-03-28T06:07:48.372069+00:00",
+        "end_time": "2025-03-28T10:07:48.372069+00:00",
+        "created_at": "2025-04-21T00:07:48.372082+00:00",
+        "creator_id": "c8bce19f-c90a-4d30-b63d-5a876b27cec7"
+    },
+    {
+        "id": "5b5e0dc4-5dc4-4eca-b6a3-edc7c2d338d7",
+        "community_id": "985dda43-d1bb-47fd-96c4-2f842095174e",
+        "name": "Art Jam @ Main Quad",
+        "description": "Come join a high-energy open mic for Stanford undergrads.",
+        "tags": [
+            "music",
+            "games"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-08T07:07:48.372106+00:00",
+        "end_time": "2025-04-08T09:07:48.372106+00:00",
+        "created_at": "2025-04-21T00:07:48.372118+00:00",
+        "creator_id": "69dca569-9ced-4272-b854-f40a99bab6fb"
+    },
+    {
+        "id": "01727ddb-acbd-4adc-b501-137e25fe8f5b",
+        "community_id": "62f50119-55fa-4662-b393-14468806233e",
+        "name": "Coding Jam @ Campus Lawn",
+        "description": "Come join a fun party for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "social"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-04-04T08:07:48.372137+00:00",
+        "end_time": "2025-04-04T12:07:48.372137+00:00",
+        "created_at": "2025-04-21T00:07:48.372149+00:00",
+        "creator_id": "e4a878dc-d6de-4466-8c77-0f2b4b057095"
+    },
+    {
+        "id": "3f36e783-ae11-43e8-8818-4819ddfc8808",
+        "community_id": "364dd53b-5611-483b-ab71-42ef73946737",
+        "name": "Open Mic @ Huang Basement",
+        "description": "Come join a creative art jam for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "games"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-04-22T00:07:48.372168+00:00",
+        "end_time": "2025-04-22T01:07:48.372168+00:00",
+        "created_at": "2025-04-21T00:07:48.37218+00:00",
+        "creator_id": "217fdb76-dc2c-45bf-8e5d-5dbceac641d8"
+    },
+    {
+        "id": "b1235aaa-4f49-4abe-a2f5-7cdecec141d4",
+        "community_id": "2f1aa073-bbf9-40f5-a397-4d00c1da72cd",
+        "name": "Hackathon @ Green Library",
+        "description": "Come join a creative coding jam for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "music"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-04-02T18:07:48.372197+00:00",
+        "end_time": "2025-04-02T22:07:48.372197+00:00",
+        "created_at": "2025-04-21T00:07:48.372218+00:00",
+        "creator_id": "d8caa125-0202-4a25-b626-bbced61a1f78"
+    },
+    {
+        "id": "95aaeb8b-b0b4-47a0-9dcc-ce4674ffd7e0",
+        "community_id": "a7c7365f-cd57-415f-a9ab-223511ee64a9",
+        "name": "Party @ Campus Lawn",
+        "description": "Come join a fun party for Stanford undergrads.",
+        "tags": [
+            "games",
+            "social"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-05-15T16:07:48.37235+00:00",
+        "end_time": "2025-05-15T18:07:48.37235+00:00",
+        "created_at": "2025-04-21T00:07:48.372388+00:00",
+        "creator_id": "1b057eb6-e1c8-4bb9-a1f1-9a2cc49a1047"
+    },
+    {
+        "id": "bc5019fe-f5fb-499c-85fe-b95df39bff30",
+        "community_id": "11b3f0d4-5ace-46ff-8d56-65d414529c34",
+        "name": "Study Session @ Studio 2",
+        "description": "Come join a high-energy coding jam for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "creative"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-04-29T13:07:48.372429+00:00",
+        "end_time": "2025-04-29T15:07:48.372429+00:00",
+        "created_at": "2025-04-21T00:07:48.372444+00:00",
+        "creator_id": "9977684a-89dc-4a00-afbe-f535001fc7fa"
+    },
+    {
+        "id": "da0fe5c9-2d2b-4b0f-be8f-b3819d3c21e9",
+        "community_id": "efa9cda3-5c3c-4285-aa81-ebce5482c988",
+        "name": "Film Night @ Tressider Patio",
+        "description": "Come join a chill party for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "tech"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-04-28T15:07:48.372462+00:00",
+        "end_time": "2025-04-28T18:07:48.372462+00:00",
+        "created_at": "2025-04-21T00:07:48.372476+00:00",
+        "creator_id": "dbafe133-1703-47a8-a39b-d37e32865a41"
+    },
+    {
+        "id": "69d705c1-6520-4f10-a989-ee3592d19dd7",
+        "community_id": "de7b2ec2-e0d1-4130-9bb8-85158f1b6e72",
+        "name": "Dance-Off @ Dorm Common Room",
+        "description": "Come join a chill coding jam for Stanford undergrads.",
+        "tags": [
+            "music",
+            "social"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-04-01T02:07:48.372502+00:00",
+        "end_time": "2025-04-01T03:07:48.372502+00:00",
+        "created_at": "2025-04-21T00:07:48.372517+00:00",
+        "creator_id": "d6d16ec8-3340-42d6-a0b5-b19d0bb36b01"
+    },
+    {
+        "id": "5bb92eea-e7f5-4c71-8932-4273e94ea9a1",
+        "community_id": "5f4b9ecd-17fe-4607-bf2f-3d5f4e4cf7bc",
+        "name": "Seminar @ Science Lecture Hall",
+        "description": "Come join a high-energy study session for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "tech"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-04-04T06:07:48.372547+00:00",
+        "end_time": "2025-04-04T08:07:48.372547+00:00",
+        "created_at": "2025-04-21T00:07:48.372561+00:00",
+        "creator_id": "f4784164-3677-4a38-bae4-9d05b29d6768"
+    },
+    {
+        "id": "9b7c2af9-6589-4642-a90f-d1435dfddd14",
+        "community_id": "62f50119-55fa-4662-b393-14468806233e",
+        "name": "Art Jam @ Main Quad",
+        "description": "Come join a high-energy seminar for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "games"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-05-09T00:07:48.372583+00:00",
+        "end_time": "2025-05-09T02:07:48.372583+00:00",
+        "created_at": "2025-04-21T00:07:48.372602+00:00",
+        "creator_id": "a68427db-94fa-4b39-87f4-7922e20fdedf"
+    },
+    {
+        "id": "24a1dcfd-4dc0-4bd3-bf43-9317e1267510",
+        "community_id": "dc50267a-c743-4456-a36e-9ba9bd8dd04e",
+        "name": "Seminar @ Science Lecture Hall",
+        "description": "Come join a chill hackathon for Stanford undergrads.",
+        "tags": [
+            "music",
+            "wellness"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-04-11T15:07:48.372639+00:00",
+        "end_time": "2025-04-11T17:07:48.372639+00:00",
+        "created_at": "2025-04-21T00:07:48.372652+00:00",
+        "creator_id": "83a5cc90-3441-4bfd-ac36-7a37ef1d53e0"
+    },
+    {
+        "id": "81b8edaa-5815-4387-800b-6719a7804048",
+        "community_id": "b6d6a473-fe1d-4b68-961e-fe0a26c306bb",
+        "name": "Hackathon @ Green Library",
+        "description": "Come join a high-energy hackathon for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "academic"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-04-24T06:07:48.372683+00:00",
+        "end_time": "2025-04-24T09:07:48.372683+00:00",
+        "created_at": "2025-04-21T00:07:48.372695+00:00",
+        "creator_id": "3024c3d3-b4ec-47ed-950a-016c65b2fc8b"
+    },
+    {
+        "id": "a1358cf7-00e4-40e3-a95d-78086c95c900",
+        "community_id": "b467a6bc-c212-44b2-9aa4-420335ed7143",
+        "name": "Board Game Night @ Tressider Patio",
+        "description": "Come join a creative party for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "party"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-04-14T16:07:48.372721+00:00",
+        "end_time": "2025-04-14T19:07:48.372721+00:00",
+        "created_at": "2025-04-21T00:07:48.372734+00:00",
+        "creator_id": "d5d41391-18f0-4345-a5f1-1533ce97ea50"
+    },
+    {
+        "id": "e1225f53-492d-430b-8088-3c41b2708af9",
+        "community_id": "29833b26-687b-4968-b20d-be0bb3de88df",
+        "name": "Art Jam @ Huang Basement",
+        "description": "Come join a high-energy coding jam for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "creative"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-05-09T05:07:48.372755+00:00",
+        "end_time": "2025-05-09T06:07:48.372755+00:00",
+        "created_at": "2025-04-21T00:07:48.372774+00:00",
+        "creator_id": "2c9afa97-9e08-4041-9611-671aa06ca9c6"
+    },
+    {
+        "id": "d6bf1a13-8501-445b-92c0-e800a4b5e520",
+        "community_id": "a8ad21d6-7f22-49b5-92e3-45b42be8a073",
+        "name": "Study Session @ Main Quad",
+        "description": "Come join a brainy art jam for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "social"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-05-17T08:07:48.372801+00:00",
+        "end_time": "2025-05-17T12:07:48.372801+00:00",
+        "created_at": "2025-04-21T00:07:48.372816+00:00",
+        "creator_id": "e10049c8-28af-474d-8c77-4c1b4dac4506"
+    },
+    {
+        "id": "8567b05f-f59b-44a7-8ea8-8574f9d80623",
+        "community_id": "d80602c8-6a3b-425e-b6f1-eac87a87d276",
+        "name": "Study Session @ Campus Lawn",
+        "description": "Come join a brainy party for Stanford undergrads.",
+        "tags": [
+            "social",
+            "games"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-07T05:07:48.373101+00:00",
+        "end_time": "2025-04-07T06:07:48.373101+00:00",
+        "created_at": "2025-04-21T00:07:48.37314+00:00",
+        "creator_id": "b79c8bd2-b7c1-4a16-b0a1-7fc7491ed0b7"
+    },
+    {
+        "id": "c108b667-4b53-480e-a306-bc8069f0d628",
+        "community_id": "05fbae68-a7f1-461c-8354-b6b75968294b",
+        "name": "Art Jam @ Studio 2",
+        "description": "Come join a brainy party for Stanford undergrads.",
+        "tags": [
+            "party",
+            "music"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-03-24T01:07:48.373194+00:00",
+        "end_time": "2025-03-24T04:07:48.373194+00:00",
+        "created_at": "2025-04-21T00:07:48.373216+00:00",
+        "creator_id": "65a4fea5-a493-401b-aef2-b080b69360b5"
+    },
+    {
+        "id": "6ec4e520-200a-4282-8e3c-1a4bd9427f20",
+        "community_id": "6fe64deb-e271-411a-8758-792b0d3054d4",
+        "name": "Study Session @ Main Quad",
+        "description": "Come join a fun art jam for Stanford undergrads.",
+        "tags": [
+            "music",
+            "games"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-05-18T08:07:48.373244+00:00",
+        "end_time": "2025-05-18T10:07:48.373244+00:00",
+        "created_at": "2025-04-21T00:07:48.373264+00:00",
+        "creator_id": "6940d45e-3b5e-469e-9b06-c4f4cceee751"
+    },
+    {
+        "id": "10183f1f-038f-4758-ae56-1475af3b26a3",
+        "community_id": "c8d9166a-d643-4300-b26f-35e032dc6aa1",
+        "name": "Open Mic @ Main Quad",
+        "description": "Come join a chill hackathon for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "social"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-04-08T15:07:48.373289+00:00",
+        "end_time": "2025-04-08T19:07:48.373289+00:00",
+        "created_at": "2025-04-21T00:07:48.373311+00:00",
+        "creator_id": "03e81c9f-665f-4504-a921-b67e99910285"
+    },
+    {
+        "id": "3324745b-7536-4b10-817e-ec394e76f88f",
+        "community_id": "7cca4f6c-06dd-48bc-9466-ffe83013ce9e",
+        "name": "Party @ Main Quad",
+        "description": "Come join a chill study session for Stanford undergrads.",
+        "tags": [
+            "games",
+            "party"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-03-22T08:07:48.373347+00:00",
+        "end_time": "2025-03-22T10:07:48.373347+00:00",
+        "created_at": "2025-04-21T00:07:48.373364+00:00",
+        "creator_id": "a62cbee6-72bf-42b4-b01e-639280132926"
+    },
+    {
+        "id": "1a214bf1-e883-498e-a252-03ace5809b28",
+        "community_id": "4b2f5621-37b6-4fc0-bc58-06cd679bcfb1",
+        "name": "Coding Jam @ Tressider Patio",
+        "description": "Come join a high-energy open mic for Stanford undergrads.",
+        "tags": [
+            "party",
+            "social"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-04-09T22:07:48.373399+00:00",
+        "end_time": "2025-04-10T01:07:48.373399+00:00",
+        "created_at": "2025-04-21T00:07:48.373417+00:00",
+        "creator_id": "78d1964a-2030-4963-9e91-63f0b85afab3"
+    },
+    {
+        "id": "947aee30-bd46-4b5c-b5b5-fb5d3c47ef08",
+        "community_id": "2ff203ec-f2dd-4676-ab3b-c7c0396ac1e7",
+        "name": "Dance-Off @ Campus Lawn",
+        "description": "Come join a fun hackathon for Stanford undergrads.",
+        "tags": [
+            "games",
+            "creative"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-04-08T08:07:48.373441+00:00",
+        "end_time": "2025-04-08T11:07:48.373441+00:00",
+        "created_at": "2025-04-21T00:07:48.373462+00:00",
+        "creator_id": "ebe3ae4a-b4e8-4ba2-974d-22445b9d0c0a"
+    },
+    {
+        "id": "a5f307c1-a152-475b-972c-c345c6fa2c7c",
+        "community_id": "2e94da09-eba2-4e90-b9e7-be60178552c6",
+        "name": "Party @ Huang Basement",
+        "description": "Come join a brainy film night for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "social"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-04-04T11:07:48.373486+00:00",
+        "end_time": "2025-04-04T13:07:48.373486+00:00",
+        "created_at": "2025-04-21T00:07:48.373506+00:00",
+        "creator_id": "4d7ad588-c167-4a00-8a04-3003212d0be9"
+    },
+    {
+        "id": "a32bb359-0811-4aa1-a8f3-d98f3f06f45e",
+        "community_id": "dbf3d5ba-30f7-49ec-8eae-6f423a5cbe9c",
+        "name": "Dance-Off @ Dorm Common Room",
+        "description": "Come join a chill open mic for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "social"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-04-15T20:07:48.37353+00:00",
+        "end_time": "2025-04-16T00:07:48.37353+00:00",
+        "created_at": "2025-04-21T00:07:48.37355+00:00",
+        "creator_id": "739ba18b-2137-4d5b-bd17-e6a79ba79c00"
+    },
+    {
+        "id": "7d825490-5318-4313-bd7d-ab533de3c82c",
+        "community_id": "1ce1c628-3766-458e-bbad-f84bc70ae2c6",
+        "name": "Open Mic @ Science Lecture Hall",
+        "description": "Come join a high-energy film night for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "academic"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-04-03T16:07:48.373574+00:00",
+        "end_time": "2025-04-03T20:07:48.373574+00:00",
+        "created_at": "2025-04-21T00:07:48.373594+00:00",
+        "creator_id": "7875f15b-e6ab-492c-8329-b384f185be79"
+    },
+    {
+        "id": "168af6ab-91e3-42db-b8ea-aa2428119c40",
+        "community_id": "df67ea56-82d7-4d7f-88c5-a04d70ab2359",
+        "name": "Open Mic @ Tressider Patio",
+        "description": "Come join a high-energy coding jam for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "party"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-14T08:07:48.373617+00:00",
+        "end_time": "2025-04-14T10:07:48.373617+00:00",
+        "created_at": "2025-04-21T00:07:48.373638+00:00",
+        "creator_id": "c6089ae0-12e0-400c-aefd-29e134678653"
+    },
+    {
+        "id": "8b3cdf72-2352-4e17-9174-48ca45a1d530",
+        "community_id": "dff00b14-3c93-433d-99ab-20169b620304",
+        "name": "Coding Jam @ Tressider Patio",
+        "description": "Come join a fun film night for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "music"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-05-20T15:07:48.373663+00:00",
+        "end_time": "2025-05-20T17:07:48.373663+00:00",
+        "created_at": "2025-04-21T00:07:48.373683+00:00",
+        "creator_id": "c2fdb125-909a-4265-8308-24d8e0936d6e"
+    },
+    {
+        "id": "0ae44bda-293e-4fe8-b309-1701e420eb4d",
+        "community_id": "7d76ea14-4d83-4409-9703-b10c178b5dd1",
+        "name": "Seminar @ Green Library",
+        "description": "Come join a fun film night for Stanford undergrads.",
+        "tags": [
+            "music",
+            "creative"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-04-25T17:07:48.373708+00:00",
+        "end_time": "2025-04-25T19:07:48.373708+00:00",
+        "created_at": "2025-04-21T00:07:48.373735+00:00",
+        "creator_id": "69736a74-98ba-4769-a776-2fa1b7cad443"
+    },
+    {
+        "id": "d07a9199-4188-44a1-a98d-c098a54fba58",
+        "community_id": "5c32cbcf-5244-4c69-8f46-838bff8fe6d5",
+        "name": "Open Mic @ Campus Lawn",
+        "description": "Come join a creative art jam for Stanford undergrads.",
+        "tags": [
+            "games",
+            "party"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-10T09:07:48.373761+00:00",
+        "end_time": "2025-04-10T10:07:48.373761+00:00",
+        "created_at": "2025-04-21T00:07:48.373781+00:00",
+        "creator_id": "7df1ea37-9aec-4dfe-b087-cdf6b735f194"
+    },
+    {
+        "id": "ebd812fa-9cd4-4406-b007-7defbaabedbd",
+        "community_id": "5f8b1f4e-394b-45a2-9972-f0fa60a21c64",
+        "name": "Board Game Night @ Dorm Common Room",
+        "description": "Come join a chill board game night for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "creative"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-04-11T21:07:48.373805+00:00",
+        "end_time": "2025-04-11T22:07:48.373805+00:00",
+        "created_at": "2025-04-21T00:07:48.373826+00:00",
+        "creator_id": "f5324b08-0216-46e6-b0ad-c60b20b9e887"
+    },
+    {
+        "id": "c98ea6ff-1c9f-4818-ba47-cf6970ef15a1",
+        "community_id": "c8d9166a-d643-4300-b26f-35e032dc6aa1",
+        "name": "Party @ Dorm Common Room",
+        "description": "Come join a chill art jam for Stanford undergrads.",
+        "tags": [
+            "party",
+            "games"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-04-03T10:07:48.37385+00:00",
+        "end_time": "2025-04-03T13:07:48.37385+00:00",
+        "created_at": "2025-04-21T00:07:48.373871+00:00",
+        "creator_id": "4c7bc588-3961-48cb-b41b-caffcc69dfd0"
+    },
+    {
+        "id": "5365a5fe-88f8-4cd2-8f64-11b795442d84",
+        "community_id": "68c876ca-8781-4f95-9160-e78c5d5d24ea",
+        "name": "Party @ Main Quad",
+        "description": "Come join a creative study session for Stanford undergrads.",
+        "tags": [
+            "social",
+            "music"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-04-09T21:07:48.373894+00:00",
+        "end_time": "2025-04-09T22:07:48.373894+00:00",
+        "created_at": "2025-04-21T00:07:48.373914+00:00",
+        "creator_id": "2ff9436d-1a6a-4161-bec5-e887539952f3"
+    },
+    {
+        "id": "31333240-bd45-4c94-86e9-0c60d5d32039",
+        "community_id": "d604e620-e550-4332-828f-6860340792ba",
+        "name": "Coding Jam @ Huang Basement",
+        "description": "Come join a brainy party for Stanford undergrads.",
+        "tags": [
+            "party",
+            "social"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-04-07T17:07:48.373941+00:00",
+        "end_time": "2025-04-07T20:07:48.373941+00:00",
+        "created_at": "2025-04-21T00:07:48.373961+00:00",
+        "creator_id": "3f99ac39-dccc-4dd1-9136-c3ec365dfdd3"
+    },
+    {
+        "id": "ecce4a9c-3d85-4879-9514-b22ed79fa0b4",
+        "community_id": "2129f14f-303e-4d31-8865-11cadd841af8",
+        "name": "Art Jam @ Green Library",
+        "description": "Come join a high-energy open mic for Stanford undergrads.",
+        "tags": [
+            "social",
+            "music"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-05-05T12:07:48.373984+00:00",
+        "end_time": "2025-05-05T16:07:48.373984+00:00",
+        "created_at": "2025-04-21T00:07:48.374004+00:00",
+        "creator_id": "7acead7a-54de-46d7-9bff-64e1f2ceb3e2"
+    },
+    {
+        "id": "19bb606b-0aa3-4fdf-84c4-ddc89e18abfe",
+        "community_id": "f025227e-583f-4d67-bff2-9ba75ad79838",
+        "name": "Dance-Off @ Tressider Patio",
+        "description": "Come join a fun coding jam for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "tech"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-05-04T15:07:48.374028+00:00",
+        "end_time": "2025-05-04T19:07:48.374028+00:00",
+        "created_at": "2025-04-21T00:07:48.374049+00:00",
+        "creator_id": "bea18afe-c98d-49cf-b42d-a07bdf47d37a"
+    },
+    {
+        "id": "179fe86e-86c9-421c-ae88-e4d35af98407",
+        "community_id": "7d76ea14-4d83-4409-9703-b10c178b5dd1",
+        "name": "Party @ Tressider Patio",
+        "description": "Come join a chill open mic for Stanford undergrads.",
+        "tags": [
+            "party",
+            "tech"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-05-14T09:07:48.374073+00:00",
+        "end_time": "2025-05-14T12:07:48.374073+00:00",
+        "created_at": "2025-04-21T00:07:48.374094+00:00",
+        "creator_id": "c588c9a0-9819-4580-be2b-6608bcda48c4"
+    },
+    {
+        "id": "1ec9087e-7450-48d1-9f70-d2d4b088d307",
+        "community_id": "3c0dba12-d7c0-49e3-bf68-76d8af412e08",
+        "name": "Open Mic @ Studio 2",
+        "description": "Come join a brainy open mic for Stanford undergrads.",
+        "tags": [
+            "party",
+            "creative"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-04-25T08:07:48.37412+00:00",
+        "end_time": "2025-04-25T11:07:48.37412+00:00",
+        "created_at": "2025-04-21T00:07:48.374141+00:00",
+        "creator_id": "c588c9a0-9819-4580-be2b-6608bcda48c4"
+    },
+    {
+        "id": "63890b0e-546b-4096-b190-66cdf1d8e170",
+        "community_id": "4993b1cf-e519-426e-bce1-938f6ef78c07",
+        "name": "Hackathon @ Campus Lawn",
+        "description": "Come join a brainy party for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "music"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-05-06T12:07:48.374165+00:00",
+        "end_time": "2025-05-06T14:07:48.374165+00:00",
+        "created_at": "2025-04-21T00:07:48.374185+00:00",
+        "creator_id": "2f3af2f2-31d1-49da-b1d4-e9a1bbf8092e"
+    },
+    {
+        "id": "6089c8b4-0628-4f08-a594-854ed5c71e3d",
+        "community_id": "d512e2ad-f538-4a60-b400-83e04684d4c3",
+        "name": "Party @ Huang Basement",
+        "description": "Come join a chill art jam for Stanford undergrads.",
+        "tags": [
+            "games",
+            "music"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-04-11T00:07:48.374208+00:00",
+        "end_time": "2025-04-11T03:07:48.374208+00:00",
+        "created_at": "2025-04-21T00:07:48.374229+00:00",
+        "creator_id": "3de31bce-24bf-4ec1-b314-61a0f6c1ee63"
+    },
+    {
+        "id": "3ebc1f42-72c1-4ad1-8890-4cce713e2927",
+        "community_id": "c7fa1b92-f581-4bd0-b607-d22255629f0e",
+        "name": "Study Session @ Tressider Patio",
+        "description": "Come join a creative open mic for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "wellness"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-03-25T09:07:48.374252+00:00",
+        "end_time": "2025-03-25T12:07:48.374252+00:00",
+        "created_at": "2025-04-21T00:07:48.374272+00:00",
+        "creator_id": "cac2ff55-a5e5-4202-8c92-1e62202a3ae6"
+    },
+    {
+        "id": "b13e0f9a-6d17-4649-b8a1-8a7fa3946bbe",
+        "community_id": "9273f472-23f2-4157-9bfe-d9eb68ac7c3c",
+        "name": "Study Session @ Huang Basement",
+        "description": "Come join a brainy art jam for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "games"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-05-09T05:07:48.374295+00:00",
+        "end_time": "2025-05-09T08:07:48.374295+00:00",
+        "created_at": "2025-04-21T00:07:48.374315+00:00",
+        "creator_id": "28ae4077-9283-412f-bb93-5ad3f4ed8b9a"
+    },
+    {
+        "id": "80044090-fe69-4a6c-aa99-9633e01479ec",
+        "community_id": "2129f14f-303e-4d31-8865-11cadd841af8",
+        "name": "Coding Jam @ Campus Lawn",
+        "description": "Come join a creative dance-off for Stanford undergrads.",
+        "tags": [
+            "games",
+            "wellness"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-04-26T06:07:48.374338+00:00",
+        "end_time": "2025-04-26T09:07:48.374338+00:00",
+        "created_at": "2025-04-21T00:07:48.37436+00:00",
+        "creator_id": "ea2f1cc8-8ba2-4db7-99b6-a3aac633b63c"
+    },
+    {
+        "id": "a6738875-1939-4400-a1fb-28280bda82db",
+        "community_id": "574e722d-8948-4278-b244-2edc61b47b34",
+        "name": "Coding Jam @ Campus Lawn",
+        "description": "Come join a brainy party for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "academic"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-03-26T11:07:48.374384+00:00",
+        "end_time": "2025-03-26T13:07:48.374384+00:00",
+        "created_at": "2025-04-21T00:07:48.374405+00:00",
+        "creator_id": "1cd09489-6a9e-4a7a-b92b-2a1e6aaec88c"
+    },
+    {
+        "id": "7cbb3c0c-7f7a-410e-aef1-9e979ee515c9",
+        "community_id": "32cb3536-b863-42de-9560-098c3b2de667",
+        "name": "Dance-Off @ Green Library",
+        "description": "Come join a fun seminar for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "games"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-04-26T07:07:48.374428+00:00",
+        "end_time": "2025-04-26T09:07:48.374428+00:00",
+        "created_at": "2025-04-21T00:07:48.374449+00:00",
+        "creator_id": "584c32c4-231a-4ad2-9651-ddfde88bc77d"
+    },
+    {
+        "id": "8bf84daa-72be-4ece-8a62-bf575832c5f7",
+        "community_id": "d512e2ad-f538-4a60-b400-83e04684d4c3",
+        "name": "Seminar @ Green Library",
+        "description": "Come join a creative dance-off for Stanford undergrads.",
+        "tags": [
+            "social",
+            "games"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-03-26T05:07:48.374473+00:00",
+        "end_time": "2025-03-26T09:07:48.374473+00:00",
+        "created_at": "2025-04-21T00:07:48.374494+00:00",
+        "creator_id": "bc14aa5c-68ea-4641-a362-ea037435073b"
+    },
+    {
+        "id": "60a2dc5e-6682-4598-b496-f3e79565f9bf",
+        "community_id": "5c8cd743-f49e-4f3c-ba85-3188bf0ad5c4",
+        "name": "Open Mic @ Campus Lawn",
+        "description": "Come join a chill seminar for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "tech"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-05-11T13:07:48.374544+00:00",
+        "end_time": "2025-05-11T16:07:48.374544+00:00",
+        "created_at": "2025-04-21T00:07:48.374558+00:00",
+        "creator_id": "0aed7cfa-850c-4c7d-b5d5-fea72ea739b6"
+    },
+    {
+        "id": "569a107f-ef12-4ad5-bb87-81cbd03a5dc6",
+        "community_id": "1d52312e-fd8e-4654-90a3-b35556ca40ba",
+        "name": "Dance-Off @ Dorm Common Room",
+        "description": "Come join a creative art jam for Stanford undergrads.",
+        "tags": [
+            "music",
+            "tech"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-26T15:07:48.374583+00:00",
+        "end_time": "2025-04-26T18:07:48.374583+00:00",
+        "created_at": "2025-04-21T00:07:48.374602+00:00",
+        "creator_id": "03e81c9f-665f-4504-a921-b67e99910285"
+    },
+    {
+        "id": "053874f8-27dd-475f-9849-a38d6a38d2dd",
+        "community_id": "452b46f9-4610-4b34-bf53-584d3193d17d",
+        "name": "Study Session @ Green Library",
+        "description": "Come join a chill seminar for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "party"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-05-05T09:07:48.374622+00:00",
+        "end_time": "2025-05-05T11:07:48.374622+00:00",
+        "created_at": "2025-04-21T00:07:48.374635+00:00",
+        "creator_id": "490609c5-decc-413f-9f53-bf320739891b"
+    },
+    {
+        "id": "1a0b75e7-8e27-4562-b271-4978e4575af9",
+        "community_id": "c8d9166a-d643-4300-b26f-35e032dc6aa1",
+        "name": "Hackathon @ Tressider Patio",
+        "description": "Come join a fun open mic for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "academic"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-05-17T07:07:48.374654+00:00",
+        "end_time": "2025-05-17T08:07:48.374654+00:00",
+        "created_at": "2025-04-21T00:07:48.374666+00:00",
+        "creator_id": "1e5b4f54-43ec-4708-9127-758787f2ec23"
+    },
+    {
+        "id": "49b2c4a2-2596-4b44-8203-95a45925c68d",
+        "community_id": "2129f14f-303e-4d31-8865-11cadd841af8",
+        "name": "Hackathon @ Campus Lawn",
+        "description": "Come join a high-energy coding jam for Stanford undergrads.",
+        "tags": [
+            "games",
+            "academic"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-05-04T05:07:48.374684+00:00",
+        "end_time": "2025-05-04T08:07:48.374684+00:00",
+        "created_at": "2025-04-21T00:07:48.374696+00:00",
+        "creator_id": "a80a6691-c881-408e-a5b2-102fe38b779b"
+    },
+    {
+        "id": "506009e8-26a4-4aef-bd37-b10c3102fb74",
+        "community_id": "2129f14f-303e-4d31-8865-11cadd841af8",
+        "name": "Study Session @ Studio 2",
+        "description": "Come join a high-energy open mic for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "academic"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-03-30T13:07:48.374716+00:00",
+        "end_time": "2025-03-30T16:07:48.374716+00:00",
+        "created_at": "2025-04-21T00:07:48.374728+00:00",
+        "creator_id": "b2186744-b287-4c51-9c8c-f566a2c7ed82"
+    },
+    {
+        "id": "b3f2b119-537b-4e58-8ad8-f167bc88869d",
+        "community_id": "7d76ea14-4d83-4409-9703-b10c178b5dd1",
+        "name": "Seminar @ Main Quad",
+        "description": "Come join a fun open mic for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "social"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-29T13:07:48.374746+00:00",
+        "end_time": "2025-04-29T15:07:48.374746+00:00",
+        "created_at": "2025-04-21T00:07:48.374758+00:00",
+        "creator_id": "bd525174-70fb-4415-98b2-a1bd7afbdca2"
+    },
+    {
+        "id": "801dcbc0-74c5-42d4-a2ce-ce7e23868775",
+        "community_id": "d80602c8-6a3b-425e-b6f1-eac87a87d276",
+        "name": "Party @ Tressider Patio",
+        "description": "Come join a chill hackathon for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "academic"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-05-10T08:07:48.374776+00:00",
+        "end_time": "2025-05-10T11:07:48.374776+00:00",
+        "created_at": "2025-04-21T00:07:48.374789+00:00",
+        "creator_id": "baf17060-4d2e-4b31-a98d-208f86643360"
+    },
+    {
+        "id": "28ced291-f1d4-465e-be90-ec742cb03a65",
+        "community_id": "1016e15a-e708-4548-968d-8518f1a5543f",
+        "name": "Board Game Night @ Science Lecture Hall",
+        "description": "Come join a fun art jam for Stanford undergrads.",
+        "tags": [
+            "music",
+            "party"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-03-31T18:07:48.374822+00:00",
+        "end_time": "2025-03-31T22:07:48.374822+00:00",
+        "created_at": "2025-04-21T00:07:48.374842+00:00",
+        "creator_id": "1426cc1e-ad74-4480-bc5b-b8253eec8456"
+    },
+    {
+        "id": "c04bb97a-4129-4c0b-829f-1e186266288b",
+        "community_id": "d3a195c0-f2f5-497a-8e2c-cce1e64c8d50",
+        "name": "Hackathon @ Campus Lawn",
+        "description": "Come join a chill coding jam for Stanford undergrads.",
+        "tags": [
+            "social",
+            "games"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-04-12T15:07:48.374867+00:00",
+        "end_time": "2025-04-12T18:07:48.374867+00:00",
+        "created_at": "2025-04-21T00:07:48.374886+00:00",
+        "creator_id": "a4ec1fcb-3902-4cc0-b9c7-cff3ffc5b8f5"
+    },
+    {
+        "id": "4cc79955-cb4c-4c49-80fa-6d9bc579fe61",
+        "community_id": "df05b3c1-24a7-4331-b667-c7ee9ad6e92b",
+        "name": "Seminar @ Science Lecture Hall",
+        "description": "Come join a brainy coding jam for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "wellness"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-07T17:07:48.37491+00:00",
+        "end_time": "2025-04-07T20:07:48.37491+00:00",
+        "created_at": "2025-04-21T00:07:48.374931+00:00",
+        "creator_id": "3b84488a-1dd6-46e8-99b5-8763f7402cff"
+    },
+    {
+        "id": "93c071e4-662c-4010-92dd-703f842d3612",
+        "community_id": "11b3f0d4-5ace-46ff-8d56-65d414529c34",
+        "name": "Seminar @ Studio 2",
+        "description": "Come join a brainy party for Stanford undergrads.",
+        "tags": [
+            "games",
+            "music"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-03-26T14:07:48.374954+00:00",
+        "end_time": "2025-03-26T18:07:48.374954+00:00",
+        "created_at": "2025-04-21T00:07:48.374974+00:00",
+        "creator_id": "cac2ff55-a5e5-4202-8c92-1e62202a3ae6"
+    },
+    {
+        "id": "c5e25a08-811f-4f6d-ac89-84e1ec186cc2",
+        "community_id": "aa976cb7-d123-4bc6-8afd-5244d6c63b81",
+        "name": "Coding Jam @ Campus Lawn",
+        "description": "Come join a creative coding jam for Stanford undergrads.",
+        "tags": [
+            "music",
+            "games"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-03-29T18:07:48.374997+00:00",
+        "end_time": "2025-03-29T19:07:48.374997+00:00",
+        "created_at": "2025-04-21T00:07:48.375017+00:00",
+        "creator_id": "8c398f2d-3f42-4fc1-b570-3767ad1ed89a"
+    },
+    {
+        "id": "40ad7361-eee1-489a-a803-77155fabd51b",
+        "community_id": "32cb3536-b863-42de-9560-098c3b2de667",
+        "name": "Hackathon @ Studio 2",
+        "description": "Come join a fun dance-off for Stanford undergrads.",
+        "tags": [
+            "social",
+            "creative"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-05-03T19:07:48.37504+00:00",
+        "end_time": "2025-05-03T22:07:48.37504+00:00",
+        "created_at": "2025-04-21T00:07:48.37506+00:00",
+        "creator_id": "17214a5a-44b4-4c39-9490-a7af8fdb2646"
+    },
+    {
+        "id": "d3b87cd6-4dff-4cd7-a755-bd587302c500",
+        "community_id": "32cb3536-b863-42de-9560-098c3b2de667",
+        "name": "Coding Jam @ Dorm Common Room",
+        "description": "Come join a chill board game night for Stanford undergrads.",
+        "tags": [
+            "party",
+            "music"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-04-18T20:07:48.375083+00:00",
+        "end_time": "2025-04-18T23:07:48.375083+00:00",
+        "created_at": "2025-04-21T00:07:48.375103+00:00",
+        "creator_id": "d0c5b798-3ae7-4aaa-b061-0f536a5ff93e"
+    },
+    {
+        "id": "7bb56136-858e-4b56-845b-4c4a0224981f",
+        "community_id": "5c8cd743-f49e-4f3c-ba85-3188bf0ad5c4",
+        "name": "Party @ Main Quad",
+        "description": "Come join a high-energy seminar for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "games"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-04-16T15:07:48.375127+00:00",
+        "end_time": "2025-04-16T18:07:48.375127+00:00",
+        "created_at": "2025-04-21T00:07:48.375147+00:00",
+        "creator_id": "346639fe-b203-41cd-b429-5d1faf56f220"
+    },
+    {
+        "id": "f6c2b32d-2da5-4cf7-a444-ab39872732d4",
+        "community_id": "c7fa1b92-f581-4bd0-b607-d22255629f0e",
+        "name": "Dance-Off @ Green Library",
+        "description": "Come join a creative seminar for Stanford undergrads.",
+        "tags": [
+            "party",
+            "wellness"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-04-15T23:07:48.375171+00:00",
+        "end_time": "2025-04-16T02:07:48.375171+00:00",
+        "created_at": "2025-04-21T00:07:48.375194+00:00",
+        "creator_id": "3f99ac39-dccc-4dd1-9136-c3ec365dfdd3"
+    },
+    {
+        "id": "fceeb093-9f2c-470f-958f-c4c0f3e7b973",
+        "community_id": "5c8cd743-f49e-4f3c-ba85-3188bf0ad5c4",
+        "name": "Open Mic @ Main Quad",
+        "description": "Come join a creative open mic for Stanford undergrads.",
+        "tags": [
+            "social",
+            "tech"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-04-27T06:07:48.375236+00:00",
+        "end_time": "2025-04-27T07:07:48.375236+00:00",
+        "created_at": "2025-04-21T00:07:48.375255+00:00",
+        "creator_id": "ff8947a6-8ebb-479a-b25f-47d0468ef78d"
+    },
+    {
+        "id": "0913ace3-eccb-4f8b-a8fd-1b04ec4d4f3d",
+        "community_id": "452b46f9-4610-4b34-bf53-584d3193d17d",
+        "name": "Art Jam @ Dorm Common Room",
+        "description": "Come join a brainy coding jam for Stanford undergrads.",
+        "tags": [
+            "party",
+            "creative"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-05-05T01:07:48.375289+00:00",
+        "end_time": "2025-05-05T02:07:48.375289+00:00",
+        "created_at": "2025-04-21T00:07:48.375311+00:00",
+        "creator_id": "2c9afa97-9e08-4041-9611-671aa06ca9c6"
+    },
+    {
+        "id": "3b31331f-5e04-49ff-bf25-72dd52c4403c",
+        "community_id": "5c32cbcf-5244-4c69-8f46-838bff8fe6d5",
+        "name": "Party @ Green Library",
+        "description": "Come join a chill dance-off for Stanford undergrads.",
+        "tags": [
+            "music",
+            "academic"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-04-05T00:07:48.375347+00:00",
+        "end_time": "2025-04-05T02:07:48.375347+00:00",
+        "created_at": "2025-04-21T00:07:48.375368+00:00",
+        "creator_id": "660f5cb3-4993-4f04-8ae1-d64e6b65907d"
+    },
+    {
+        "id": "5f4d8a06-1ad8-4fa0-ac69-ef72e12b84d9",
+        "community_id": "1016e15a-e708-4548-968d-8518f1a5543f",
+        "name": "Study Session @ Dorm Common Room",
+        "description": "Come join a brainy open mic for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "academic"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-04-23T01:07:48.375391+00:00",
+        "end_time": "2025-04-23T04:07:48.375391+00:00",
+        "created_at": "2025-04-21T00:07:48.375411+00:00",
+        "creator_id": "43da8f07-1c17-47dd-a4ee-5f69f50b04e5"
+    },
+    {
+        "id": "6ec8baf8-50f3-4c02-b09d-918f551ff951",
+        "community_id": "df67ea56-82d7-4d7f-88c5-a04d70ab2359",
+        "name": "Board Game Night @ Huang Basement",
+        "description": "Come join a fun board game night for Stanford undergrads.",
+        "tags": [
+            "party",
+            "tech"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-03-29T13:07:48.375435+00:00",
+        "end_time": "2025-03-29T15:07:48.375435+00:00",
+        "created_at": "2025-04-21T00:07:48.375454+00:00",
+        "creator_id": "68ece80c-ba34-4c5d-981c-3604240968e3"
+    },
+    {
+        "id": "a1e10899-0372-41b7-9099-0630ee1994a2",
+        "community_id": "4b2f5621-37b6-4fc0-bc58-06cd679bcfb1",
+        "name": "Board Game Night @ Studio 2",
+        "description": "Come join a brainy art jam for Stanford undergrads.",
+        "tags": [
+            "games",
+            "wellness"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-04-01T13:07:48.37548+00:00",
+        "end_time": "2025-04-01T16:07:48.37548+00:00",
+        "created_at": "2025-04-21T00:07:48.375499+00:00",
+        "creator_id": "1943161e-807f-4c6c-84bb-d9cbc01fcd8f"
+    },
+    {
+        "id": "8c9d93f7-ed99-4c61-9117-e5d6b6860e17",
+        "community_id": "d3a195c0-f2f5-497a-8e2c-cce1e64c8d50",
+        "name": "Hackathon @ Studio 2",
+        "description": "Come join a high-energy open mic for Stanford undergrads.",
+        "tags": [
+            "games",
+            "social"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-30T18:07:48.375541+00:00",
+        "end_time": "2025-04-30T21:07:48.375541+00:00",
+        "created_at": "2025-04-21T00:07:48.375555+00:00",
+        "creator_id": "5eb54af2-22d3-4629-a564-23b3656c7757"
+    },
+    {
+        "id": "eff5ad25-9f21-4d8e-b1d3-66cb74f57ade",
+        "community_id": "a48721e4-97af-4dd7-818c-6918a0b8302a",
+        "name": "Art Jam @ Main Quad",
+        "description": "Come join a creative open mic for Stanford undergrads.",
+        "tags": [
+            "music",
+            "creative"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-04-20T11:07:48.375578+00:00",
+        "end_time": "2025-04-20T15:07:48.375578+00:00",
+        "created_at": "2025-04-21T00:07:48.375598+00:00",
+        "creator_id": "7142558b-dd57-4085-9798-e8c408a9f2a1"
+    },
+    {
+        "id": "a1a60aad-c3de-4250-a293-b53e21775a56",
+        "community_id": "dc50267a-c743-4456-a36e-9ba9bd8dd04e",
+        "name": "Study Session @ Tressider Patio",
+        "description": "Come join a fun dance-off for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "games"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-05-15T18:07:48.375621+00:00",
+        "end_time": "2025-05-15T21:07:48.375621+00:00",
+        "created_at": "2025-04-21T00:07:48.375635+00:00",
+        "creator_id": "ecad8f1a-3a8f-4d8b-bf0a-43cde9fcb589"
+    },
+    {
+        "id": "5a4d9e48-d8fb-4d2e-8e1f-8d312f807940",
+        "community_id": "5c32cbcf-5244-4c69-8f46-838bff8fe6d5",
+        "name": "Party @ Main Quad",
+        "description": "Come join a brainy seminar for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "party"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-25T00:07:48.37566+00:00",
+        "end_time": "2025-04-25T04:07:48.37566+00:00",
+        "created_at": "2025-04-21T00:07:48.375678+00:00",
+        "creator_id": "ac93da57-88c3-4a42-bf90-71711701b383"
+    },
+    {
+        "id": "7871e635-a07c-4f2e-8831-4485f135b70f",
+        "community_id": "b467a6bc-c212-44b2-9aa4-420335ed7143",
+        "name": "Hackathon @ Studio 2",
+        "description": "Come join a fun party for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "party"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-15T15:07:48.3757+00:00",
+        "end_time": "2025-04-15T18:07:48.3757+00:00",
+        "created_at": "2025-04-21T00:07:48.375714+00:00",
+        "creator_id": "7df1ea37-9aec-4dfe-b087-cdf6b735f194"
+    },
+    {
+        "id": "786a9434-3c47-48ba-b5f0-38541aace9ff",
+        "community_id": "83f25cfc-f55f-4fe0-8ba5-2aca05b865b0",
+        "name": "Dance-Off @ Green Library",
+        "description": "Come join a high-energy open mic for Stanford undergrads.",
+        "tags": [
+            "party",
+            "music"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-05-04T07:07:48.375737+00:00",
+        "end_time": "2025-05-04T09:07:48.375737+00:00",
+        "created_at": "2025-04-21T00:07:48.375749+00:00",
+        "creator_id": "660f5cb3-4993-4f04-8ae1-d64e6b65907d"
+    },
+    {
+        "id": "3d704337-83ef-41ed-9053-58449b4a2c23",
+        "community_id": "3c0dba12-d7c0-49e3-bf68-76d8af412e08",
+        "name": "Dance-Off @ Campus Lawn",
+        "description": "Come join a creative seminar for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "party"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-05-04T22:07:48.375771+00:00",
+        "end_time": "2025-05-05T02:07:48.375771+00:00",
+        "created_at": "2025-04-21T00:07:48.375787+00:00",
+        "creator_id": "41db141b-cece-4ce6-834d-7558fbc1224e"
+    },
+    {
+        "id": "a619543c-b9f3-43cd-b537-46a3627f8287",
+        "community_id": "df67ea56-82d7-4d7f-88c5-a04d70ab2359",
+        "name": "Art Jam @ Huang Basement",
+        "description": "Come join a chill coding jam for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "wellness"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-05-08T21:07:48.375806+00:00",
+        "end_time": "2025-05-08T23:07:48.375806+00:00",
+        "created_at": "2025-04-21T00:07:48.375824+00:00",
+        "creator_id": "343ba94d-016e-45f8-9320-6cd50e47bc21"
+    },
+    {
+        "id": "2f420a27-b758-4682-bc21-61c458ca51aa",
+        "community_id": "452b46f9-4610-4b34-bf53-584d3193d17d",
+        "name": "Film Night @ Campus Lawn",
+        "description": "Come join a brainy film night for Stanford undergrads.",
+        "tags": [
+            "party",
+            "creative"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-13T00:07:48.37585+00:00",
+        "end_time": "2025-04-13T01:07:48.37585+00:00",
+        "created_at": "2025-04-21T00:07:48.375867+00:00",
+        "creator_id": "65a4fea5-a493-401b-aef2-b080b69360b5"
+    },
+    {
+        "id": "698c8df8-d1db-432b-9976-2fc0f8c03f23",
+        "community_id": "7d76ea14-4d83-4409-9703-b10c178b5dd1",
+        "name": "Party @ Green Library",
+        "description": "Come join a brainy hackathon for Stanford undergrads.",
+        "tags": [
+            "party",
+            "social"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-03-31T06:07:48.375891+00:00",
+        "end_time": "2025-03-31T09:07:48.375891+00:00",
+        "created_at": "2025-04-21T00:07:48.375903+00:00",
+        "creator_id": "e18de60a-a267-41d5-892c-7681b11026a3"
+    },
+    {
+        "id": "6acba0d2-68bc-480d-a1b2-64446ae2f4f0",
+        "community_id": "b6d6a473-fe1d-4b68-961e-fe0a26c306bb",
+        "name": "Hackathon @ Main Quad",
+        "description": "Come join a fun film night for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "party"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-05-19T20:07:48.375922+00:00",
+        "end_time": "2025-05-19T21:07:48.375922+00:00",
+        "created_at": "2025-04-21T00:07:48.375942+00:00",
+        "creator_id": "76707a0e-fe5b-4575-b707-0aa0f2b275b9"
+    },
+    {
+        "id": "84caf8f5-9911-429e-8bff-325b38631f28",
+        "community_id": "5f8b1f4e-394b-45a2-9972-f0fa60a21c64",
+        "name": "Open Mic @ Huang Basement",
+        "description": "Come join a high-energy board game night for Stanford undergrads.",
+        "tags": [
+            "music",
+            "games"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-03-23T18:07:48.375963+00:00",
+        "end_time": "2025-03-23T22:07:48.375963+00:00",
+        "created_at": "2025-04-21T00:07:48.375976+00:00",
+        "creator_id": "f972f5cf-a702-4089-be00-c6200703cf07"
+    },
+    {
+        "id": "e42a4d51-dad4-4954-9087-2ba413f1419d",
+        "community_id": "efa9cda3-5c3c-4285-aa81-ebce5482c988",
+        "name": "Art Jam @ Studio 2",
+        "description": "Come join a fun party for Stanford undergrads.",
+        "tags": [
+            "games",
+            "party"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-05-17T08:07:48.375995+00:00",
+        "end_time": "2025-05-17T12:07:48.375995+00:00",
+        "created_at": "2025-04-21T00:07:48.37601+00:00",
+        "creator_id": "f302db34-5dcd-4975-ab47-bcde8e054e67"
+    },
+    {
+        "id": "5859109b-a181-4733-8027-dbd785bc5fb8",
+        "community_id": "7cca4f6c-06dd-48bc-9466-ffe83013ce9e",
+        "name": "Study Session @ Green Library",
+        "description": "Come join a fun film night for Stanford undergrads.",
+        "tags": [
+            "music",
+            "tech"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-04-22T10:07:48.376031+00:00",
+        "end_time": "2025-04-22T14:07:48.376031+00:00",
+        "created_at": "2025-04-21T00:07:48.376043+00:00",
+        "creator_id": "fb6be842-a265-4b99-8822-6728596b2a49"
+    },
+    {
+        "id": "3e5b7549-3248-4394-8647-c4c1d36ea211",
+        "community_id": "574e722d-8948-4278-b244-2edc61b47b34",
+        "name": "Study Session @ Green Library",
+        "description": "Come join a chill coding jam for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "tech"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-03-28T14:07:48.376063+00:00",
+        "end_time": "2025-03-28T15:07:48.376063+00:00",
+        "created_at": "2025-04-21T00:07:48.376075+00:00",
+        "creator_id": "5c617569-55f3-4ec0-8e04-5da6981e102c"
+    },
+    {
+        "id": "2a99e446-d103-4cae-a401-78775dda5ac6",
+        "community_id": "b788377f-ad90-49b0-95d0-610206e3f237",
+        "name": "Art Jam @ Science Lecture Hall",
+        "description": "Come join a creative art jam for Stanford undergrads.",
+        "tags": [
+            "party",
+            "wellness"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-04-05T18:07:48.376096+00:00",
+        "end_time": "2025-04-05T20:07:48.376096+00:00",
+        "created_at": "2025-04-21T00:07:48.376113+00:00",
+        "creator_id": "632f7fbd-d4df-4b85-a5cb-0e9c7f359aa5"
+    },
+    {
+        "id": "a12c7447-b524-4080-bdba-a35c6ffd2435",
+        "community_id": "1ce1c628-3766-458e-bbad-f84bc70ae2c6",
+        "name": "Hackathon @ Tressider Patio",
+        "description": "Come join a chill party for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "games"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-05-16T16:07:48.376133+00:00",
+        "end_time": "2025-05-16T18:07:48.376133+00:00",
+        "created_at": "2025-04-21T00:07:48.376145+00:00",
+        "creator_id": "e44172e9-e0e0-4155-b8bc-ee08fe285490"
+    },
+    {
+        "id": "e6c59826-81ae-45cc-ac41-ed3369e685fc",
+        "community_id": "452b46f9-4610-4b34-bf53-584d3193d17d",
+        "name": "Open Mic @ Tressider Patio",
+        "description": "Come join a high-energy board game night for Stanford undergrads.",
+        "tags": [
+            "wellness",
+            "party"
+        ],
+        "address": "Campus Lawn",
+        "start_time": "2025-04-13T08:07:48.376164+00:00",
+        "end_time": "2025-04-13T09:07:48.376164+00:00",
+        "created_at": "2025-04-21T00:07:48.376182+00:00",
+        "creator_id": "300450f9-7630-4c4f-86f1-b068bd95e131"
+    },
+    {
+        "id": "5adf51e2-6242-47ca-bed0-69933097b1d6",
+        "community_id": "5f8b1f4e-394b-45a2-9972-f0fa60a21c64",
+        "name": "Coding Jam @ Dorm Common Room",
+        "description": "Come join a creative hackathon for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "wellness"
+        ],
+        "address": "Science Lecture Hall",
+        "start_time": "2025-03-23T11:07:48.376202+00:00",
+        "end_time": "2025-03-23T13:07:48.376202+00:00",
+        "created_at": "2025-04-21T00:07:48.376215+00:00",
+        "creator_id": "11e3d8e2-3d98-4cd9-82f8-6c17394158ea"
+    },
+    {
+        "id": "8333d016-1c66-4e69-8bf7-eff7fb536d19",
+        "community_id": "1d52312e-fd8e-4654-90a3-b35556ca40ba",
+        "name": "Study Session @ Dorm Common Room",
+        "description": "Come join a brainy board game night for Stanford undergrads.",
+        "tags": [
+            "music",
+            "games"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-05-05T16:07:48.376244+00:00",
+        "end_time": "2025-05-05T18:07:48.376244+00:00",
+        "created_at": "2025-04-21T00:07:48.376261+00:00",
+        "creator_id": "a3f2c23e-4c34-4d59-8a96-358d05f7b483"
+    },
+    {
+        "id": "57ae50f4-6945-457a-b724-6fcfa2df7f14",
+        "community_id": "1016e15a-e708-4548-968d-8518f1a5543f",
+        "name": "Hackathon @ Main Quad",
+        "description": "Come join a creative coding jam for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "academic"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-04T17:07:48.376286+00:00",
+        "end_time": "2025-04-04T20:07:48.376286+00:00",
+        "created_at": "2025-04-21T00:07:48.376299+00:00",
+        "creator_id": "907d6029-b84a-4308-9409-c178b51c0299"
+    },
+    {
+        "id": "9f6ca6b6-bd50-475d-bcb8-f805813d4e54",
+        "community_id": "a48721e4-97af-4dd7-818c-6918a0b8302a",
+        "name": "Coding Jam @ Main Quad",
+        "description": "Come join a creative party for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "party"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-03-24T17:07:48.376338+00:00",
+        "end_time": "2025-03-24T19:07:48.376338+00:00",
+        "created_at": "2025-04-21T00:07:48.376357+00:00",
+        "creator_id": "4aa5dc00-47e3-4fa5-93cb-95563fba13fc"
+    },
+    {
+        "id": "299d2a49-8455-4ea0-9593-b3fda7f09f1f",
+        "community_id": "f025227e-583f-4d67-bff2-9ba75ad79838",
+        "name": "Dance-Off @ Green Library",
+        "description": "Come join a chill open mic for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "academic"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-04-02T16:07:48.376393+00:00",
+        "end_time": "2025-04-02T19:07:48.376393+00:00",
+        "created_at": "2025-04-21T00:07:48.376405+00:00",
+        "creator_id": "46cd9807-9e9d-4eed-8564-0eb5b0f53823"
+    },
+    {
+        "id": "0002108d-d2e7-4706-b605-6eba01e2b0a5",
+        "community_id": "2129f14f-303e-4d31-8865-11cadd841af8",
+        "name": "Hackathon @ Huang Basement",
+        "description": "Come join a creative open mic for Stanford undergrads.",
+        "tags": [
+            "party",
+            "academic"
+        ],
+        "address": "Dorm Common Room",
+        "start_time": "2025-05-03T07:07:48.3765+00:00",
+        "end_time": "2025-05-03T11:07:48.3765+00:00",
+        "created_at": "2025-04-21T00:07:48.376534+00:00",
+        "creator_id": "f95dcf98-876b-454e-a8a2-d601ed90a644"
+    },
+    {
+        "id": "1c33b328-5054-49a4-bf38-49e03fefb7b2",
+        "community_id": "68c876ca-8781-4f95-9160-e78c5d5d24ea",
+        "name": "Coding Jam @ Dorm Common Room",
+        "description": "Come join a high-energy board game night for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "party"
+        ],
+        "address": "Tressider Patio",
+        "start_time": "2025-05-17T02:07:48.376585+00:00",
+        "end_time": "2025-05-17T03:07:48.376585+00:00",
+        "created_at": "2025-04-21T00:07:48.376604+00:00",
+        "creator_id": "fbfc3983-53a2-4614-9229-4e13d14f2331"
+    },
+    {
+        "id": "f9e83ba7-de5d-4ad7-a0c9-227b2ab38168",
+        "community_id": "df2f884c-0816-4bf4-8485-dec8c5efbc75",
+        "name": "Board Game Night @ Green Library",
+        "description": "Come join a creative seminar for Stanford undergrads.",
+        "tags": [
+            "social",
+            "tech"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-05-03T20:07:48.376638+00:00",
+        "end_time": "2025-05-03T23:07:48.376638+00:00",
+        "created_at": "2025-04-21T00:07:48.376651+00:00",
+        "creator_id": "2b43f26c-a62d-4559-835c-0831c183de46"
+    },
+    {
+        "id": "25c2436d-44f2-4706-b752-6eea89f0e359",
+        "community_id": "11b3f0d4-5ace-46ff-8d56-65d414529c34",
+        "name": "Art Jam @ Studio 2",
+        "description": "Come join a creative board game night for Stanford undergrads.",
+        "tags": [
+            "academic",
+            "tech"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-19T23:07:48.376666+00:00",
+        "end_time": "2025-04-20T01:07:48.376666+00:00",
+        "created_at": "2025-04-21T00:07:48.376681+00:00",
+        "creator_id": "41be2569-ae71-406f-80e3-1f9b0ab32f9a"
+    },
+    {
+        "id": "411d1c6b-1977-468d-9c19-12b17185399a",
+        "community_id": "a7c7365f-cd57-415f-a9ab-223511ee64a9",
+        "name": "Hackathon @ Studio 2",
+        "description": "Come join a fun film night for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "social"
+        ],
+        "address": "Green Library",
+        "start_time": "2025-05-13T14:07:48.376719+00:00",
+        "end_time": "2025-05-13T16:07:48.376719+00:00",
+        "created_at": "2025-04-21T00:07:48.376731+00:00",
+        "creator_id": "2655095a-b97c-4add-81b2-8ec315812b1a"
+    },
+    {
+        "id": "b6d70f79-4133-4719-b9dd-fba0db86a323",
+        "community_id": "2ff203ec-f2dd-4676-ab3b-c7c0396ac1e7",
+        "name": "Hackathon @ Huang Basement",
+        "description": "Come join a fun dance-off for Stanford undergrads.",
+        "tags": [
+            "creative",
+            "music"
+        ],
+        "address": "Huang Basement",
+        "start_time": "2025-04-15T02:07:48.376758+00:00",
+        "end_time": "2025-04-15T04:07:48.376758+00:00",
+        "created_at": "2025-04-21T00:07:48.376772+00:00",
+        "creator_id": "f12afad8-0b8b-4fa7-8705-2d569c8879d4"
+    },
+    {
+        "id": "88025537-0ecd-4848-8ecc-c252913dd25b",
+        "community_id": "7b17f08f-1b5b-47e4-abe5-2483f8654cc7",
+        "name": "Dance-Off @ Main Quad",
+        "description": "Come join a chill coding jam for Stanford undergrads.",
+        "tags": [
+            "music",
+            "party"
+        ],
+        "address": "Main Quad",
+        "start_time": "2025-04-02T19:07:48.37679+00:00",
+        "end_time": "2025-04-02T20:07:48.37679+00:00",
+        "created_at": "2025-04-21T00:07:48.376803+00:00",
+        "creator_id": "f1298757-013d-4f21-9e79-e41453dcd0af"
+    },
+    {
+        "id": "9841a477-e175-491b-892c-acc7219178fc",
+        "community_id": "d512e2ad-f538-4a60-b400-83e04684d4c3",
+        "name": "Open Mic @ Campus Lawn",
+        "description": "Come join a high-energy study session for Stanford undergrads.",
+        "tags": [
+            "tech",
+            "creative"
+        ],
+        "address": "Studio 2",
+        "start_time": "2025-05-02T17:07:48.376822+00:00",
+        "end_time": "2025-05-02T18:07:48.376822+00:00",
+        "created_at": "2025-04-21T00:07:48.376834+00:00",
+        "creator_id": "f15ee965-18ae-42da-993c-887486dd0ec7"
+    }
+]

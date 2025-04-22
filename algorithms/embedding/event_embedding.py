@@ -3,6 +3,7 @@ import json
 import os
 from dotenv import load_dotenv
 from sentence_transformers import SentenceTransformer
+from tqdm import tqdm
 
 load_dotenv()
 
@@ -69,13 +70,11 @@ def prepopulate_embeddings():
         {
             **event, "embedding": generate_embedding(event)
         }
-        for event in events
+        for event in tqdm(events)
     ]
     response = supabase.table("events").upsert(events_embedded, on_conflict = "id").execute()
-    if response.error:
-        print("😭", response.error)
-    else:
-        print(" >> upsert successful.")
+    print(" >> upsert successful.")
 
-embed = generate_embedding(sample)
-print(embed)
+
+# ======================================== run everything here ===================================
+# prepopulate_embeddings()
